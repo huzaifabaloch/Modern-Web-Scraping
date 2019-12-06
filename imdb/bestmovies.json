@@ -1,0 +1,1482 @@
+[
+    {
+        "movie_name": "The Shawshank Redemption ",
+        "movie_year": "1994",
+        "duration": "2h 22min",
+        "genre": "Drama",
+        "rating": "9.3",
+        "movie_url": "https://www.imdb.com/title/tt0111161/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "One Flew Over the Cuckoo's Nest ",
+        "movie_year": "1975",
+        "duration": "2h 13min",
+        "genre": "Drama",
+        "rating": "8.7",
+        "movie_url": "https://www.imdb.com/title/tt0073486/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Lord of the Rings: The Two Towers ",
+        "movie_year": "2002",
+        "duration": "2h 59min",
+        "genre": "Adventure",
+        "rating": "8.7",
+        "movie_url": "https://www.imdb.com/title/tt0167261/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Dark Knight ",
+        "movie_year": "2008",
+        "duration": "2h 32min",
+        "genre": "Action",
+        "rating": "9.0",
+        "movie_url": "https://www.imdb.com/title/tt0468569/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Lord of the Rings: The Fellowship of the Ring ",
+        "movie_year": "2001",
+        "duration": "2h 58min",
+        "genre": "Adventure",
+        "rating": "8.8",
+        "movie_url": "https://www.imdb.com/title/tt0120737/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Forrest Gump ",
+        "movie_year": "1994",
+        "duration": "2h 22min",
+        "genre": "Drama",
+        "rating": "8.8",
+        "movie_url": "https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Fight Club ",
+        "movie_year": "1999",
+        "duration": "2h 19min",
+        "genre": "Drama",
+        "rating": "8.8",
+        "movie_url": "https://www.imdb.com/title/tt0137523/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Godfather ",
+        "movie_year": "1972",
+        "duration": "2h 55min",
+        "genre": "Crime",
+        "rating": "9.2",
+        "movie_url": "https://www.imdb.com/title/tt0068646/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "12 Angry Men ",
+        "movie_year": "1957",
+        "duration": "1h 36min",
+        "genre": "Drama",
+        "rating": "8.9",
+        "movie_url": "https://www.imdb.com/title/tt0050083/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Goodfellas ",
+        "movie_year": "1990",
+        "duration": "2h 26min",
+        "genre": "Biography",
+        "rating": "8.7",
+        "movie_url": "https://www.imdb.com/title/tt0099685/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Joker ",
+        "movie_year": "2019",
+        "duration": "2h 2min",
+        "genre": "Crime",
+        "rating": "8.7",
+        "movie_url": "https://www.imdb.com/title/tt7286456/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Schindler's List ",
+        "movie_year": "1993",
+        "duration": "3h 15min",
+        "genre": "Biography",
+        "rating": "8.9",
+        "movie_url": "https://www.imdb.com/title/tt0108052/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Pulp Fiction ",
+        "movie_year": "1994",
+        "duration": "2h 34min",
+        "genre": "Crime",
+        "rating": "8.9",
+        "movie_url": "https://www.imdb.com/title/tt0110912/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Godfather: Part II ",
+        "movie_year": "1974",
+        "duration": "3h 22min",
+        "genre": "Crime",
+        "rating": "9.0",
+        "movie_url": "https://www.imdb.com/title/tt0071562/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Lord of the Rings: The Return of the King ",
+        "movie_year": "2003",
+        "duration": "3h 21min",
+        "genre": "Adventure",
+        "rating": "8.9",
+        "movie_url": "https://www.imdb.com/title/tt0167260/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Django Unchained ",
+        "movie_year": "2012",
+        "duration": "2h 45min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt1853728/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Lives of Others ",
+        "movie_year": "2006",
+        "duration": "2h 17min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0405094/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Like Stars on Earth ",
+        "movie_year": "2007",
+        "duration": "2h 45min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0986264/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Green Mile ",
+        "movie_year": "1999",
+        "duration": "3h 9min",
+        "genre": "Crime",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0120689/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "3 Idiots ",
+        "movie_year": "2009",
+        "duration": "2h 50min",
+        "genre": "Comedy",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt1187043/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Capernaum ",
+        "movie_year": "2018",
+        "duration": "2h 6min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt8267604/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Dangal ",
+        "movie_year": "2016",
+        "duration": "2h 41min",
+        "genre": "Action",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt5074352/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "City Lights ",
+        "movie_year": "1931",
+        "duration": "1h 27min",
+        "genre": "Comedy",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0021749/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Your Name. ",
+        "movie_year": "2016",
+        "duration": "1h 46min",
+        "genre": "Animation",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt5311514/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Grave of the Fireflies ",
+        "movie_year": "1988",
+        "duration": "1h 29min",
+        "genre": "Animation",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0095327/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Modern Times ",
+        "movie_year": "1936",
+        "duration": "1h 27min",
+        "genre": "Comedy",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0027977/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Cinema Paradiso ",
+        "movie_year": "1988",
+        "duration": "2h 35min",
+        "genre": "Drama",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0095765/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Great Dictator ",
+        "movie_year": "1940",
+        "duration": "2h 5min",
+        "genre": "Comedy",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0032553/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Lion King ",
+        "movie_year": "1994",
+        "duration": "1h 28min",
+        "genre": "Animation",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0110357/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Léon: The Professional ",
+        "movie_year": "1994",
+        "duration": "1h 50min",
+        "genre": "Action",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0110413/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Casablanca ",
+        "movie_year": "1942",
+        "duration": "1h 42min",
+        "genre": "Drama",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0034583/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Gladiator ",
+        "movie_year": "2000",
+        "duration": "2h 35min",
+        "genre": "Action",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0172495/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Pianist ",
+        "movie_year": "2002",
+        "duration": "2h 30min",
+        "genre": "Biography",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0253474/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Prestige ",
+        "movie_year": "2006",
+        "duration": "2h 10min",
+        "genre": "Drama",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0482571/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Oldboy ",
+        "movie_year": "2003",
+        "duration": "2h",
+        "genre": "Action",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0364569/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "American History X ",
+        "movie_year": "1998",
+        "duration": "1h 59min",
+        "genre": "Drama",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0120586/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Intouchables ",
+        "movie_year": "2011",
+        "duration": "1h 52min",
+        "genre": "Biography",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt1675434/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Departed ",
+        "movie_year": "2006",
+        "duration": "2h 31min",
+        "genre": "Crime",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt0407887/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Incendies ",
+        "movie_year": "2010",
+        "duration": "2h 11min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt1255953/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Whiplash ",
+        "movie_year": "2014",
+        "duration": "1h 46min",
+        "genre": "Drama",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt2582802/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Downfall ",
+        "movie_year": "2004",
+        "duration": "2h 36min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0363163/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Rang De Basanti ",
+        "movie_year": "2006",
+        "duration": "2h 47min",
+        "genre": "Comedy",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0405508/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Warrior ",
+        "movie_year": "2011",
+        "duration": "2h 20min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt1291584/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Pan's Labyrinth ",
+        "movie_year": "2006",
+        "duration": "1h 58min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0457430/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Wolf of Wall Street ",
+        "movie_year": "2013",
+        "duration": "3h",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0993846/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Green Book ",
+        "movie_year": "2018",
+        "duration": "2h 10min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt6966692/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "V for Vendetta ",
+        "movie_year": "2005",
+        "duration": "2h 12min",
+        "genre": "Action",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0434409/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Inside Out ",
+        "movie_year": "2015",
+        "duration": "1h 35min",
+        "genre": "Animation",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt2096673/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Secret in Their Eyes ",
+        "movie_year": "2009",
+        "duration": "2h 9min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt1305806/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Gangs of Wasseypur ",
+        "movie_year": "2012",
+        "duration": "5h 21min",
+        "genre": "Action",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt1954470/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Metropolis ",
+        "movie_year": "1927",
+        "duration": "2h 33min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0017136/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Three Billboards Outside Ebbing, Missouri ",
+        "movie_year": "2017",
+        "duration": "1h 55min",
+        "genre": "Comedy",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt5027774/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Kid ",
+        "movie_year": "1921",
+        "duration": "1h 8min",
+        "genre": "Comedy",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0012349/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Citizen Kane ",
+        "movie_year": "1941",
+        "duration": "1h 59min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0033467/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Bicycle Thieves ",
+        "movie_year": "1948",
+        "duration": "1h 29min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0040522/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Double Indemnity ",
+        "movie_year": "1944",
+        "duration": "1h 47min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0036775/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Amores Perros ",
+        "movie_year": "2000",
+        "duration": "2h 34min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0245712/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Catch Me If You Can ",
+        "movie_year": "2002",
+        "duration": "2h 21min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0264464/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Chinatown ",
+        "movie_year": "1974",
+        "duration": "2h 10min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0071315/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Memories of Murder ",
+        "movie_year": "2003",
+        "duration": "2h 12min",
+        "genre": "Action",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0353969/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Infernal Affairs ",
+        "movie_year": "2002",
+        "duration": "1h 41min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0338564/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Munna Bhai M.B.B.S. ",
+        "movie_year": "2003",
+        "duration": "2h 36min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0374887/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Hotel Rwanda ",
+        "movie_year": "2004",
+        "duration": "2h 1min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0395169/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "There Will Be Blood ",
+        "movie_year": "2007",
+        "duration": "2h 38min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0469494/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "No Country for Old Men ",
+        "movie_year": "2007",
+        "duration": "2h 2min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0477348/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Mary and Max ",
+        "movie_year": "2009",
+        "duration": "1h 32min",
+        "genre": "Animation",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0978762/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Into the Wild ",
+        "movie_year": "2007",
+        "duration": "2h 28min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0758758/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Harry Potter and the Deathly Hallows: Part 2 ",
+        "movie_year": "2011",
+        "duration": "2h 10min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1201607/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Hachi: A Dog's Tale ",
+        "movie_year": "2009",
+        "duration": "1h 33min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1028532/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Spotlight ",
+        "movie_year": "2015",
+        "duration": "2h 9min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1895587/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Gran Torino ",
+        "movie_year": "2008",
+        "duration": "1h 56min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1205489/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Help ",
+        "movie_year": "2011",
+        "duration": "2h 26min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1454029/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Prisoners ",
+        "movie_year": "2013",
+        "duration": "2h 33min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1392214/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Million Dollar Baby ",
+        "movie_year": "2004",
+        "duration": "2h 12min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0405159/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Lagaan: Once Upon a Time in India ",
+        "movie_year": "2001",
+        "duration": "3h 44min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0169102/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Rush ",
+        "movie_year": "2013",
+        "duration": "2h 3min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt1979320/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Elephant Man ",
+        "movie_year": "1980",
+        "duration": "2h 4min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0080678/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Before Sunrise ",
+        "movie_year": "1995",
+        "duration": "1h 41min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0112471/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Butch Cassidy and the Sundance Kid ",
+        "movie_year": "1969",
+        "duration": "1h 50min",
+        "genre": "Biography",
+        "rating": "8.0",
+        "movie_url": "https://www.imdb.com/title/tt0064115/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Rebecca ",
+        "movie_year": "1940",
+        "duration": "2h 10min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0032976/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Before Sunset ",
+        "movie_year": "2004",
+        "duration": "1h 20min",
+        "genre": "Drama",
+        "rating": "8.0",
+        "movie_url": "https://www.imdb.com/title/tt0381681/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The General ",
+        "movie_year": "1926",
+        "duration": "1h 7min",
+        "genre": "Action",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0017925/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Castle in the Sky ",
+        "movie_year": "1986",
+        "duration": "2h 5min",
+        "genre": "Animation",
+        "rating": "8.0",
+        "movie_url": "https://www.imdb.com/title/tt0092067/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Sixth Sense ",
+        "movie_year": "1999",
+        "duration": "1h 47min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0167404/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Gone with the Wind ",
+        "movie_year": "1939",
+        "duration": "3h 58min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0031381/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Paris, Texas ",
+        "movie_year": "1984",
+        "duration": "2h 25min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0087884/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Mr. Smith Goes to Washington ",
+        "movie_year": "1939",
+        "duration": "2h 9min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0031679/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Wages of Fear ",
+        "movie_year": "1953",
+        "duration": "2h 11min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0046268/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "On the Waterfront ",
+        "movie_year": "1954",
+        "duration": "1h 48min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0047296/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Platoon ",
+        "movie_year": "1986",
+        "duration": "2h",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0091763/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Ben-Hur ",
+        "movie_year": "1959",
+        "duration": "3h 32min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0052618/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Battle of Algiers ",
+        "movie_year": "1966",
+        "duration": "2h 1min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0058946/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Cool Hand Luke ",
+        "movie_year": "1967",
+        "duration": "2h 7min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0061512/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Bridge on the River Kwai ",
+        "movie_year": "1957",
+        "duration": "2h 41min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0050212/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The 400 Blows ",
+        "movie_year": "1959",
+        "duration": "1h 39min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0053198/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Barry Lyndon ",
+        "movie_year": "1975",
+        "duration": "3h 5min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0072684/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Network ",
+        "movie_year": "1976",
+        "duration": "2h 1min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0074958/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Stand by Me ",
+        "movie_year": "1986",
+        "duration": "1h 29min",
+        "genre": "Adventure",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0092005/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Persona ",
+        "movie_year": "1966",
+        "duration": "1h 23min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0060827/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Rocky ",
+        "movie_year": "1976",
+        "duration": "2h",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0075148/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "La Haine ",
+        "movie_year": "1995",
+        "duration": "1h 38min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0113247/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Akira ",
+        "movie_year": "1988",
+        "duration": "2h 4min",
+        "genre": "Animation",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0094625/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Deer Hunter ",
+        "movie_year": "1978",
+        "duration": "3h 3min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0077416/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "In the Name of the Father ",
+        "movie_year": "1993",
+        "duration": "2h 13min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0107207/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Dead Poets Society ",
+        "movie_year": "1989",
+        "duration": "2h 8min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0097165/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Trainspotting ",
+        "movie_year": "1996",
+        "duration": "1h 33min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0117951/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Fargo ",
+        "movie_year": "1996",
+        "duration": "1h 38min",
+        "genre": "Crime",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0116282/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "In the Mood for Love ",
+        "movie_year": "2000",
+        "duration": "1h 38min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0118694/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Truman Show ",
+        "movie_year": "1998",
+        "duration": "1h 43min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0120382/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Legend of 1900 ",
+        "movie_year": "1998",
+        "duration": "2h 49min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt0120731/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "12 Years a Slave ",
+        "movie_year": "2013",
+        "duration": "2h 14min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt2024544/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "PK ",
+        "movie_year": "2014",
+        "duration": "2h 33min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt2338151/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Hacksaw Ridge ",
+        "movie_year": "2016",
+        "duration": "2h 19min",
+        "genre": "Biography",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt2119532/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Gone Girl ",
+        "movie_year": "2014",
+        "duration": "2h 29min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt2267998/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Wild Tales ",
+        "movie_year": "2014",
+        "duration": "2h 2min",
+        "genre": "Comedy",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt3011894/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Room ",
+        "movie_year": "2015",
+        "duration": "1h 58min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt3170832/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Logan ",
+        "movie_year": "2017",
+        "duration": "2h 17min",
+        "genre": "Action",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt3315342/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Handmaiden ",
+        "movie_year": "2016",
+        "duration": "2h 25min",
+        "genre": "Drama",
+        "rating": "8.1",
+        "movie_url": "https://www.imdb.com/title/tt4016934/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Red Shoes ",
+        "movie_year": "1948",
+        "duration": "2h 15min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0040725/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Gold Rush ",
+        "movie_year": "1925",
+        "duration": "1h 35min",
+        "genre": "Adventure",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0015864/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Passion of Joan of Arc ",
+        "movie_year": "1928",
+        "duration": "1h 54min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0019254/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Treasure of the Sierra Madre ",
+        "movie_year": "1948",
+        "duration": "2h 6min",
+        "genre": "Adventure",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0040897/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "White Heat ",
+        "movie_year": "1949",
+        "duration": "1h 54min",
+        "genre": "Action",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0042041/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Ace in the Hole ",
+        "movie_year": "1951",
+        "duration": "1h 51min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0043338/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "All About Eve ",
+        "movie_year": "1950",
+        "duration": "2h 18min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0042192/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Rashomon ",
+        "movie_year": "1950",
+        "duration": "1h 28min",
+        "genre": "Crime",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0042876/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Tokyo Story ",
+        "movie_year": "1953",
+        "duration": "2h 16min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0046438/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Yojimbo ",
+        "movie_year": "1961",
+        "duration": "1h 50min",
+        "genre": "Action",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0055630/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Wild Strawberries ",
+        "movie_year": "1957",
+        "duration": "1h 31min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0050986/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Seventh Seal ",
+        "movie_year": "1957",
+        "duration": "1h 36min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0050976/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Judgment at Nuremberg ",
+        "movie_year": "1961",
+        "duration": "2h 59min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0055031/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Great Escape ",
+        "movie_year": "1963",
+        "duration": "2h 52min",
+        "genre": "Adventure",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0057115/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Stalker ",
+        "movie_year": "1979",
+        "duration": "2h 42min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0079944/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Raging Bull ",
+        "movie_year": "1980",
+        "duration": "2h 9min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0081398/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Ran ",
+        "movie_year": "1985",
+        "duration": "2h 42min",
+        "genre": "Action",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0089881/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Heat ",
+        "movie_year": "1995",
+        "duration": "2h 50min",
+        "genre": "Crime",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0113277/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Unforgiven ",
+        "movie_year": "1992",
+        "duration": "2h 10min",
+        "genre": "Drama",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0105695/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Casino ",
+        "movie_year": "1995",
+        "duration": "2h 58min",
+        "genre": "Crime",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0112641/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Andrei Rublev ",
+        "movie_year": "1966",
+        "duration": "3h 25min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0060107/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "L.A. Confidential ",
+        "movie_year": "1997",
+        "duration": "2h 18min",
+        "genre": "Crime",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0119488/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "A Beautiful Mind ",
+        "movie_year": "2001",
+        "duration": "2h 15min",
+        "genre": "Biography",
+        "rating": "8.2",
+        "movie_url": "https://www.imdb.com/title/tt0268978/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Apartment ",
+        "movie_year": "1960",
+        "duration": "2h 5min",
+        "genre": "Comedy",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0053604/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Ikiru ",
+        "movie_year": "1952",
+        "duration": "2h 23min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0044741/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Lawrence of Arabia ",
+        "movie_year": "1962",
+        "duration": "3h 48min",
+        "genre": "Adventure",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0056172/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "A Clockwork Orange ",
+        "movie_year": "1971",
+        "duration": "2h 16min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0066921/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "To Kill a Mockingbird ",
+        "movie_year": "1962",
+        "duration": "2h 9min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0056592/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Das Boot ",
+        "movie_year": "1981",
+        "duration": "2h 29min",
+        "genre": "Adventure",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0082096/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Taxi Driver ",
+        "movie_year": "1976",
+        "duration": "1h 54min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0075314/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Scarface ",
+        "movie_year": "1983",
+        "duration": "2h 50min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0086250/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Come and See ",
+        "movie_year": "1985",
+        "duration": "2h 22min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0091251/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Sting ",
+        "movie_year": "1973",
+        "duration": "2h 9min",
+        "genre": "Comedy",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0070735/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Amadeus ",
+        "movie_year": "1984",
+        "duration": "2h 40min",
+        "genre": "Biography",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0086879/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Full Metal Jacket ",
+        "movie_year": "1987",
+        "duration": "1h 56min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0093058/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Braveheart ",
+        "movie_year": "1995",
+        "duration": "2h 58min",
+        "genre": "Biography",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0112573/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Reservoir Dogs ",
+        "movie_year": "1992",
+        "duration": "1h 39min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0105236/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Children of Heaven ",
+        "movie_year": "1997",
+        "duration": "1h 29min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0118849/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Good Will Hunting ",
+        "movie_year": "1997",
+        "duration": "2h 6min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0119217/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Bandit ",
+        "movie_year": "1996",
+        "duration": "2h 8min",
+        "genre": "Crime",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0116231/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "American Beauty ",
+        "movie_year": "1999",
+        "duration": "2h 2min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0169547/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Requiem for a Dream ",
+        "movie_year": "2000",
+        "duration": "1h 42min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0180093/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Eternal Sunshine of the Spotless Mind ",
+        "movie_year": "2004",
+        "duration": "1h 48min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0338013/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "A Separation ",
+        "movie_year": "2011",
+        "duration": "2h 3min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt1832382/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Irishman ",
+        "movie_year": "2019",
+        "duration": "3h 29min",
+        "genre": "Biography",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt1302006/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Inglourious Basterds ",
+        "movie_year": "2009",
+        "duration": "2h 33min",
+        "genre": "Adventure",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0361748/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "My Father and My Son ",
+        "movie_year": "2005",
+        "duration": "1h 48min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt0476735/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Sunset Blvd. ",
+        "movie_year": "1950",
+        "duration": "1h 50min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0043014/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Hunt ",
+        "movie_year": "2012",
+        "duration": "1h 55min",
+        "genre": "Drama",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt2106476/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Ford v Ferrari ",
+        "movie_year": "2019",
+        "duration": "2h 32min",
+        "genre": "Action",
+        "rating": "8.3",
+        "movie_url": "https://www.imdb.com/title/tt1950186/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Witness for the Prosecution ",
+        "movie_year": "1957",
+        "duration": "1h 56min",
+        "genre": "Crime",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0051201/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Paths of Glory ",
+        "movie_year": "1957",
+        "duration": "1h 28min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0050825/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Apocalypse Now ",
+        "movie_year": "1979",
+        "duration": "2h 27min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0078788/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Shining ",
+        "movie_year": "1980",
+        "duration": "2h 26min",
+        "genre": "Drama",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0081505/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "The Silence of the Lambs ",
+        "movie_year": "1991",
+        "duration": "1h 58min",
+        "genre": "Crime",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0102926/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "It's a Wonderful Life ",
+        "movie_year": "1946",
+        "duration": "2h 10min",
+        "genre": "Drama",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0038650/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Once Upon a Time in America ",
+        "movie_year": "1984",
+        "duration": "3h 49min",
+        "genre": "Crime",
+        "rating": "8.4",
+        "movie_url": "https://www.imdb.com/title/tt0087843/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Se7en ",
+        "movie_year": "1995",
+        "duration": "2h 7min",
+        "genre": "Crime",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0114369/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Life Is Beautiful ",
+        "movie_year": "1997",
+        "duration": "1h 56min",
+        "genre": "Comedy",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0118799/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Avengers: Endgame ",
+        "movie_year": "2019",
+        "duration": "3h 1min",
+        "genre": "Action",
+        "rating": "8.5",
+        "movie_url": "https://www.imdb.com/title/tt4154796/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Seven Samurai ",
+        "movie_year": "1954",
+        "duration": "3h 27min",
+        "genre": "Action",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0047478/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Saving Private Ryan ",
+        "movie_year": "1998",
+        "duration": "2h 49min",
+        "genre": "Drama",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0120815/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "City of God ",
+        "movie_year": "2002",
+        "duration": "2h 10min",
+        "genre": "Crime",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0317248/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Interstellar ",
+        "movie_year": "2014",
+        "duration": "2h 49min",
+        "genre": "Adventure",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt0816692/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Drishyam ",
+        "movie_year": "2013",
+        "duration": "2h 40min",
+        "genre": "Crime",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt3417422/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Harakiri ",
+        "movie_year": "1962",
+        "duration": "2h 13min",
+        "genre": "Drama",
+        "rating": "8.7",
+        "movie_url": "https://www.imdb.com/title/tt0056058/?ref_=adv_li_tt"
+    },
+    {
+        "movie_name": "Parasite ",
+        "movie_year": "2019",
+        "duration": "2h 12min",
+        "genre": "Comedy",
+        "rating": "8.6",
+        "movie_url": "https://www.imdb.com/title/tt6751668/?ref_=adv_li_tt"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "currency_pair": "BTC/RUR",
+        "volume_24h": "15 484 326.92 RUR"
+    },
+    {
+        "currency_pair": "ETH/RUR",
+        "volume_24h": "1 593 046.38 RUR"
+    },
+    {
+        "currency_pair": "USD/RUR",
+        "volume_24h": "386 186.06 RUR"
+    },
+    {
+        "currency_pair": "PZM/RUR",
+        "volume_24h": "105 636.11 RUR"
+    },
+    {
+        "currency_pair": "XRP/RUR",
+        "volume_24h": "13 149.72 RUR"
+    },
+    {
+        "currency_pair": "EL/RUR",
+        "volume_24h": "5 825.31 RUR"
+    },
+    {
+        "currency_pair": "YOC/RUR",
+        "volume_24h": "2 245.50 RUR"
+    },
+    {
+        "currency_pair": "KICK/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "ITI/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "LEO/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "SIB/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "BCH/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "HB/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "PIVX/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "THS/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "EMC/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "AMB/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "RLT/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "BIO/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "KRB/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "ITCM/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "DGB/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "DIME/RUR",
+        "volume_24h": "129.20 RUR"
+    },
+    {
+        "currency_pair": "PUT/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "ARC/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "MNC/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "LKE/RUR",
+        "volume_24h": "0.00 RUR"
+    },
+    {
+        "currency_pair": "MSCN/RUR",
+        "volume_24h": "926.50 RUR"
+    }
+]
