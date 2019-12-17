@@ -1,0 +1,3062 @@
+[
+    {
+        "id": 32678719,
+        "name": "Enjoy great views of the City in our Deluxe Room!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.758762,
+        "longitude": -73.988464,
+        "person_capacity": 2
+    },
+    {
+        "id": 21282152,
+        "name": "Pop House 4min walk to L train 12mins to Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "4 guests",
+        "latitude": 40.70031,
+        "longitude": -73.90828,
+        "person_capacity": 4
+    },
+    {
+        "id": 36732625,
+        "name": "Fantastic NYC 2 Bed, corner of Central Park! ★★★★★",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.7664,
+        "longitude": -73.98808,
+        "person_capacity": 4
+    },
+    {
+        "id": 20685563,
+        "name": "Bright & Airy in Highland Park",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.681732,
+        "longitude": -73.89518,
+        "person_capacity": 3
+    },
+    {
+        "id": 8985316,
+        "name": "Upper East close to the subway PERFECT LOCATION",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.761688,
+        "longitude": -73.962692,
+        "person_capacity": 2
+    },
+    {
+        "id": 27678634,
+        "name": "Brooklyn Chill & Explore",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.66872,
+        "longitude": -73.95343,
+        "person_capacity": 2
+    },
+    {
+        "id": 834190,
+        "name": "Manhattan Lux Loft.Like.Love.Lots.Look !",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.71921,
+        "longitude": -73.99116,
+        "person_capacity": 5
+    },
+    {
+        "id": 903972,
+        "name": "Great Bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82085,
+        "longitude": -73.94025,
+        "person_capacity": 2
+    },
+    {
+        "id": 32317602,
+        "name": "LARGE 2 Bedroom Midtown Manhattan Apartment!",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.76262,
+        "longitude": -73.98865,
+        "person_capacity": 4
+    },
+    {
+        "id": 1066769,
+        "name": "Clean Room, Central Location in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72046,
+        "longitude": -73.98773,
+        "person_capacity": 2
+    },
+    {
+        "id": 4750486,
+        "name": "Sun-drenched 1BD in Upper East Side",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79774,
+        "longitude": -73.93244,
+        "person_capacity": 2
+    },
+    {
+        "id": 1583556,
+        "name": "Exposed Brick Brownstone Apt!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72096,
+        "longitude": -74.07383,
+        "person_capacity": 2
+    },
+    {
+        "id": 779561,
+        "name": "FULLY Furnished Studio ♥ Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.73652,
+        "longitude": -74.00876,
+        "person_capacity": 2
+    },
+    {
+        "id": 17157306,
+        "name": "Modern Room 20 Minutes to Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.73802,
+        "longitude": -74.05699,
+        "person_capacity": 2
+    },
+    {
+        "id": 31221559,
+        "name": "Flatbush Hideaway - Quiet and close to subway!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.64445,
+        "longitude": -73.94943,
+        "person_capacity": 4
+    },
+    {
+        "id": 15718486,
+        "name": "Uptown Chic in Hoboken",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75376,
+        "longitude": -74.02635,
+        "person_capacity": 2
+    },
+    {
+        "id": 31711274,
+        "name": "Contemporary, Cozy  Retreat",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.6354,
+        "longitude": -73.90039,
+        "person_capacity": 2
+    },
+    {
+        "id": 3585452,
+        "name": "A Beautiful Brownstone Apartment",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.809,
+        "longitude": -73.94263,
+        "person_capacity": 4
+    },
+    {
+        "id": 32678720,
+        "name": "Great Room in the heart of Times Square!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.758762,
+        "longitude": -73.988464,
+        "person_capacity": 2
+    },
+    {
+        "id": 891117,
+        "name": "Private Bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82264,
+        "longitude": -73.94041,
+        "person_capacity": 2
+    },
+    {
+        "id": 27584413,
+        "name": "Chic Designer Home Guest Studio",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.73469,
+        "longitude": -73.85426,
+        "person_capacity": 2
+    },
+    {
+        "id": 16580,
+        "name": "Sunny, Modern room in East Village!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.72649,
+        "longitude": -73.97904,
+        "person_capacity": 1
+    },
+    {
+        "id": 565677,
+        "name": "LARGE SUNNY ROOM 15 MIN to NYC !",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72137,
+        "longitude": -74.04642,
+        "person_capacity": 2
+    },
+    {
+        "id": 20573006,
+        "name": "Cute Quirky Garden apt, NYC adjacent",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.71465,
+        "longitude": -74.0753,
+        "person_capacity": 4
+    },
+    {
+        "id": 19038815,
+        "name": "1 Block from Subway, Central Location, Great Price",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69144,
+        "longitude": -73.956,
+        "person_capacity": 2
+    },
+    {
+        "id": 593292,
+        "name": "Penthouse Studio East 50s Terrace",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75128,
+        "longitude": -73.97658,
+        "person_capacity": 2
+    },
+    {
+        "id": 6438456,
+        "name": "Private! entire studio, own entrance, private bath",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69528,
+        "longitude": -73.93079,
+        "person_capacity": 2
+    },
+    {
+        "id": 945297,
+        "name": "East Village Gay Friendly Dbl Room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72836,
+        "longitude": -73.98163,
+        "person_capacity": 2
+    },
+    {
+        "id": 10748040,
+        "name": "On Broadway, clean & comfy room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.82903,
+        "longitude": -73.94747,
+        "person_capacity": 1
+    },
+    {
+        "id": 9167889,
+        "name": "A Unique studio apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.80843,
+        "longitude": -73.94125,
+        "person_capacity": 3
+    },
+    {
+        "id": 4936023,
+        "name": "Nice studio in Midtown Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.75462,
+        "longitude": -73.96869,
+        "person_capacity": 3
+    },
+    {
+        "id": 17339881,
+        "name": "Brownstone Studio",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.68469,
+        "longitude": -73.947,
+        "person_capacity": 4
+    },
+    {
+        "id": 20092506,
+        "name": "Master room W OWN bathroom",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79074,
+        "longitude": -73.94232,
+        "person_capacity": 2
+    },
+    {
+        "id": 16627548,
+        "name": "\"Desirable Deal on The Park\"",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79798,
+        "longitude": -73.95052,
+        "person_capacity": 2
+    },
+    {
+        "id": 4226098,
+        "name": "W. 80's Central Park 3 Blocks Walk",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.78883,
+        "longitude": -73.97616,
+        "person_capacity": 2
+    },
+    {
+        "id": 2062476,
+        "name": "A room in private house - 20-35 minutes  from NYC",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.70946,
+        "longitude": -74.07432,
+        "person_capacity": 2
+    },
+    {
+        "id": 903947,
+        "name": "Beautiful Bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82124,
+        "longitude": -73.93838,
+        "person_capacity": 2
+    },
+    {
+        "id": 858695,
+        "name": "Very Large Private Room on quiet st",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.84058,
+        "longitude": -73.91382,
+        "person_capacity": 3
+    },
+    {
+        "id": 24288869,
+        "name": "Private Room+Beautiful Private Backyard Near City",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "3 guests",
+        "latitude": 40.69928,
+        "longitude": -73.90616,
+        "person_capacity": 3
+    },
+    {
+        "id": 33035945,
+        "name": "Private hotel room in the heart of Times Square",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.76089,
+        "longitude": -73.98709,
+        "person_capacity": 2
+    },
+    {
+        "id": 21620762,
+        "name": "1 Bedroom apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.78743,
+        "longitude": -73.95179,
+        "person_capacity": 2
+    },
+    {
+        "id": 521672,
+        "name": "Luxury Loft in Creative & Fun Apt",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71423,
+        "longitude": -73.95305,
+        "person_capacity": 2
+    },
+    {
+        "id": 4282178,
+        "name": "A Superhost SALE! DELUXE Room!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.69724,
+        "longitude": -73.94914,
+        "person_capacity": 3
+    },
+    {
+        "id": 3798941,
+        "name": "Williamsburg Penthouse Guestroom",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.711327,
+        "longitude": -73.953575,
+        "person_capacity": 2
+    },
+    {
+        "id": 14807332,
+        "name": "Duplex with Private Bathroom by Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.7658,
+        "longitude": -73.98795,
+        "person_capacity": 2
+    },
+    {
+        "id": 19638293,
+        "name": "Studio Apartment Minutes Away from Times Square",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77082,
+        "longitude": -74.01821,
+        "person_capacity": 2
+    },
+    {
+        "id": 7542471,
+        "name": "Luxe 1-Bedroom Flat Near Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.77616,
+        "longitude": -74.01414,
+        "person_capacity": 4
+    },
+    {
+        "id": 32676180,
+        "name": "Large Private Suite in the Heart of Midtown",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.748707,
+        "longitude": -73.991684,
+        "person_capacity": 4
+    },
+    {
+        "id": 15896529,
+        "name": "Bright room with private bathroom and rooftop",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.715763,
+        "longitude": -73.99012,
+        "person_capacity": 2
+    },
+    {
+        "id": 18526162,
+        "name": "Cool Hand Luke",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.74215,
+        "longitude": -73.92633,
+        "person_capacity": 4
+    },
+    {
+        "id": 506575,
+        "name": "Bronx Room Near Yankees + Harlem",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": null,
+        "guest_label": "4 guests",
+        "latitude": 40.84937,
+        "longitude": -73.91328,
+        "person_capacity": 4
+    },
+    {
+        "id": 12171671,
+        "name": "Interfaith Retreat Guest Rooms (Govinda)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.74971,
+        "longitude": -73.99533,
+        "person_capacity": 1
+    },
+    {
+        "id": 16912472,
+        "name": "Private East Village Bedroom &Roof Deck(manhattan)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72951,
+        "longitude": -73.98239,
+        "person_capacity": 2
+    },
+    {
+        "id": 1217318,
+        "name": "Williamsburg Penthouse Hideaway",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71024,
+        "longitude": -73.9517,
+        "person_capacity": 2
+    },
+    {
+        "id": 31567374,
+        "name": "Classic Brownstone Apt in a Historic Neighborhood",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72161,
+        "longitude": -74.07392,
+        "person_capacity": 2
+    },
+    {
+        "id": 749455,
+        "name": "Lovely Loft space near Central Park & Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77938,
+        "longitude": -73.98247,
+        "person_capacity": 2
+    },
+    {
+        "id": 35078177,
+        "name": "Posh Junior loft only 10 mins from Manhattan (NYC)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.7207,
+        "longitude": -74.06527,
+        "person_capacity": 3
+    },
+    {
+        "id": 8254405,
+        "name": "Classic Harlem --- Economy Room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82205,
+        "longitude": -73.9467,
+        "person_capacity": 2
+    },
+    {
+        "id": 13900417,
+        "name": "LUXURY HUGE 1BR DUPLEX NEAR TRAIN - PATIO OASIS!!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "6 guests",
+        "latitude": 40.68861,
+        "longitude": -73.94109,
+        "person_capacity": 6
+    },
+    {
+        "id": 5557097,
+        "name": "A private room in New York. One block from A (1)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.84898,
+        "longitude": -73.93642,
+        "person_capacity": 2
+    },
+    {
+        "id": 35570888,
+        "name": "Leon Hotel, King, Vibrant indie boutique",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71716,
+        "longitude": -73.99462,
+        "person_capacity": 2
+    },
+    {
+        "id": 7858468,
+        "name": "The Artist's Experience",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.76425,
+        "longitude": -73.99162,
+        "person_capacity": 1
+    },
+    {
+        "id": 158955,
+        "name": "PRIVATE and SUNNY Williamsburg Apt!",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.70867,
+        "longitude": -73.94284,
+        "person_capacity": 6
+    },
+    {
+        "id": 19121954,
+        "name": "Central Location, 1 Block from Subway, Great Price",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69117,
+        "longitude": -73.95643,
+        "person_capacity": 2
+    },
+    {
+        "id": 986727,
+        "name": "Manhattan's Best Deal!",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.80626,
+        "longitude": -73.94009,
+        "person_capacity": 6
+    },
+    {
+        "id": 17941851,
+        "name": "Tropical Getaway in Brooklyn at The Funky Loft",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.6974,
+        "longitude": -73.92487,
+        "person_capacity": 2
+    },
+    {
+        "id": 14070671,
+        "name": "Independent Basement Apt.2 bed  rooms, 1 Bath.",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.75479,
+        "longitude": -73.85776,
+        "person_capacity": 6
+    },
+    {
+        "id": 3513303,
+        "name": "Cute Room in Hip South Williamsburg",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.70848,
+        "longitude": -73.95323,
+        "person_capacity": 2
+    },
+    {
+        "id": 401039,
+        "name": "Big and Comfy room near Yankee1",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.84886,
+        "longitude": -73.91223,
+        "person_capacity": 4
+    },
+    {
+        "id": 133025,
+        "name": "Midtown cozy convenient",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.7463,
+        "longitude": -73.97926,
+        "person_capacity": 1
+    },
+    {
+        "id": 8070245,
+        "name": "Beautiful room close to Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.72627,
+        "longitude": -74.04993,
+        "person_capacity": 1
+    },
+    {
+        "id": 32678721,
+        "name": "Nice Room 1 block away from Times Square action!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.758762,
+        "longitude": -73.988464,
+        "person_capacity": 2
+    },
+    {
+        "id": 6958652,
+        "name": "Brooklyn Room Available [furnished]",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68928,
+        "longitude": -73.93153,
+        "person_capacity": 2
+    },
+    {
+        "id": 577324,
+        "name": "Clean Private Room Quick to Midtown and LGA!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.770302,
+        "longitude": -73.905563,
+        "person_capacity": 2
+    },
+    {
+        "id": 17376200,
+        "name": "Nice clean room in Brooklyn",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68469,
+        "longitude": -73.9375,
+        "person_capacity": 2
+    },
+    {
+        "id": 19179615,
+        "name": "HEART OF BROOKLYN, QUEEN BED, 1 BLOCK FROM SUBWAY!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.6908,
+        "longitude": -73.95507,
+        "person_capacity": 2
+    },
+    {
+        "id": 17992512,
+        "name": "Charming Suite in Historic Home",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.62919,
+        "longitude": -74.08107,
+        "person_capacity": 4
+    },
+    {
+        "id": 29960687,
+        "name": "Upper West Side Apartment near Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.785152,
+        "longitude": -73.975304,
+        "person_capacity": 2
+    },
+    {
+        "id": 12798739,
+        "name": "Good Deal! Cozy room Near NYC/EWR",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.678509,
+        "longitude": -74.200249,
+        "person_capacity": 2
+    },
+    {
+        "id": 11187722,
+        "name": "Midtown Manhattan Hideaway",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75577,
+        "longitude": -73.99466,
+        "person_capacity": 2
+    },
+    {
+        "id": 21244390,
+        "name": "Cozy room near Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75703,
+        "longitude": -73.99371,
+        "person_capacity": 2
+    },
+    {
+        "id": 9590519,
+        "name": "Fun Spacious Midtown Apt near U.N. & Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.75435,
+        "longitude": -73.96729,
+        "person_capacity": 5
+    },
+    {
+        "id": 13584582,
+        "name": "Stylish Midtown Retreat",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.75666,
+        "longitude": -73.99444,
+        "person_capacity": 3
+    },
+    {
+        "id": 22971913,
+        "name": ".Melinda's Place",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.66615,
+        "longitude": -73.95426,
+        "person_capacity": 3
+    },
+    {
+        "id": 30737373,
+        "name": "Cosy 2-bedroom apartment near Manhattan",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.77171,
+        "longitude": -74.02837,
+        "person_capacity": 4
+    },
+    {
+        "id": 22637100,
+        "name": "Private room in Queens, Ny # 1",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.700329,
+        "longitude": -73.889832,
+        "person_capacity": 1
+    },
+    {
+        "id": 21884096,
+        "name": "WeLive Wall Street -- Studio Double",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.70394,
+        "longitude": -74.00589,
+        "person_capacity": 3
+    },
+    {
+        "id": 20194665,
+        "name": "20min To Times Square, 10min LGA",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.78088,
+        "longitude": -73.90819,
+        "person_capacity": 2
+    },
+    {
+        "id": 11745621,
+        "name": "5 min walk to Times Square! Sleeps 4!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.76235,
+        "longitude": -73.98872,
+        "person_capacity": 4
+    },
+    {
+        "id": 15379480,
+        "name": "In ❤️ of West Village- Entire Apt",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.72868,
+        "longitude": -73.99901,
+        "person_capacity": 3
+    },
+    {
+        "id": 27598707,
+        "name": "Freehand New York - Artist Room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.740303,
+        "longitude": -73.985985,
+        "person_capacity": 1
+    },
+    {
+        "id": 11843397,
+        "name": "Room 1/2 block from Central Park!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79533,
+        "longitude": -73.94764,
+        "person_capacity": 2
+    },
+    {
+        "id": 17294950,
+        "name": "A Room with a View at The Funky Loft",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69554,
+        "longitude": -73.92458,
+        "person_capacity": 2
+    },
+    {
+        "id": 32922087,
+        "name": "Private Bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.84505,
+        "longitude": -73.93779,
+        "person_capacity": 2
+    },
+    {
+        "id": 1056185,
+        "name": "Sunny+Cozy Double bedroom in BKLYN!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.64851,
+        "longitude": -73.94667,
+        "person_capacity": 2
+    },
+    {
+        "id": 34489385,
+        "name": "Steps from Times Square and Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.762108,
+        "longitude": -73.982758,
+        "person_capacity": 2
+    },
+    {
+        "id": 2310594,
+        "name": "Studio Apt. in East Williamsburg",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.70972,
+        "longitude": -73.93864,
+        "person_capacity": 3
+    },
+    {
+        "id": 442636,
+        "name": "Private,Affordable, 20 min to NYC!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.70054,
+        "longitude": -73.90255,
+        "person_capacity": 5
+    },
+    {
+        "id": 4958223,
+        "name": "Beautiful Central Park View",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7962,
+        "longitude": -73.96156,
+        "person_capacity": 2
+    },
+    {
+        "id": 17711806,
+        "name": "Private Room & Private bathroom 2mins to subway!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "4 guests",
+        "latitude": 40.6778,
+        "longitude": -73.9135,
+        "person_capacity": 4
+    },
+    {
+        "id": 26362,
+        "name": "Times Square, Safe, Clean and Cozy!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 0.5,
+        "guest_label": "1 guest",
+        "latitude": 40.75527,
+        "longitude": -73.99291,
+        "person_capacity": 1
+    },
+    {
+        "id": 7269771,
+        "name": "CLEAN COZY & COMFY E. VILLAGE PAD",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7305,
+        "longitude": -73.98043,
+        "person_capacity": 2
+    },
+    {
+        "id": 23169714,
+        "name": "MODERN CONDO MINUTES TO NYC **FREE PARKING**",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.79523,
+        "longitude": -74.00388,
+        "person_capacity": 4
+    },
+    {
+        "id": 8899476,
+        "name": "ENTIRE Floor,PRIVATE Bath&Entrance! SUPERHOST :))",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 3.0,
+        "guest_label": "4 guests",
+        "latitude": 40.69699,
+        "longitude": -73.93387,
+        "person_capacity": 4
+    },
+    {
+        "id": 7160363,
+        "name": "LOVE Central Park Room Private Bath",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79632,
+        "longitude": -73.96225,
+        "person_capacity": 2
+    },
+    {
+        "id": 32844588,
+        "name": "2 Single Beds ★ Renovated ★ Next to Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.76035,
+        "longitude": -73.98587,
+        "person_capacity": 2
+    },
+    {
+        "id": 21475999,
+        "name": "Single Cabins (Chelsea, Manhattan, NYC)",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 3.0,
+        "guest_label": "1 guest",
+        "latitude": 40.7497,
+        "longitude": -73.99515,
+        "person_capacity": 1
+    },
+    {
+        "id": 12136198,
+        "name": "5th ave/Broadway near Empire State",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.74771,
+        "longitude": -73.98727,
+        "person_capacity": 2
+    },
+    {
+        "id": 32777169,
+        "name": "Beautiful Bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.84332,
+        "longitude": -73.93829,
+        "person_capacity": 2
+    },
+    {
+        "id": 26250185,
+        "name": "LYRIC - NEW Hotel Studio Suite with Kitchen",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.706505,
+        "longitude": -74.007774,
+        "person_capacity": 2
+    },
+    {
+        "id": 38694224,
+        "name": "Luxury 2 Bedroom With Mini Bar (NO AIRBNB FEES)",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "8 guests",
+        "latitude": 40.68362,
+        "longitude": -73.88334,
+        "person_capacity": 8
+    },
+    {
+        "id": 1983466,
+        "name": "A Cozy Creative Room for Nomads",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.80168,
+        "longitude": -73.96253,
+        "person_capacity": 1
+    },
+    {
+        "id": 22615640,
+        "name": "Attic Private Room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.79863,
+        "longitude": -74.00666,
+        "person_capacity": 3
+    },
+    {
+        "id": 8943358,
+        "name": "Loved by NYLocals Private Room SoHo",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72476,
+        "longitude": -74.00387,
+        "person_capacity": 2
+    },
+    {
+        "id": 25460977,
+        "name": "Fresh Studio in Brooklyn Townhouse",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.669701,
+        "longitude": -73.933342,
+        "person_capacity": 4
+    },
+    {
+        "id": 15043534,
+        "name": "Private room in Sunnyside 2 46th St",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.73912,
+        "longitude": -73.92075,
+        "person_capacity": 2
+    },
+    {
+        "id": 2631224,
+        "name": "Tasteful Room in Charming Two Bedroom Apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.823326,
+        "longitude": -73.9459,
+        "person_capacity": 1
+    },
+    {
+        "id": 769448,
+        "name": "Bedford Loft, Williamsburg Prime",
+        "no_of_bedroom": 3,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.7179,
+        "longitude": -73.96107,
+        "person_capacity": 6
+    },
+    {
+        "id": 1802584,
+        "name": "YOUR  PRIVATE COZY 1Br + 15min from Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.73747,
+        "longitude": -73.9248,
+        "person_capacity": 3
+    },
+    {
+        "id": 106363,
+        "name": "Bright Room With A Great River View",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "1 guest",
+        "latitude": 40.82773,
+        "longitude": -73.95231,
+        "person_capacity": 1
+    },
+    {
+        "id": 1980179,
+        "name": "Best of the East Village Cozy 2 Bedroom",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "7 guests",
+        "latitude": 40.729263,
+        "longitude": -73.98864,
+        "person_capacity": 7
+    },
+    {
+        "id": 6093352,
+        "name": "Sunny Room 15min from Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.7058,
+        "longitude": -73.93803,
+        "person_capacity": 3
+    },
+    {
+        "id": 16616853,
+        "name": "Brooklyn Brownstone - Chic Garden Apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.67864,
+        "longitude": -73.9444,
+        "person_capacity": 4
+    },
+    {
+        "id": 2825322,
+        "name": "nice room in bedstuy D",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68191,
+        "longitude": -73.95136,
+        "person_capacity": 2
+    },
+    {
+        "id": 3895007,
+        "name": "13 Minutes ❤ of NYC Times Square!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77163,
+        "longitude": -74.03088,
+        "person_capacity": 3
+    },
+    {
+        "id": 17255880,
+        "name": "Modern Rooftop Loft W/ Private Ensuite & Cityviews",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.6752,
+        "longitude": -73.93215,
+        "person_capacity": 2
+    },
+    {
+        "id": 20356506,
+        "name": "Beautiful Studio Right Next To Times Square!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7658,
+        "longitude": -73.99087,
+        "person_capacity": 2
+    },
+    {
+        "id": 6027345,
+        "name": "Newly renovated historic brownstone",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.68242,
+        "longitude": -73.94774,
+        "person_capacity": 2
+    },
+    {
+        "id": 31333074,
+        "name": "Miltons place",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.81438,
+        "longitude": -73.94782,
+        "person_capacity": 4
+    },
+    {
+        "id": 32676181,
+        "name": "Accessible Two Bedded Suite With Kitchen near MSG",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.748707,
+        "longitude": -73.991684,
+        "person_capacity": 4
+    },
+    {
+        "id": 17311213,
+        "name": "Backpackers Dream for 1 at The Funky Loft",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.69652,
+        "longitude": -73.92351,
+        "person_capacity": 1
+    },
+    {
+        "id": 6923359,
+        "name": "Visit Hudson Yard /NYC 42rd ST or Time Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.750729,
+        "longitude": -74.048889,
+        "person_capacity": 6
+    },
+    {
+        "id": 9594995,
+        "name": "Beautiful private 1BR apt in Harlem",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.82458,
+        "longitude": -73.95038,
+        "person_capacity": 4
+    },
+    {
+        "id": 63299,
+        "name": "BROOKLYN > Guest Room w/ Queen Bed in Williamsburg",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.707996,
+        "longitude": -73.952019,
+        "person_capacity": 1
+    },
+    {
+        "id": 14821603,
+        "name": "Convenient Bushwick Room for 1 or 2 Guests",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.70033,
+        "longitude": -73.93127,
+        "person_capacity": 2
+    },
+    {
+        "id": 5783899,
+        "name": "Live like a local! Queen size bed, private room.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79088,
+        "longitude": -73.94597,
+        "person_capacity": 2
+    },
+    {
+        "id": 34453822,
+        "name": "Centrally located near Times Square & Bryant Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.756432,
+        "longitude": -73.986473,
+        "person_capacity": 2
+    },
+    {
+        "id": 15222972,
+        "name": "Minimalistic 1 bedroom in the heart of Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71231,
+        "longitude": -73.99257,
+        "person_capacity": 2
+    },
+    {
+        "id": 24515524,
+        "name": "Affordable Modern/Luxury 2 Bedroom Apt",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.68771,
+        "longitude": -73.92281,
+        "person_capacity": 4
+    },
+    {
+        "id": 3659544,
+        "name": "Home Away from Home-Room in Midtown",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "2 guests",
+        "latitude": 40.765114,
+        "longitude": -73.994194,
+        "person_capacity": 2
+    },
+    {
+        "id": 657217,
+        "name": "Prime location near Central Park !!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7779,
+        "longitude": -73.95246,
+        "person_capacity": 2
+    },
+    {
+        "id": 20356040,
+        "name": "Sunny Spacious room near central park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.78828,
+        "longitude": -73.94385,
+        "person_capacity": 2
+    },
+    {
+        "id": 21884206,
+        "name": "WeLive Wall Street -- Studio Apartment",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.70426,
+        "longitude": -74.00711,
+        "person_capacity": 2
+    },
+    {
+        "id": 21738018,
+        "name": "2 Blocks from Times Square, Centrally Located!",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.76123,
+        "longitude": -73.99022,
+        "person_capacity": 5
+    },
+    {
+        "id": 22102108,
+        "name": "Great apartment in the heart of Manhattan!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.76028,
+        "longitude": -73.99014,
+        "person_capacity": 5
+    },
+    {
+        "id": 32678246,
+        "name": "Private and Spacious Queen Room Across From MSG",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.748707,
+        "longitude": -73.991684,
+        "person_capacity": 2
+    },
+    {
+        "id": 227715,
+        "name": "ROOM WITH KITCHENETTE #2",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.67855,
+        "longitude": -73.94949,
+        "person_capacity": 3
+    },
+    {
+        "id": 32749800,
+        "name": "Nice Private Room in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.84493,
+        "longitude": -73.93843,
+        "person_capacity": 2
+    },
+    {
+        "id": 3888752,
+        "name": "Bright, quiet, cozy 1BR by C Park!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77571,
+        "longitude": -73.97757,
+        "person_capacity": 2
+    },
+    {
+        "id": 19439682,
+        "name": "Entire Apartement in Queens!8min from Jfk",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.6839,
+        "longitude": -73.82444,
+        "person_capacity": 2
+    },
+    {
+        "id": 16014791,
+        "name": "Clean style apt. Central midtwn near Javits",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.75536,
+        "longitude": -73.9995,
+        "person_capacity": 4
+    },
+    {
+        "id": 19734492,
+        "name": "Beautiful Modern Brooklyn Gem",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.5,
+        "guest_label": "4 guests",
+        "latitude": 40.654869,
+        "longitude": -73.914497,
+        "person_capacity": 4
+    },
+    {
+        "id": 20772204,
+        "name": "BEST NYC DEAL! No cleaner fees!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.89811,
+        "longitude": -73.85543,
+        "person_capacity": 2
+    },
+    {
+        "id": 19387402,
+        "name": "Luxury Central Park Apartment close to everything",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.80369,
+        "longitude": -73.94857,
+        "person_capacity": 4
+    },
+    {
+        "id": 126443,
+        "name": "☆Massive DUPLEX☆ 2BR & 2BTH East Village 9+ Guests",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 2.0,
+        "guest_label": "9 guests",
+        "latitude": 40.72939,
+        "longitude": -73.98857,
+        "person_capacity": 9
+    },
+    {
+        "id": 20121308,
+        "name": "Spacious room w/Private Roof Deck in Shared Apt",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.78182,
+        "longitude": -73.97915,
+        "person_capacity": 3
+    },
+    {
+        "id": 10316551,
+        "name": "Brooklyn Queen Bed",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67843,
+        "longitude": -73.98393,
+        "person_capacity": 2
+    },
+    {
+        "id": 19567629,
+        "name": "East Village. Best Space/Location 1 Bdrm 1 Person",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.72714,
+        "longitude": -73.98279,
+        "person_capacity": 1
+    },
+    {
+        "id": 116940,
+        "name": "ROOM WITH A  KITCHENETTE",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67705,
+        "longitude": -73.94925,
+        "person_capacity": 2
+    },
+    {
+        "id": 16938284,
+        "name": "Beautiful Private Home -minutes from NYC!",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.5,
+        "guest_label": "8 guests",
+        "latitude": 40.71992,
+        "longitude": -74.06815,
+        "person_capacity": 8
+    },
+    {
+        "id": 16146708,
+        "name": "Cozy Well-Furnished Home in the Heart of Harlem",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.81749,
+        "longitude": -73.94315,
+        "person_capacity": 2
+    },
+    {
+        "id": 27735126,
+        "name": "Cozy Shared pl by Central Park(Female Guests Only)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.80033,
+        "longitude": -73.94201,
+        "person_capacity": 2
+    },
+    {
+        "id": 9675064,
+        "name": "Clean Quiet 2 Bedroom Apartment,  Private",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.63013,
+        "longitude": -73.90809,
+        "person_capacity": 4
+    },
+    {
+        "id": 3831,
+        "name": "Cozy Entire Floor of Brownstone",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.68514,
+        "longitude": -73.95976,
+        "person_capacity": 3
+    },
+    {
+        "id": 28227966,
+        "name": "Beautiful One Bed",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.65925,
+        "longitude": -73.89396,
+        "person_capacity": 3
+    },
+    {
+        "id": 10516381,
+        "name": "Original Cabin 22",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 0.0,
+        "guest_label": "1 guest",
+        "latitude": 40.72286,
+        "longitude": -73.99471,
+        "person_capacity": 1
+    },
+    {
+        "id": 20115612,
+        "name": "Spacious private room near central park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.79012,
+        "longitude": -73.94333,
+        "person_capacity": 3
+    },
+    {
+        "id": 11553403,
+        "name": "GREAT Bedroom in center of the Lower East Side!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71815,
+        "longitude": -73.98937,
+        "person_capacity": 2
+    },
+    {
+        "id": 8907184,
+        "name": "Williamsburg 3 Bedroom Loft",
+        "no_of_bedroom": 3,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.72227,
+        "longitude": -73.95788,
+        "person_capacity": 6
+    },
+    {
+        "id": 32805414,
+        "name": "Deluxe King in Times Square - Recently Renovated!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.76057,
+        "longitude": -73.98583,
+        "person_capacity": 2
+    },
+    {
+        "id": 17972518,
+        "name": "13 Minutes ❤ Midtown Manhattan!",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77009,
+        "longitude": -74.03095,
+        "person_capacity": 2
+    },
+    {
+        "id": 3004348,
+        "name": "Modern Stay in Brownstone Brooklyn",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.68426,
+        "longitude": -73.95054,
+        "person_capacity": 4
+    },
+    {
+        "id": 2119216,
+        "name": "Affordable, Private, Simple & Clean NYC Flat!",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.82029,
+        "longitude": -73.93861,
+        "person_capacity": 5
+    },
+    {
+        "id": 19204555,
+        "name": "Bedroom in renovated apartment -Astoria",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.76012,
+        "longitude": -73.9092,
+        "person_capacity": 1
+    },
+    {
+        "id": 21306544,
+        "name": "NYC @ Midtown ⚡ 12 Minutes!",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77177,
+        "longitude": -74.03516,
+        "person_capacity": 3
+    },
+    {
+        "id": 24541899,
+        "name": "Clean and Comfortable Place to Rest in NYC!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.80565,
+        "longitude": -73.95197,
+        "person_capacity": 2
+    },
+    {
+        "id": 934418,
+        "name": "Cozy 1-Bedroom Flat near Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.77993,
+        "longitude": -74.01796,
+        "person_capacity": 4
+    },
+    {
+        "id": 9734068,
+        "name": "1 BED ROOM ACCOMMODATION 4, 5 GUEST",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.79566,
+        "longitude": -73.9448,
+        "person_capacity": 5
+    },
+    {
+        "id": 19314589,
+        "name": "THE SMALL CHATEAU IN THE TREES",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72408,
+        "longitude": -73.98297,
+        "person_capacity": 2
+    },
+    {
+        "id": 5892693,
+        "name": "Large, sunny, private studio Apt 2F",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72232,
+        "longitude": -73.9434,
+        "person_capacity": 2
+    },
+    {
+        "id": 18602823,
+        "name": "Greatest Deal near EWR/NYC!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "1 guest",
+        "latitude": 40.678459,
+        "longitude": -74.200233,
+        "person_capacity": 1
+    },
+    {
+        "id": 15220,
+        "name": "Best Location in NYC! TIMES SQUARE!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 0.5,
+        "guest_label": "1 guest",
+        "latitude": 40.75531,
+        "longitude": -73.99293,
+        "person_capacity": 1
+    },
+    {
+        "id": 21306417,
+        "name": "NYC Times Square  13 Mins!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77099,
+        "longitude": -74.03275,
+        "person_capacity": 3
+    },
+    {
+        "id": 3543227,
+        "name": "Private Suite 15min to Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82193,
+        "longitude": -73.94499,
+        "person_capacity": 2
+    },
+    {
+        "id": 63360,
+        "name": "Safe cute near subway& Manhattan NY NY retro style",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.75384,
+        "longitude": -73.91433,
+        "person_capacity": 5
+    },
+    {
+        "id": 10010845,
+        "name": "Modern 1 bedroom 5min Cental Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.7993,
+        "longitude": -73.96642,
+        "person_capacity": 3
+    },
+    {
+        "id": 21645526,
+        "name": "The Webster",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.74564,
+        "longitude": -74.04415,
+        "person_capacity": 6
+    },
+    {
+        "id": 22361604,
+        "name": "Brooklyn Palace",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.656,
+        "longitude": -73.89719,
+        "person_capacity": 2
+    },
+    {
+        "id": 7857185,
+        "name": "Midtown great location private Apt",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.75399,
+        "longitude": -73.96967,
+        "person_capacity": 3
+    },
+    {
+        "id": 18076273,
+        "name": "Lovely & bright Brooklyn room close to train",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.7331,
+        "longitude": -73.95837,
+        "person_capacity": 1
+    },
+    {
+        "id": 9240346,
+        "name": "Charming Union Sq Studio w/Elevator",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.73318,
+        "longitude": -73.98449,
+        "person_capacity": 4
+    },
+    {
+        "id": 32676188,
+        "name": "Accessible Two Bedded Large One Bedroom in Midtown",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.748707,
+        "longitude": -73.991684,
+        "person_capacity": 6
+    },
+    {
+        "id": 35029766,
+        "name": "Watson Hotel, Standard Double Double",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.76864,
+        "longitude": -73.9864,
+        "person_capacity": 4
+    },
+    {
+        "id": 14378713,
+        "name": "Big Bed in Brooklyn Room; close to train",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.70019,
+        "longitude": -73.94098,
+        "person_capacity": 2
+    },
+    {
+        "id": 14594286,
+        "name": "On Broadway & 3 stops to Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.82957,
+        "longitude": -73.94535,
+        "person_capacity": 1
+    },
+    {
+        "id": 20933293,
+        "name": "Cozy Moroccan 1BR APT in the heart of Astoria",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.76759,
+        "longitude": -73.92463,
+        "person_capacity": 2
+    },
+    {
+        "id": 13941308,
+        "name": "# CENTRAL PARK - 3 stops away (32\"TV room)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.81922,
+        "longitude": -73.95276,
+        "person_capacity": 2
+    },
+    {
+        "id": 235951,
+        "name": "Stylish Studio with exclusive Terrace",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75348,
+        "longitude": -73.97065,
+        "person_capacity": 2
+    },
+    {
+        "id": 28616437,
+        "name": "NYC/NJ - MODERN & PRIVATE STUDIO 15min- EWR",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.70508,
+        "longitude": -74.09865,
+        "person_capacity": 4
+    },
+    {
+        "id": 22282585,
+        "name": "New Private studio-apartment",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.79576,
+        "longitude": -73.93735,
+        "person_capacity": 4
+    },
+    {
+        "id": 3799598,
+        "name": "★Unique two bedroom on 2nd Avenue★",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.72328,
+        "longitude": -73.98926,
+        "person_capacity": 5
+    },
+    {
+        "id": 34543762,
+        "name": "LYRIC - NEW Hotel Studio Suite Plus with Kitchen",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.706184,
+        "longitude": -74.007568,
+        "person_capacity": 2
+    },
+    {
+        "id": 4192400,
+        "name": "Private+Cozy Room w/ Superhost ($0 Cleaning Fee)!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.69233,
+        "longitude": -73.90579,
+        "person_capacity": 3
+    },
+    {
+        "id": 10482554,
+        "name": "Interfaith Retreat Guest Rooms (Mary)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.74973,
+        "longitude": -73.99515,
+        "person_capacity": 1
+    },
+    {
+        "id": 4199353,
+        "name": "NYC Times Square in 14 Minutes!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7695,
+        "longitude": -74.03375,
+        "person_capacity": 2
+    },
+    {
+        "id": 25805422,
+        "name": "Awesome clean & cozy space in Sunset Park!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.6467,
+        "longitude": -73.99679,
+        "person_capacity": 2
+    },
+    {
+        "id": 18898808,
+        "name": "BK's Finest Jack&Jill ShareRoom Close to Train/Bus",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "1 guest",
+        "latitude": 40.69674,
+        "longitude": -73.92972,
+        "person_capacity": 1
+    },
+    {
+        "id": 22955019,
+        "name": "15 minute bus to Times Square / 15 min to Newark",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "4 guests",
+        "latitude": 40.74978,
+        "longitude": -74.05163,
+        "person_capacity": 4
+    },
+    {
+        "id": 31960036,
+        "name": "Luxury 1 bedroom apartment right across New York.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.78952,
+        "longitude": -74.00609,
+        "person_capacity": 4
+    },
+    {
+        "id": 3208904,
+        "name": "Chic Designer’s Room & 2 Beds in Manhattan LES",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71254,
+        "longitude": -73.98535,
+        "person_capacity": 2
+    },
+    {
+        "id": 31071518,
+        "name": "Sofa bed in my big living room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.81425,
+        "longitude": -73.94549,
+        "person_capacity": 1
+    },
+    {
+        "id": 21594210,
+        "name": "It's a Beautiful Day in Bed-Stuy!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67794,
+        "longitude": -73.90639,
+        "person_capacity": 2
+    },
+    {
+        "id": 518960,
+        "name": "Cozy and quiet with secret garden",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.82823,
+        "longitude": -73.94691,
+        "person_capacity": 2
+    },
+    {
+        "id": 8213488,
+        "name": "Bed-Stuy Gem with Private Entrance",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68805,
+        "longitude": -73.95103,
+        "person_capacity": 2
+    },
+    {
+        "id": 27538237,
+        "name": "Grand Suite in Historic Brownstone",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.67166,
+        "longitude": -73.94674,
+        "person_capacity": 4
+    },
+    {
+        "id": 10043483,
+        "name": "Cozy Private Entrance & Bathroom",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77292,
+        "longitude": -73.95015,
+        "person_capacity": 2
+    },
+    {
+        "id": 3944233,
+        "name": "Huge space and MILLION DOLLAR VIEWs",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.75848,
+        "longitude": -73.98414,
+        "person_capacity": 1
+    },
+    {
+        "id": 157673,
+        "name": "Large  Loft Style  Studio  Space",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.68101,
+        "longitude": -73.94081,
+        "person_capacity": 4
+    },
+    {
+        "id": 11549920,
+        "name": "Luxe 1-Bedroom Loft Near Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.77752,
+        "longitude": -74.01549,
+        "person_capacity": 4
+    },
+    {
+        "id": 17777286,
+        "name": "Brownstone studio near central park",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.80623,
+        "longitude": -73.94047,
+        "person_capacity": 3
+    },
+    {
+        "id": 4268286,
+        "name": "Cozy brownstone bed & bath; pvt.ent",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.79608,
+        "longitude": -73.93819,
+        "person_capacity": 2
+    },
+    {
+        "id": 803584,
+        "name": "20 Min+ to Times Square- Sunny 2 BR",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.807686,
+        "longitude": -73.999084,
+        "person_capacity": 4
+    },
+    {
+        "id": 36033412,
+        "name": "138 Bowery, Standard Queen",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71819,
+        "longitude": -73.99403,
+        "person_capacity": 2
+    },
+    {
+        "id": 16586422,
+        "name": "White shared space with 0min to bus stop",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.69482,
+        "longitude": -73.96419,
+        "person_capacity": 1
+    },
+    {
+        "id": 14918238,
+        "name": "Beautiful Sunny Small Room",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68624,
+        "longitude": -73.95528,
+        "person_capacity": 2
+    },
+    {
+        "id": 17298736,
+        "name": "Cozy large 1 br In NYC Near LGA 30 mins to midtown",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75449,
+        "longitude": -73.88321,
+        "person_capacity": 2
+    },
+    {
+        "id": 32683430,
+        "name": "Single Bed Private Room-Perfect for Solo Travelers",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.75956,
+        "longitude": -73.987038,
+        "person_capacity": 1
+    },
+    {
+        "id": 755528,
+        "name": "PRIVATE BATH/TONS OF SUNLIGHT/SAFE",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.8584,
+        "longitude": -73.86969,
+        "person_capacity": 3
+    },
+    {
+        "id": 10038823,
+        "name": "Apartment for 5, Midtown Manhattan",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.75828,
+        "longitude": -73.96286,
+        "person_capacity": 5
+    },
+    {
+        "id": 74680,
+        "name": "One Bedroom Mini studio - Free WIFI",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77635,
+        "longitude": -73.93426,
+        "person_capacity": 3
+    },
+    {
+        "id": 21607905,
+        "name": "Lenox Suit Hotel Themed Studio",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.81865,
+        "longitude": -73.93684,
+        "person_capacity": 2
+    },
+    {
+        "id": 5567361,
+        "name": "Modern Apt - Vibrant Neighborhood!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.65507,
+        "longitude": -73.95824,
+        "person_capacity": 4
+    },
+    {
+        "id": 18503701,
+        "name": "Oriental Room in Upper Manhattan near Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.80584,
+        "longitude": -73.95272,
+        "person_capacity": 3
+    },
+    {
+        "id": 11146432,
+        "name": "Cozy top floor room at Brooklyn&Breakfast",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 4.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67963,
+        "longitude": -73.97054,
+        "person_capacity": 2
+    },
+    {
+        "id": 20957816,
+        "name": "NYC Times Square ⚡ 12 Minutes!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77043,
+        "longitude": -74.03422,
+        "person_capacity": 2
+    },
+    {
+        "id": 15725732,
+        "name": "2 Bedrooms apt,Modern New Renovated",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "8 guests",
+        "latitude": 40.63447,
+        "longitude": -74.02455,
+        "person_capacity": 8
+    },
+    {
+        "id": 11676984,
+        "name": "Luxury STUDIO * PVT Entrance * WOW",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77654,
+        "longitude": -73.94904,
+        "person_capacity": 3
+    },
+    {
+        "id": 21172762,
+        "name": "Spacious room near Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.75684,
+        "longitude": -73.99465,
+        "person_capacity": 4
+    },
+    {
+        "id": 9248049,
+        "name": "NYC Fantastic Apartment (very quiet & private bath",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.76637,
+        "longitude": -73.98342,
+        "person_capacity": 3
+    },
+    {
+        "id": 9408218,
+        "name": "Charming One Bed Room Apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.79417,
+        "longitude": -73.94331,
+        "person_capacity": 4
+    },
+    {
+        "id": 29592768,
+        "name": "Filomena’s",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77362,
+        "longitude": -73.91947,
+        "person_capacity": 2
+    },
+    {
+        "id": 7824945,
+        "name": "Small Room on the Upper West Side",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.80111,
+        "longitude": -73.96539,
+        "person_capacity": 1
+    },
+    {
+        "id": 2968070,
+        "name": "Near Times Square and Hell's Kitchen",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.75971,
+        "longitude": -73.98979,
+        "person_capacity": 3
+    },
+    {
+        "id": 10482237,
+        "name": "Interfaith Retreat Guest Rooms (Ganges)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.74751,
+        "longitude": -73.99483,
+        "person_capacity": 1
+    },
+    {
+        "id": 20171625,
+        "name": "Apt. & the City.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.74026,
+        "longitude": -73.92517,
+        "person_capacity": 4
+    },
+    {
+        "id": 8440352,
+        "name": "Private bedroom in great LES spot",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.71323,
+        "longitude": -73.9878,
+        "person_capacity": 2
+    },
+    {
+        "id": 17222454,
+        "name": "Sun Room in Family Home by LaGuardia Airport LGA",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "1 guest",
+        "latitude": 40.76367,
+        "longitude": -73.87088,
+        "person_capacity": 1
+    },
+    {
+        "id": 31085554,
+        "name": "Paradise in New York City 2",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 2.0,
+        "guest_label": "6 guests",
+        "latitude": 40.82269,
+        "longitude": -73.94969,
+        "person_capacity": 6
+    },
+    {
+        "id": 24022413,
+        "name": "New penthouse with Manhattan and park views!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.65478,
+        "longitude": -73.95264,
+        "person_capacity": 3
+    },
+    {
+        "id": 13039122,
+        "name": "Bk's Finest City life close to Transportation",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69499,
+        "longitude": -73.9283,
+        "person_capacity": 2
+    },
+    {
+        "id": 19641140,
+        "name": "Basement, 1 bus ride to and from TIMES SQUARE NYC",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.87403,
+        "longitude": -74.07303,
+        "person_capacity": 2
+    },
+    {
+        "id": 4950807,
+        "name": "Amazing Central Park view",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.79751,
+        "longitude": -73.96168,
+        "person_capacity": 3
+    },
+    {
+        "id": 32828462,
+        "name": "1 - Private room in Yogi's Midtown shared space",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.74056,
+        "longitude": -73.98077,
+        "person_capacity": 2
+    },
+    {
+        "id": 16677866,
+        "name": "Nice Private Studio Apartment",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.79747,
+        "longitude": -73.93559,
+        "person_capacity": 4
+    },
+    {
+        "id": 16313932,
+        "name": "Micro Room A",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.762459,
+        "longitude": -73.994728,
+        "person_capacity": 1
+    },
+    {
+        "id": 32678725,
+        "name": "Enjoy the Times Square experience with the family!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.758762,
+        "longitude": -73.988464,
+        "person_capacity": 4
+    },
+    {
+        "id": 9013280,
+        "name": "Luxury studio Bedstuy Brooklyn",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68757,
+        "longitude": -73.93032,
+        "person_capacity": 2
+    },
+    {
+        "id": 29936587,
+        "name": "Bright and stylish bedroom 20min from Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "4 guests",
+        "latitude": 40.81167,
+        "longitude": -73.92729,
+        "person_capacity": 4
+    },
+    {
+        "id": 89621,
+        "name": "WONDERFUL, COMFORTABLE STUDIO",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.68048,
+        "longitude": -73.94911,
+        "person_capacity": 3
+    },
+    {
+        "id": 13941973,
+        "name": "Affordable room near of LGA airport in Queens.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.74071,
+        "longitude": -73.89186,
+        "person_capacity": 2
+    },
+    {
+        "id": 14967994,
+        "name": "Seaview Studio in  Brooklyn New york.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.63241,
+        "longitude": -73.89367,
+        "person_capacity": 2
+    },
+    {
+        "id": 35085826,
+        "name": "A Simple Studio.  JFK about 5miles.",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.693867,
+        "longitude": -73.768593,
+        "person_capacity": 3
+    },
+    {
+        "id": 18958355,
+        "name": "Delightful LIC Brownstone",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.74617,
+        "longitude": -73.94645,
+        "person_capacity": 2
+    },
+    {
+        "id": 31994,
+        "name": "Room with En Suite Bathroom & Deck",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.688175,
+        "longitude": -73.963829,
+        "person_capacity": 2
+    },
+    {
+        "id": 14373756,
+        "name": "ENTIRE FLOR :) PRIVATE entrance&full bathroom! :DD",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.69903,
+        "longitude": -73.93021,
+        "person_capacity": 3
+    },
+    {
+        "id": 18095883,
+        "name": "Charming 2 Bedroom home close to Airport and City",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "8 guests",
+        "latitude": 40.76745,
+        "longitude": -73.87915,
+        "person_capacity": 8
+    },
+    {
+        "id": 13879965,
+        "name": "Private Micro Room 2",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.763271,
+        "longitude": -73.994812,
+        "person_capacity": 1
+    },
+    {
+        "id": 28628566,
+        "name": "Hoboken Apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.74359,
+        "longitude": -74.04105,
+        "person_capacity": 2
+    },
+    {
+        "id": 15223434,
+        "name": "new sunshine room in chinatown train F is around",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.7135,
+        "longitude": -73.99121,
+        "person_capacity": 2
+    },
+    {
+        "id": 9824463,
+        "name": "BK's Finest Courtyard Rm close to transportation",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69452,
+        "longitude": -73.9284,
+        "person_capacity": 2
+    },
+    {
+        "id": 19271040,
+        "name": "Modern Beautiful Bedford Stuyvesant Brownstone",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.6861,
+        "longitude": -73.93997,
+        "person_capacity": 6
+    },
+    {
+        "id": 15407459,
+        "name": "Eco friendly, Jersey City, 15 min to NYC - Room 2",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 3.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72965,
+        "longitude": -74.06742,
+        "person_capacity": 2
+    },
+    {
+        "id": 15858847,
+        "name": "Classic Brownstone, a Private Studio Apartment",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.808155,
+        "longitude": -73.954872,
+        "person_capacity": 5
+    },
+    {
+        "id": 12024386,
+        "name": "New2BR/PreWar building EASY access to NYC!!",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "7 guests",
+        "latitude": 40.72455,
+        "longitude": -74.07674,
+        "person_capacity": 7
+    },
+    {
+        "id": 13620412,
+        "name": "Cozy, private bed & private bath",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.68499,
+        "longitude": -73.94433,
+        "person_capacity": 2
+    },
+    {
+        "id": 7837816,
+        "name": "Bright, Cozy room in Brooklyn",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69695,
+        "longitude": -73.95951,
+        "person_capacity": 2
+    },
+    {
+        "id": 20819116,
+        "name": "My Little Cottage",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.75015,
+        "longitude": -73.85961,
+        "person_capacity": 3
+    },
+    {
+        "id": 21609205,
+        "name": "It's Always Sunny in Bed-Stuy!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67653,
+        "longitude": -73.90814,
+        "person_capacity": 2
+    },
+    {
+        "id": 4152752,
+        "name": "Location is Everything. And Quiet Too!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.76444,
+        "longitude": -73.98965,
+        "person_capacity": 2
+    },
+    {
+        "id": 40083618,
+        "name": "A Brooklyn Stay",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.66417,
+        "longitude": -73.95307,
+        "person_capacity": 2
+    },
+    {
+        "id": 6037761,
+        "name": "Spacious Room in East Village/NoHo",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.727367,
+        "longitude": -73.989357,
+        "person_capacity": 3
+    },
+    {
+        "id": 11020169,
+        "name": "Luxurious  one bedroom apartment in a quiet area.",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.87223,
+        "longitude": -73.84335,
+        "person_capacity": 2
+    },
+    {
+        "id": 6812924,
+        "name": "Charming 1BD- 10 min to Manhattan & Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.76219,
+        "longitude": -73.91963,
+        "person_capacity": 4
+    },
+    {
+        "id": 29457275,
+        "name": "Heart of Hell's Kitchen Private Mezzanine",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.76199,
+        "longitude": -73.99253,
+        "person_capacity": 1
+    },
+    {
+        "id": 16533105,
+        "name": "Queen bed-Close to Columbia U & Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.80227,
+        "longitude": -73.95523,
+        "person_capacity": 3
+    },
+    {
+        "id": 1399448,
+        "name": "★HUGE beautiful E. Villager 2nd Av★",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "5 guests",
+        "latitude": 40.72463,
+        "longitude": -73.98938,
+        "person_capacity": 5
+    },
+    {
+        "id": 2451647,
+        "name": "Bright, Modern Room in East Village!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "1 guest",
+        "latitude": 40.72598,
+        "longitude": -73.97778,
+        "person_capacity": 1
+    },
+    {
+        "id": 11738831,
+        "name": "Spacious 1 BDRM near Central Park",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.77559,
+        "longitude": -73.95263,
+        "person_capacity": 3
+    },
+    {
+        "id": 29965481,
+        "name": "Cottage by the Water",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.5,
+        "guest_label": "5 guests",
+        "latitude": 40.656532,
+        "longitude": -73.832001,
+        "person_capacity": 5
+    },
+    {
+        "id": 10058582,
+        "name": "Private Room Minutes from NYC/EWR",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "2 guests",
+        "latitude": 40.678516,
+        "longitude": -74.200325,
+        "person_capacity": 2
+    },
+    {
+        "id": 3441930,
+        "name": "Times Square Brand New Place",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.75842,
+        "longitude": -73.99389,
+        "person_capacity": 2
+    },
+    {
+        "id": 8880999,
+        "name": "NicE Room  with Private Bathroom BK:) SUPERHOST :)",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 3.0,
+        "guest_label": "3 guests",
+        "latitude": 40.69883,
+        "longitude": -73.93364,
+        "person_capacity": 3
+    },
+    {
+        "id": 15436871,
+        "name": "Entire Spacious 2 Bed Apt on UWS",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.80173,
+        "longitude": -73.96175,
+        "person_capacity": 6
+    },
+    {
+        "id": 30293282,
+        "name": "It's a Delightful Day in Bed-Stuy!",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.67627,
+        "longitude": -73.90795,
+        "person_capacity": 2
+    },
+    {
+        "id": 29124476,
+        "name": "Lovely private bedroom in Manhattan",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.86565,
+        "longitude": -73.92348,
+        "person_capacity": 2
+    },
+    {
+        "id": 2674267,
+        "name": "Comfy UWS Room near Central Park & Times Square",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.77848,
+        "longitude": -73.98334,
+        "person_capacity": 2
+    },
+    {
+        "id": 1844088,
+        "name": "Renovated Studio Midtown East",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "4 guests",
+        "latitude": 40.7525,
+        "longitude": -73.96492,
+        "person_capacity": 4
+    },
+    {
+        "id": 13130744,
+        "name": "Uptown Bronx Apartment",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.88493,
+        "longitude": -73.8618,
+        "person_capacity": 3
+    },
+    {
+        "id": 31085213,
+        "name": "NY MIDTOWN DOUBLE ROOM",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.756,
+        "longitude": -73.99783,
+        "person_capacity": 2
+    },
+    {
+        "id": 15988664,
+        "name": "Perfect Weekender in the East Village...",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.72372,
+        "longitude": -73.97984,
+        "person_capacity": 2
+    },
+    {
+        "id": 19071002,
+        "name": "BK's Finest Jack&Jill2 Share NearTransportation",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "1 guest",
+        "latitude": 40.6951,
+        "longitude": -73.92983,
+        "person_capacity": 1
+    },
+    {
+        "id": 18173787,
+        "name": "Cute Tiny Room Family Home LaGuardia Airport LGA",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 2.0,
+        "guest_label": "1 guest",
+        "latitude": 40.7638,
+        "longitude": -73.87238,
+        "person_capacity": 1
+    },
+    {
+        "id": 1895196,
+        "name": "Apt near Museum Mile",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "3 guests",
+        "latitude": 40.76981,
+        "longitude": -73.95812,
+        "person_capacity": 3
+    },
+    {
+        "id": 6422875,
+        "name": "Brooklyn Creative Snooze Factory",
+        "no_of_bedroom": 1,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69271,
+        "longitude": -73.94353,
+        "person_capacity": 2
+    },
+    {
+        "id": 6387033,
+        "name": "Bright Cozy 2BR 15 Mins Time Square upto 6 Guests",
+        "no_of_bedroom": 2,
+        "no_of_bathroom": 1.0,
+        "guest_label": "6 guests",
+        "latitude": 40.763721,
+        "longitude": -74.034721,
+        "person_capacity": 6
+    },
+    {
+        "id": 37368518,
+        "name": "Bright New Brooklyn Studio",
+        "no_of_bedroom": 0,
+        "no_of_bathroom": 1.0,
+        "guest_label": "2 guests",
+        "latitude": 40.69131,
+        "longitude": -73.93003,
+        "person_capacity": 2
+    }
+]
