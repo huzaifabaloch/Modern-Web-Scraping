@@ -1,0 +1,479 @@
+{
+    "additionalFields": [],
+    "documents": [
+        {
+            "number": "00000000000",
+            "deleted": false,
+            "created": "2016-08-29T10:52:29",
+            "modified": "2019-08-22T18:13:51",
+            "id": "xnOw52PmSnWbfBfe",
+            "type": "CNPJ"
+        }
+    ],
+    "marketplaceConfiguration": {
+        "deleted": false,
+        "created": "2018-05-09T11:13:00",
+        "hasExternalService": true,
+        "id": "97826",
+        "marketplaceStatus": "MARKETPLACE",
+        "relatedCompanyId": "6446"
+    },
+    "companyName": "Americanas Marketplace",
+    "hasRaChat": false,
+    "competitors": [],
+    "logo": {
+        "path": "https://raichu-uploads.s3.amazonaws.com/company_142ed4d8-665f-4124-b401-796783e932a7.png",
+        "deleted": false,
+        "created": "2018-11-23T10:18:03",
+        "sufix": "png",
+        "id": "xrGYpqoq7a4KV2oi",
+        "type": "IMAGE_COMPANY_LOGO"
+    },
+    "modified": "2019-08-22T18:13:51",
+    "id": "97826",
+    "serviceChannels": [],
+    "companyResponsibles": [],
+    "requester": {},
+    "images": [],
+    "canBeRA1000": false,
+    "created": "2015-06-09T10:53:00",
+    "ip": "****",
+    "hasRAV": null,
+    "cnpjValidated": false,
+    "metatags": "{cat_id:24, cat_nome:Lojas virtuais  - Leil\u00e3o Eletr\u00f4nicocat_nom:Lojas virtuais  - Leil\u00e3o Eletr\u00f4nico}",
+    "shortname": "americanas-marketplace",
+    "users": null,
+    "underReview": false,
+    "hasPrivateContact": false,
+    "affiliates": [],
+    "files": [],
+    "hugmeFreeOn": false,
+    "companyIndexes": [
+        "{averageAnswerTime=296875.73184334027, finalScore=7.8, totalNotAnswered=2082, totalComplains=49599, consumerScore=6.52, created=2019-12-24T08:47:07, start=2019-06-01T08:46:58, solvedPercentual=86.0, type=SIX_MONTHS, totalAnswered=47517, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=69.6, totalEvaluated=15663, answeredPercentual=95.8, company=97826, end=2019-11-30T08:46:58, id=72c02d84-b94e-4dc2-81f7-9b18447dfa61, status=GOOD}",
+        "{averageAnswerTime=242983.13329894628, finalScore=7.8, totalNotAnswered=3383, totalComplains=111951, consumerScore=6.46, created=2019-12-24T08:47:07, start=2018-12-01T08:46:58, solvedPercentual=86.7, type=TWELVE_MONTHS, totalAnswered=108568, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=68.4, totalEvaluated=39185, answeredPercentual=97.0, company=97826, end=2019-11-30T08:46:58, id=2535bdea-254f-4ccd-bb71-7aea748f6c3a, status=GOOD}",
+        "{averageAnswerTime=243664.54038660202, finalScore=7.5, totalNotAnswered=118, totalComplains=107567, consumerScore=5.87, created=2019-12-24T08:47:07, start=2018-01-01T08:46:58, solvedPercentual=82.0, type=LAST_YEAR, totalAnswered=107449, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=61.9, totalEvaluated=40395, answeredPercentual=99.9, company=97826, end=2018-12-31T23:59:59, id=87fa75e1-d601-4a89-b7fb-f7a1118efaaa, status=GOOD}",
+        "{averageAnswerTime=406171.27332821564, finalScore=7.1, totalNotAnswered=28, totalComplains=70372, consumerScore=5.4, created=2019-12-24T08:47:07, start=2017-01-01T00:00:00, solvedPercentual=78.0, type=PAST_LAST_YEAR, totalAnswered=70344, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=56.6, totalEvaluated=29020, answeredPercentual=100.0, company=97826, end=2017-12-31T23:59:59, id=7a14d94e-883c-4a33-b1dd-52a0fe6a4149, status=GOOD}",
+        "{averageAnswerTime=285318.8721614139, finalScore=7.5, totalNotAnswered=8799, totalComplains=287635, consumerScore=5.97, created=2019-12-24T08:47:07, start=2016-12-25T00:00:00, solvedPercentual=82.4, type=LAST_THREE_YEARS, totalAnswered=278836, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=62.9, totalEvaluated=104599, answeredPercentual=96.9, company=97826, end=2019-12-24T08:46:58, id=2e2eeebf-c448-4826-8a0c-b13fb6fe9d5d, status=GOOD}"
+    ],
+    "status": "ACTIVE",
+    "companyIndex6Months": "{averageAnswerTime=296875.73184334027, finalScore=7.8, totalNotAnswered=2082, totalComplains=49599, consumerScore=6.52, created=2019-12-24T08:47:07, start=2019-06-01T08:46:58, solvedPercentual=86.0, type=SIX_MONTHS, totalAnswered=47517, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=69.6, totalEvaluated=15663, answeredPercentual=95.8, company=97826, end=2019-11-30T08:46:58, id=72c02d84-b94e-4dc2-81f7-9b18447dfa61, status=GOOD}",
+    "companyPageConfiguration": {},
+    "createdByUser": false,
+    "panels": [
+        {
+            "default": true,
+            "avg": "7.8",
+            "index": {
+                "averageAnswerTime": "296875.73184334027",
+                "finalScore": "7.8",
+                "totalNotAnswered": "2082",
+                "totalComplains": "49599",
+                "consumerScore": "6.52",
+                "created": "2019-12-24T08:47:07",
+                "start": "2019-06-01T08:46:58",
+                "solvedPercentual": "86.0",
+                "type": "SIX_MONTHS",
+                "totalAnswered": "47517",
+                "totalComplains30": "15924",
+                "averageAnswerTime3M": "305299.646883684",
+                "hasStamp": "false",
+                "dealAgainPercentual": "69.6",
+                "totalEvaluated": "15663",
+                "answeredPercentual": "95.8",
+                "company": "97826",
+                "end": "2019-11-30T08:46:58",
+                "id": "72c02d84-b94e-4dc2-81f7-9b18447dfa61",
+                "status": "GOOD"
+            },
+            "type": "SIX_MONTHS",
+            "message": ""
+        },
+        {
+            "default": false,
+            "avg": "7.8",
+            "index": {
+                "averageAnswerTime": "242983.13329894628",
+                "finalScore": "7.8",
+                "totalNotAnswered": "3383",
+                "totalComplains": "111951",
+                "consumerScore": "6.46",
+                "created": "2019-12-24T08:47:07",
+                "start": "2018-12-01T08:46:58",
+                "solvedPercentual": "86.7",
+                "type": "TWELVE_MONTHS",
+                "totalAnswered": "108568",
+                "totalComplains30": "15924",
+                "averageAnswerTime3M": "305299.646883684",
+                "hasStamp": "false",
+                "dealAgainPercentual": "68.4",
+                "totalEvaluated": "39185",
+                "answeredPercentual": "97.0",
+                "company": "97826",
+                "end": "2019-11-30T08:46:58",
+                "id": "2535bdea-254f-4ccd-bb71-7aea748f6c3a",
+                "status": "GOOD"
+            },
+            "type": "TWELVE_MONTHS",
+            "message": ""
+        },
+        {
+            "default": false,
+            "avg": "7.5",
+            "index": {
+                "averageAnswerTime": "243664.54038660202",
+                "finalScore": "7.5",
+                "totalNotAnswered": "118",
+                "totalComplains": "107567",
+                "consumerScore": "5.87",
+                "created": "2019-12-24T08:47:07",
+                "start": "2018-01-01T08:46:58",
+                "solvedPercentual": "82.0",
+                "type": "LAST_YEAR",
+                "totalAnswered": "107449",
+                "totalComplains30": "15924",
+                "averageAnswerTime3M": "305299.646883684",
+                "hasStamp": "false",
+                "dealAgainPercentual": "61.9",
+                "totalEvaluated": "40395",
+                "answeredPercentual": "99.9",
+                "company": "97826",
+                "end": "2018-12-31T23:59:59",
+                "id": "87fa75e1-d601-4a89-b7fb-f7a1118efaaa",
+                "status": "GOOD"
+            },
+            "type": "LAST_YEAR",
+            "message": ""
+        },
+        {
+            "default": false,
+            "avg": "7.1",
+            "index": {
+                "averageAnswerTime": "406171.27332821564",
+                "finalScore": "7.1",
+                "totalNotAnswered": "28",
+                "totalComplains": "70372",
+                "consumerScore": "5.4",
+                "created": "2019-12-24T08:47:07",
+                "start": "2017-01-01T00:00:00",
+                "solvedPercentual": "78.0",
+                "type": "PAST_LAST_YEAR",
+                "totalAnswered": "70344",
+                "totalComplains30": "15924",
+                "averageAnswerTime3M": "305299.646883684",
+                "hasStamp": "false",
+                "dealAgainPercentual": "56.6",
+                "totalEvaluated": "29020",
+                "answeredPercentual": "100.0",
+                "company": "97826",
+                "end": "2017-12-31T23:59:59",
+                "id": "7a14d94e-883c-4a33-b1dd-52a0fe6a4149",
+                "status": "GOOD"
+            },
+            "type": "PAST_LAST_YEAR",
+            "message": ""
+        },
+        {
+            "default": false,
+            "avg": "7.5",
+            "index": {
+                "averageAnswerTime": "285318.8721614139",
+                "finalScore": "7.5",
+                "totalNotAnswered": "8799",
+                "totalComplains": "287635",
+                "consumerScore": "5.97",
+                "created": "2019-12-24T08:47:07",
+                "start": "2016-12-25T00:00:00",
+                "solvedPercentual": "82.4",
+                "type": "LAST_THREE_YEARS",
+                "totalAnswered": "278836",
+                "totalComplains30": "15924",
+                "averageAnswerTime3M": "305299.646883684",
+                "hasStamp": "false",
+                "dealAgainPercentual": "62.9",
+                "totalEvaluated": "104599",
+                "answeredPercentual": "96.9",
+                "company": "97826",
+                "end": "2019-12-24T08:46:58",
+                "id": "2e2eeebf-c448-4826-8a0c-b13fb6fe9d5d",
+                "status": "GOOD"
+            },
+            "type": "LAST_THREE_YEARS",
+            "message": ""
+        }
+    ],
+    "competitorsIds": [],
+    "description": "A Americanas \u00e9 uma das maiores varejistas do Brasil e, no Marketplace, comercializa em sua loja online, itens de empresas parceiras.",
+    "phones": [
+        {
+            "number": "4003-4848",
+            "code": "0",
+            "deleted": false,
+            "created": "2018-01-05T11:16:59",
+            "modified": "2019-08-22T18:13:51",
+            "id": "BOrSt9xzsda6jPXj"
+        }
+    ],
+    "complainCount": 63291,
+    "hasRaPhone": false,
+    "emails": [],
+    "urls": [
+        {
+            "path": "http://www.americanas.com.br",
+            "deleted": false,
+            "created": "2019-08-22T18:13:51",
+            "name": "site",
+            "id": "DKCZp1y1eSjo4YVJ"
+        }
+    ],
+    "presences": [
+        {
+            "deleted": false,
+            "created": "2019-12-24T13:50:05",
+            "categories": [],
+            "id": "STORE_ON",
+            "problemTypes": [
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Atraso na entrega",
+                    "legacyId": 1,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000001",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Produto usado",
+                    "legacyId": 6,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000006",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Estorno do valor pago",
+                    "legacyId": 7,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000007",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Produto indispon\u00edvel",
+                    "legacyId": 8,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000008",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": false,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Propaganda enganosa",
+                    "legacyId": 9,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000009",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Problema com garantia estendida",
+                    "legacyId": 10,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000010",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Diverg\u00eancia de valores",
+                    "legacyId": 11,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000011",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Produto errado",
+                    "legacyId": 14,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000000014",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Produto n\u00e3o recebido",
+                    "legacyId": 1454,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001454",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Estorno do valor pago",
+                    "legacyId": 1455,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001455",
+                    "problemOrigin": "PRESENCE"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Valor de frete",
+                    "legacyId": 1456,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001456",
+                    "problemOrigin": "PRESENCE"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Troca-Devolu\u00e7\u00e3o de produto",
+                    "legacyId": 1457,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001457",
+                    "problemOrigin": "PRESENCE"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Produto com defeito",
+                    "legacyId": 1458,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001458",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": false,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Mau atendimento no SAC",
+                    "legacyId": 1459,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001459",
+                    "problemOrigin": "PRESENCE"
+                },
+                {
+                    "productSensitive": false,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Site fora do ar-Lento",
+                    "legacyId": 1498,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001498",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": false,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Fila para acessar o site",
+                    "legacyId": 1575,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001575",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Forma de pagamento indispon\u00edvel",
+                    "legacyId": 1576,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001576",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Problemas na finaliza\u00e7\u00e3o da compra",
+                    "legacyId": 1577,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001577",
+                    "problemOrigin": "PRODUCT"
+                },
+                {
+                    "productSensitive": true,
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "name": "Maquiagem de pre\u00e7o",
+                    "legacyId": 1578,
+                    "modified": "2019-11-13T14:30:00",
+                    "id": "0000000000001578",
+                    "problemOrigin": "PRODUCT"
+                }
+            ],
+            "sector": "STORE_ON"
+        }
+    ],
+    "legacyId": 97826,
+    "categories": [
+        {
+            "cover": {},
+            "deleted": false,
+            "color": "#E53B3B;",
+            "created": "2019-12-24T13:50:05",
+            "name": "Marketplace",
+            "legacyId": 275,
+            "modified": "2016-03-11T10:09:22",
+            "productTypes": [
+                {
+                    "deleted": false,
+                    "created": "2019-12-24T13:50:05",
+                    "productTypeKind": "PRODUCT",
+                    "id": "0000000000001409",
+                    "adult": true,
+                    "female": true,
+                    "problemTypes": [],
+                    "male": true,
+                    "products": [],
+                    "child": true
+                }
+            ],
+            "id": "0000000000000275",
+            "shortName": "marketplace"
+        }
+    ],
+    "address": {
+        "country": "Brasil",
+        "zipCode": "-",
+        "deleted": false,
+        "route": "-",
+        "city": "S\u00e3o Paulo",
+        "created": "2019-08-22T18:13:51",
+        "location": {
+            "deleted": false,
+            "created": "2019-12-24T13:50:05"
+        },
+        "id": "TyOuab453GX4Htcc",
+        "neighborhood": "-",
+        "state": "SP",
+        "type": "WORK"
+    },
+    "stores": [],
+    "companyIndex12Months": "{averageAnswerTime=242983.13329894628, finalScore=7.8, totalNotAnswered=3383, totalComplains=111951, consumerScore=6.46, created=2019-12-24T08:47:07, start=2018-12-01T08:46:58, solvedPercentual=86.7, type=TWELVE_MONTHS, totalAnswered=108568, totalComplains30=15924, averageAnswerTime3M=305299.646883684, hasStamp=false, dealAgainPercentual=68.4, totalEvaluated=39185, answeredPercentual=97.0, company=97826, end=2019-11-30T08:46:58, id=2535bdea-254f-4ccd-bb71-7aea748f6c3a, status=GOOD}",
+    "marketplaceId": "97826",
+    "deleted": false,
+    "embedHash": null,
+    "fantasyName": "Americanas Marketplace"
+}

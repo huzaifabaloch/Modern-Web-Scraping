@@ -1,0 +1,87 @@
+[
+    {
+        "type": {
+            "companyName": "Americanas Marketplace",
+            "type": "SIX_MONTHS",
+            "created": "2019-12-24T08:47:07",
+            "start": "2019-06-01T08:46:58",
+            "avg": "7.8",
+            "averageAnswerTime": "296875.73184334027",
+            "finalScore": "7.8",
+            "totalNotAnswered": "2082",
+            "totalComplains": "49599",
+            "consumerScore": "6.52",
+            "answeredPercentual": "95.8",
+            "status": "GOOD",
+            "totalEvaluated": "15663"
+        }
+    },
+    {
+        "type": {
+            "companyName": "Americanas Marketplace",
+            "type": "TWELVE_MONTHS",
+            "created": "2019-12-24T08:47:07",
+            "start": "2018-12-01T08:46:58",
+            "avg": "7.8",
+            "averageAnswerTime": "242983.13329894628",
+            "finalScore": "7.8",
+            "totalNotAnswered": "3383",
+            "totalComplains": "111951",
+            "consumerScore": "6.46",
+            "answeredPercentual": "97.0",
+            "status": "GOOD",
+            "totalEvaluated": "39185"
+        }
+    },
+    {
+        "type": {
+            "companyName": "Americanas Marketplace",
+            "type": "LAST_YEAR",
+            "created": "2019-12-24T08:47:07",
+            "start": "2018-01-01T08:46:58",
+            "avg": "7.5",
+            "averageAnswerTime": "243664.54038660202",
+            "finalScore": "7.5",
+            "totalNotAnswered": "118",
+            "totalComplains": "107567",
+            "consumerScore": "5.87",
+            "answeredPercentual": "99.9",
+            "status": "GOOD",
+            "totalEvaluated": "40395"
+        }
+    },
+    {
+        "type": {
+            "companyName": "Americanas Marketplace",
+            "type": "PAST_LAST_YEAR",
+            "created": "2019-12-24T08:47:07",
+            "start": "2017-01-01T00:00:00",
+            "avg": "7.1",
+            "averageAnswerTime": "406171.27332821564",
+            "finalScore": "7.1",
+            "totalNotAnswered": "28",
+            "totalComplains": "70372",
+            "consumerScore": "5.4",
+            "answeredPercentual": "100.0",
+            "status": "GOOD",
+            "totalEvaluated": "29020"
+        }
+    },
+    {
+        "type": {
+            "companyName": "Americanas Marketplace",
+            "type": "LAST_THREE_YEARS",
+            "created": "2019-12-24T08:47:07",
+            "start": "2016-12-25T00:00:00",
+            "avg": "7.5",
+            "averageAnswerTime": "285318.8721614139",
+            "finalScore": "7.5",
+            "totalNotAnswered": "8799",
+            "totalComplains": "287635",
+            "consumerScore": "5.97",
+            "answeredPercentual": "96.9",
+            "status": "GOOD",
+            "totalEvaluated": "104599"
+        }
+    }
+]
