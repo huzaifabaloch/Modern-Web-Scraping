@@ -1,0 +1,7184 @@
+[
+    {
+        "name": "Sutter Pub & Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "289 reviews",
+        "phone": "(415) 400-5840",
+        "address": "700 Sutter St"
+    },
+    {
+        "name": "Sears Fine Food",
+        "rating": "3.5 star rating",
+        "reviews": "1960 reviews",
+        "phone": "(628) 400-5824",
+        "address": "439 Powell St"
+    },
+    {
+        "name": "Atlas Tap Room",
+        "rating": "4 star rating",
+        "reviews": "184 reviews",
+        "phone": "(415) 308-5806",
+        "address": "606 Mission St"
+    },
+    {
+        "name": "Native Burger",
+        "rating": "4.5 star rating",
+        "reviews": "238 reviews",
+        "phone": "(415) 682-4197",
+        "address": "3420 Geary Blvd"
+    },
+    {
+        "name": "Pearl’s Deluxe Burgers",
+        "rating": "4 star rating",
+        "reviews": "2177 reviews",
+        "phone": "(415) 409-6120",
+        "address": "708 Post St"
+    },
+    {
+        "name": "WesBurger ‘N’ More",
+        "rating": "4 star rating",
+        "reviews": "554 reviews",
+        "phone": "(415) 745-9371",
+        "address": "2240 Mission St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "2753 reviews",
+        "phone": "(415) 538-3437",
+        "address": "721 Market St"
+    },
+    {
+        "name": "Jenny’s Burgers",
+        "rating": "4 star rating",
+        "reviews": "604 reviews",
+        "phone": "(415) 753-1453",
+        "address": "1233 9th Ave"
+    },
+    {
+        "name": "Roam Artisan Burgers",
+        "rating": "4 star rating",
+        "reviews": "1187 reviews",
+        "phone": "(415) 800-7801",
+        "address": "1923 Fillmore St"
+    },
+    {
+        "name": "Belly",
+        "rating": "4 star rating",
+        "reviews": "385 reviews",
+        "phone": "(415) 933-6232",
+        "address": "5740 Geary Blvd"
+    },
+    {
+        "name": "Causwells",
+        "rating": "4 star rating",
+        "reviews": "742 reviews",
+        "phone": "(415) 447-6081",
+        "address": "2346 Chestnut St"
+    },
+    {
+        "name": "Uncle Boy’s",
+        "rating": "4 star rating",
+        "reviews": "582 reviews",
+        "phone": "(415) 742-4468",
+        "address": "245 Balboa St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "1277 reviews",
+        "phone": "(415) 558-8123",
+        "address": "2304 Market St"
+    },
+    {
+        "name": "Calibur",
+        "rating": "4 star rating",
+        "reviews": "391 reviews",
+        "phone": "(415) 742-4931",
+        "address": "68 W Portal Ave"
+    },
+    {
+        "name": "Burger Shack",
+        "rating": "4.5 star rating",
+        "reviews": "246 reviews",
+        "phone": "(415) 523-6818",
+        "address": "2237 Powell St"
+    },
+    {
+        "name": "Hi-Way Burger & Fry",
+        "rating": "4 star rating",
+        "reviews": "138 reviews",
+        "phone": "(415) 641-6000",
+        "address": "3853 24th St"
+    },
+    {
+        "name": "Hall Of Flame Burgers",
+        "rating": "4 star rating",
+        "reviews": "531 reviews",
+        "phone": "(415) 584-4444",
+        "address": "73 Cambon Dr"
+    },
+    {
+        "name": "The New Spot On Polk",
+        "rating": "4.5 star rating",
+        "reviews": "618 reviews",
+        "phone": "(415) 913-7775",
+        "address": "2401 Polk St"
+    },
+    {
+        "name": "Box Kitchen",
+        "rating": "4.5 star rating",
+        "reviews": "796 reviews",
+        "phone": "(415) 580-7170",
+        "address": "431 Natoma St"
+    },
+    {
+        "name": "Creator",
+        "rating": "4 star rating",
+        "reviews": "195 reviews",
+        "phone": "(415) 879-9276",
+        "address": "680 Folsom St"
+    },
+    {
+        "name": "Roam Artisan Burgers",
+        "rating": "4 star rating",
+        "reviews": "1527 reviews",
+        "phone": "(415) 440-7626",
+        "address": "1785 Union St"
+    },
+    {
+        "name": "Beep’s Burgers",
+        "rating": "4 star rating",
+        "reviews": "640 reviews",
+        "phone": "(415) 584-2650",
+        "address": "1051 Ocean Ave"
+    },
+    {
+        "name": "Bullshead Restaurant",
+        "rating": "4 star rating",
+        "reviews": "814 reviews",
+        "phone": "(415) 665-4350",
+        "address": "840 Ulloa St"
+    },
+    {
+        "name": "Chez Maman East",
+        "rating": "4.5 star rating",
+        "reviews": "2063 reviews",
+        "phone": "(415) 655-9542",
+        "address": "1401 18th St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "864 reviews",
+        "phone": "(415) 931-6258",
+        "address": "2201 Chestnut St"
+    },
+    {
+        "name": "Papa Mak’s Burgers",
+        "rating": "3.5 star rating",
+        "reviews": "307 reviews",
+        "phone": "(415) 340-3171",
+        "address": "3755 Noriega St"
+    },
+    {
+        "name": "Richmond Republic Draught House",
+        "rating": "4 star rating",
+        "reviews": "368 reviews",
+        "phone": "(415) 702-6069",
+        "address": "642 Clement St"
+    },
+    {
+        "name": "Buffalo Burger Restaurant",
+        "rating": "4 star rating",
+        "reviews": "417 reviews",
+        "phone": "(415) 668-1267",
+        "address": "5317 Geary Blvd"
+    },
+    {
+        "name": "Next Level Burger",
+        "rating": "4 star rating",
+        "reviews": "177 reviews",
+        "phone": "(415) 829-8485",
+        "address": "450 Rhode Island St"
+    },
+    {
+        "name": "Popsons",
+        "rating": "4 star rating",
+        "reviews": "324 reviews",
+        "phone": "(415) 658-7554",
+        "address": "998 Market St"
+    },
+    {
+        "name": "The Butcher Shop by Niku Steakhouse",
+        "rating": "4.5 star rating",
+        "reviews": "71 reviews",
+        "phone": "(415) 829-2306",
+        "address": "57 Division St"
+    },
+    {
+        "name": "Bandit",
+        "rating": "4.5 star rating",
+        "reviews": "374 reviews",
+        "phone": "(415) 658-7780",
+        "address": "683 Geary St"
+    },
+    {
+        "name": "Smashburger",
+        "rating": "3.5 star rating",
+        "reviews": "411 reviews",
+        "phone": "(415) 890-2410",
+        "address": "2300 16th St"
+    },
+    {
+        "name": "Belcampo SF/SoMa",
+        "rating": "4 star rating",
+        "reviews": "9 reviews",
+        "phone": "(415) 237-6707",
+        "address": "60 Morris St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Umami Burger Soma District",
+        "rating": "3 star rating",
+        "reviews": "1025 reviews",
+        "phone": "(415) 904-8626",
+        "address": "242 King St"
+    },
+    {
+        "name": "Laguna Restaurant",
+        "rating": "4 star rating",
+        "reviews": "163 reviews",
+        "phone": "(415) 872-7195",
+        "address": "602 Hayes St"
+    },
+    {
+        "name": "Rusty’s Southern",
+        "rating": "4.5 star rating",
+        "reviews": "985 reviews",
+        "phone": "(415) 638-6974",
+        "address": "750 Ellis St"
+    },
+    {
+        "name": "Garaje",
+        "rating": "4.5 star rating",
+        "reviews": "1543 reviews",
+        "phone": "(415) 644-0838",
+        "address": "475 3rd St"
+    },
+    {
+        "name": "4505 Burgers & BBQ",
+        "rating": "3.5 star rating",
+        "reviews": "1552 reviews",
+        "phone": "(415) 231-6993",
+        "address": "705 Divisadero St"
+    },
+    {
+        "name": "Sam’s",
+        "rating": "4 star rating",
+        "reviews": "615 reviews",
+        "phone": "(415) 391-1539",
+        "address": "618 Broadway"
+    },
+    {
+        "name": "Gott’s Roadside",
+        "rating": "3.5 star rating",
+        "reviews": "2672 reviews",
+        "phone": "(415) 318-3423",
+        "address": "1 Ferry Building"
+    },
+    {
+        "name": "Counter Offer",
+        "rating": "4.5 star rating",
+        "reviews": "34 reviews",
+        "phone": "(415) 341-0169",
+        "address": "800 S Van Ness Ave"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "1339 reviews",
+        "phone": "(415) 882-1750",
+        "address": "783 Mission St"
+    },
+    {
+        "name": "Barney’s Gourmet Hamburgers",
+        "rating": "3 star rating",
+        "reviews": "823 reviews",
+        "phone": "(415) 282-7770",
+        "address": "4138 24th St"
+    },
+    {
+        "name": "The Monk’s Kettle",
+        "rating": "4 star rating",
+        "reviews": "2172 reviews",
+        "phone": "(415) 865-9523",
+        "address": "3141 16th St"
+    },
+    {
+        "name": "Tony’s Cable Car Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "402 reviews",
+        "phone": "(415) 931-2416",
+        "address": "2500 Geary Blvd"
+    },
+    {
+        "name": "In-N-Out Burger",
+        "rating": "4 star rating",
+        "reviews": "1812 reviews",
+        "phone": "(800) 786-1000",
+        "address": null
+    },
+    {
+        "name": "Double Decker",
+        "rating": "3.5 star rating",
+        "reviews": "43 reviews",
+        "phone": "(415) 757-0523",
+        "address": "2956 24th St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "507 reviews",
+        "phone": "(415) 974-1200",
+        "address": "98 Mission St"
+    },
+    {
+        "name": "Big Mouth Burgers",
+        "rating": "3.5 star rating",
+        "reviews": "532 reviews",
+        "phone": "(415) 821-4821",
+        "address": "3392 24th St"
+    },
+    {
+        "name": "Dijon Burger",
+        "rating": "3.5 star rating",
+        "reviews": "202 reviews",
+        "phone": "(415) 614-1100",
+        "address": "1428 Polk St"
+    },
+    {
+        "name": "Quicky Burgers and Shakes",
+        "rating": "3.5 star rating",
+        "reviews": "32 reviews",
+        "phone": "(415) 757-0855",
+        "address": "4092 18th St"
+    },
+    {
+        "name": "Junior Barbecue Burger",
+        "rating": "4.5 star rating",
+        "reviews": "98 reviews",
+        "phone": "(650) 271-2479",
+        "address": "98 Napoleon St"
+    },
+    {
+        "name": "Bill’s Place",
+        "rating": "3.5 star rating",
+        "reviews": "736 reviews",
+        "phone": "(415) 221-5262",
+        "address": "2315 Clement St"
+    },
+    {
+        "name": "Double Decker",
+        "rating": "3.5 star rating",
+        "reviews": "435 reviews",
+        "phone": "(415) 552-8042",
+        "address": "465 Grove St"
+    },
+    {
+        "name": "The Showdown",
+        "rating": "4.5 star rating",
+        "reviews": "46 reviews",
+        "phone": "(415) 772-0933",
+        "address": "1268 Grant Ave"
+    },
+    {
+        "name": "Golden State Grill",
+        "rating": "5 star rating",
+        "reviews": "87 reviews",
+        "phone": "(415) 769-5737",
+        "address": "4448 Mission St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4 star rating",
+        "reviews": "301 reviews",
+        "phone": "(415) 677-9936",
+        "address": "346 Kearny St"
+    },
+    {
+        "name": "Hamburger Mary’s",
+        "rating": "3 star rating",
+        "reviews": "278 reviews",
+        "phone": "(415) 580-7145",
+        "address": "531 Castro St"
+    },
+    {
+        "name": "Mo’s Grill",
+        "rating": "4 star rating",
+        "reviews": "847 reviews",
+        "phone": "(415) 788-3779",
+        "address": "1322 Grant Ave"
+    },
+    {
+        "name": "Fort Point - Valencia",
+        "rating": "4.5 star rating",
+        "reviews": "40 reviews",
+        "phone": null,
+        "address": "742 Valencia St"
+    },
+    {
+        "name": "Bistro SF Grill",
+        "rating": "4 star rating",
+        "reviews": "149 reviews",
+        "phone": "(415) 409-6410",
+        "address": "1305 Castro St"
+    },
+    {
+        "name": "Burger Urge",
+        "rating": "3 star rating",
+        "reviews": "519 reviews",
+        "phone": "(415) 522-0122",
+        "address": "1599 Haight St"
+    },
+    {
+        "name": "Metro Caffe",
+        "rating": "4 star rating",
+        "reviews": "295 reviews",
+        "phone": "(415) 621-9536",
+        "address": "247 Fillmore St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Tanguito",
+        "rating": "4.5 star rating",
+        "reviews": "589 reviews",
+        "phone": "(415) 577-4223",
+        "address": "2850 Jones St"
+    },
+    {
+        "name": "The Melt - 455 Market",
+        "rating": "4 star rating",
+        "reviews": "160 reviews",
+        "phone": "(415) 287-9819",
+        "address": "455 Market St"
+    },
+    {
+        "name": "Sliders Diner",
+        "rating": "4 star rating",
+        "reviews": "73 reviews",
+        "phone": "(415) 885-3288",
+        "address": "1202 Sutter St"
+    },
+    {
+        "name": "Whiz Burgers Drive-In",
+        "rating": "4 star rating",
+        "reviews": "286 reviews",
+        "phone": "(415) 824-5888",
+        "address": "700 S Van Ness Ave"
+    },
+    {
+        "name": "VeganBurg",
+        "rating": "4 star rating",
+        "reviews": "780 reviews",
+        "phone": "(415) 548-8000",
+        "address": "1466 Haight St"
+    },
+    {
+        "name": "The Crafty Fox Ale House",
+        "rating": "4.5 star rating",
+        "reviews": "215 reviews",
+        "phone": "(415) 416-6602",
+        "address": "1700 Mission St"
+    },
+    {
+        "name": "The Front Porch",
+        "rating": "4 star rating",
+        "reviews": "2788 reviews",
+        "phone": "(415) 695-7800",
+        "address": "65 29th St"
+    },
+    {
+        "name": "Tower Burger",
+        "rating": "3.5 star rating",
+        "reviews": "333 reviews",
+        "phone": "(415) 504-6340",
+        "address": "729 Portola Dr"
+    },
+    {
+        "name": "The Bird",
+        "rating": "4 star rating",
+        "reviews": "1682 reviews",
+        "phone": "(415) 872-9825",
+        "address": "115 New Montgomery St"
+    },
+    {
+        "name": "Myriad Gastropub",
+        "rating": "4.5 star rating",
+        "reviews": "602 reviews",
+        "phone": "(415) 525-4335",
+        "address": "2491 Mission St"
+    },
+    {
+        "name": "Eat Americana",
+        "rating": "4.5 star rating",
+        "reviews": "254 reviews",
+        "phone": "(415) 387-2893",
+        "address": "3532 Balboa St"
+    },
+    {
+        "name": "Marlowe",
+        "rating": "4 star rating",
+        "reviews": "2706 reviews",
+        "phone": "(415) 777-1413",
+        "address": "500 Brannan St"
+    },
+    {
+        "name": "Belcampo SF/SoMa",
+        "rating": "4 star rating",
+        "reviews": "9 reviews",
+        "phone": "(415) 237-6707",
+        "address": "60 Morris St"
+    },
+    {
+        "name": "Ocean Ale House",
+        "rating": "4.5 star rating",
+        "reviews": "235 reviews",
+        "phone": "(415) 988-7521",
+        "address": "1314 Ocean Ave"
+    },
+    {
+        "name": "Tastebuds",
+        "rating": "4 star rating",
+        "reviews": "102 reviews",
+        "phone": "(415) 668-9298",
+        "address": "600 5th Ave"
+    },
+    {
+        "name": "Wayfare Tavern",
+        "rating": "4 star rating",
+        "reviews": "3871 reviews",
+        "phone": "(415) 772-9060",
+        "address": "558 Sacramento St"
+    },
+    {
+        "name": "Chez Maman West",
+        "rating": "4 star rating",
+        "reviews": "1122 reviews",
+        "phone": "(415) 355-9067",
+        "address": "401 Gough St"
+    },
+    {
+        "name": "Burger Bar",
+        "rating": "3 star rating",
+        "reviews": "2261 reviews",
+        "phone": "(415) 296-4272",
+        "address": null
+    },
+    {
+        "name": "The Pink Elephant Alibi",
+        "rating": "4 star rating",
+        "reviews": "1237 reviews",
+        "phone": null,
+        "address": "142 Minna St"
+    },
+    {
+        "name": "Buster’s Cheesesteak",
+        "rating": "4 star rating",
+        "reviews": "812 reviews",
+        "phone": "(415) 392-2800",
+        "address": "366 Columbus Ave"
+    },
+    {
+        "name": "Slingshot",
+        "rating": "4.5 star rating",
+        "reviews": "35 reviews",
+        "phone": "(415) 829-8437",
+        "address": "422 Larkin St"
+    },
+    {
+        "name": "After Hours",
+        "rating": "4.5 star rating",
+        "reviews": "105 reviews",
+        "phone": "(415) 890-4618",
+        "address": "3044 Taraval St"
+    },
+    {
+        "name": "TJ Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "182 reviews",
+        "phone": "(415) 702-6286",
+        "address": "724 La Playa St"
+    },
+    {
+        "name": "Ziggy’s Burgers",
+        "rating": "3.5 star rating",
+        "reviews": "600 reviews",
+        "phone": "(415) 391-8181",
+        "address": "21 Drumm St"
+    },
+    {
+        "name": "The Melt",
+        "rating": "3.5 star rating",
+        "reviews": "204 reviews",
+        "phone": "(415) 689-5879",
+        "address": "925 Market St"
+    },
+    {
+        "name": "Barrel Head Brewhouse",
+        "rating": "4 star rating",
+        "reviews": "543 reviews",
+        "phone": "(415) 416-6989",
+        "address": "1785 Fulton St"
+    },
+    {
+        "name": "Bobo’s Burger Bar",
+        "rating": "4 star rating",
+        "reviews": "111 reviews",
+        "phone": "(415) 683-7040",
+        "address": "1434 Lombard St"
+    },
+    {
+        "name": "Burger Joint",
+        "rating": "3.5 star rating",
+        "reviews": "249 reviews",
+        "phone": "(415) 824-3494",
+        "address": "807 Valencia St"
+    },
+    {
+        "name": "Hamburger Haven",
+        "rating": "3.5 star rating",
+        "reviews": "293 reviews",
+        "phone": "(415) 387-3260",
+        "address": "800 Clement St"
+    },
+    {
+        "name": "Fermentation Lab",
+        "rating": "4.5 star rating",
+        "reviews": "277 reviews",
+        "phone": null,
+        "address": "1230 Market St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Broken Record",
+        "rating": "4 star rating",
+        "reviews": "1241 reviews",
+        "phone": "(415) 963-1713",
+        "address": "1166 Geneva Ave"
+    },
+    {
+        "name": "Halal Wings Plus",
+        "rating": "4 star rating",
+        "reviews": "442 reviews",
+        "phone": "(415) 440-7786",
+        "address": "533 Jones St"
+    },
+    {
+        "name": "Marengo on the Alley",
+        "rating": "4 star rating",
+        "reviews": "157 reviews",
+        "phone": "(628) 444-3100",
+        "address": "531 Commercial St"
+    },
+    {
+        "name": "Kitchen Story",
+        "rating": "4 star rating",
+        "reviews": "3249 reviews",
+        "phone": "(415) 525-4905",
+        "address": "3499 16th St"
+    },
+    {
+        "name": "The Steamin’ Burger",
+        "rating": "4 star rating",
+        "reviews": "65 reviews",
+        "phone": "(650) 918-4777",
+        "address": null
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "4.5 star rating",
+        "reviews": "31 reviews",
+        "phone": "(415) 603-0091",
+        "address": "117 New Montgomery St"
+    },
+    {
+        "name": "Sunset Reservoir Brewing Company",
+        "rating": "3.5 star rating",
+        "reviews": "621 reviews",
+        "phone": "(415) 571-8452",
+        "address": "1735 Noriega St"
+    },
+    {
+        "name": "San Francisco Athletic Club",
+        "rating": "4 star rating",
+        "reviews": "235 reviews",
+        "phone": "(415) 923-8989",
+        "address": "1750 Divisadero St"
+    },
+    {
+        "name": "Fiery Cafe",
+        "rating": "4 star rating",
+        "reviews": "11 reviews",
+        "phone": "(415) 753-9906",
+        "address": "1316 Noriega St"
+    },
+    {
+        "name": "Ganim’s Market",
+        "rating": "4 star rating",
+        "reviews": "242 reviews",
+        "phone": "(415) 282-9289",
+        "address": "1135 18th St"
+    },
+    {
+        "name": "Top Round Roast Beef",
+        "rating": "4 star rating",
+        "reviews": "151 reviews",
+        "phone": "(415) 780-3811",
+        "address": "2962 24th St"
+    },
+    {
+        "name": "Blind Butcher",
+        "rating": "4 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 529-2478",
+        "address": "4058 18th St"
+    },
+    {
+        "name": "Louie’s Bar",
+        "rating": "4 star rating",
+        "reviews": "442 reviews",
+        "phone": "(415) 543-3540",
+        "address": "55 Stevenson St"
+    },
+    {
+        "name": "Black Sands",
+        "rating": "3.5 star rating",
+        "reviews": "315 reviews",
+        "phone": "(415) 534-5194",
+        "address": "701 Haight St"
+    },
+    {
+        "name": "Sweet Maple",
+        "rating": "4 star rating",
+        "reviews": "3605 reviews",
+        "phone": "(415) 655-9169",
+        "address": "2101 Sutter St"
+    },
+    {
+        "name": "B & J 1/4 Lb Burgers",
+        "rating": "4 star rating",
+        "reviews": "60 reviews",
+        "phone": "(415) 467-4560",
+        "address": "6202 3rd St"
+    },
+    {
+        "name": "1428 HAIGHT Patio Cafe & Crepery",
+        "rating": "4 star rating",
+        "reviews": "370 reviews",
+        "phone": "(415) 864-8484",
+        "address": "1428 Haight St"
+    },
+    {
+        "name": "Super Duper Burger",
+        "rating": null,
+        "reviews": null,
+        "phone": "(415) 558-8123",
+        "address": "2304 Market St"
+    },
+    {
+        "name": "Red’s Java House",
+        "rating": "3.5 star rating",
+        "reviews": "798 reviews",
+        "phone": "(415) 777-5626",
+        "address": "Pier 30"
+    },
+    {
+        "name": "Holy Grill",
+        "rating": "3.5 star rating",
+        "reviews": "449 reviews",
+        "phone": "(415) 431-4659",
+        "address": "659 Townsend St"
+    },
+    {
+        "name": "Bacon Bacon",
+        "rating": "4 star rating",
+        "reviews": "425 reviews",
+        "phone": "(415) 218-4347",
+        "address": "205 A Frederick St"
+    },
+    {
+        "name": "Wipeout Bar & Grill",
+        "rating": "3.5 star rating",
+        "reviews": "1375 reviews",
+        "phone": "(415) 986-5966",
+        "address": "Pier 39"
+    },
+    {
+        "name": "MaMo",
+        "rating": "5 star rating",
+        "reviews": "87 reviews",
+        "phone": "(415) 658-7150",
+        "address": "3659 Buchanan St"
+    },
+    {
+        "name": "Maven",
+        "rating": "4 star rating",
+        "reviews": "685 reviews",
+        "phone": "(415) 829-7982",
+        "address": "598 Haight St"
+    },
+    {
+        "name": "Hops & Hominy",
+        "rating": "4 star rating",
+        "reviews": "2099 reviews",
+        "phone": "(415) 373-6341",
+        "address": "1 Tillman Pl"
+    },
+    {
+        "name": "Bernal Star",
+        "rating": "3.5 star rating",
+        "reviews": "294 reviews",
+        "phone": "(415) 695-8777",
+        "address": "410 Cortland Ave"
+    },
+    {
+        "name": "Seven Stills Mission Taproom",
+        "rating": "4.5 star rating",
+        "reviews": "23 reviews",
+        "phone": "(415) 658-7661",
+        "address": "2704 24th St"
+    },
+    {
+        "name": "V Cafe",
+        "rating": "4 star rating",
+        "reviews": "260 reviews",
+        "phone": "(415) 863-3620",
+        "address": "1525 Folsom St"
+    },
+    {
+        "name": "The Sycamore",
+        "rating": "4 star rating",
+        "reviews": "722 reviews",
+        "phone": "(415) 252-7704",
+        "address": "2140 Mission St"
+    },
+    {
+        "name": "Spruce",
+        "rating": "4 star rating",
+        "reviews": "1887 reviews",
+        "phone": "(415) 931-5100",
+        "address": "3640 Sacramento St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "The Chieftain Irish Pub & Restaurant",
+        "rating": "4 star rating",
+        "reviews": "867 reviews",
+        "phone": "(415) 625-0436",
+        "address": "198 5th St"
+    },
+    {
+        "name": "Lark",
+        "rating": "4 star rating",
+        "reviews": "285 reviews",
+        "phone": "(415) 400-4623",
+        "address": "4068 18th St"
+    },
+    {
+        "name": "Violet’s",
+        "rating": "3.5 star rating",
+        "reviews": "152 reviews",
+        "phone": "(415) 682-4861",
+        "address": "2301 Clement St"
+    },
+    {
+        "name": "Hollywood Cafe on Fillmore",
+        "rating": "4.5 star rating",
+        "reviews": "76 reviews",
+        "phone": "(415) 829-3159",
+        "address": "1545 Fillmore St"
+    },
+    {
+        "name": "Brickhouse Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "1160 reviews",
+        "phone": "(415) 369-0222",
+        "address": "426 Brannan St"
+    },
+    {
+        "name": "Big Chef Tom’s Belly Burgers",
+        "rating": null,
+        "reviews": null,
+        "phone": "(415) 942-8304",
+        "address": null
+    },
+    {
+        "name": "Square Pie Guys",
+        "rating": "4.5 star rating",
+        "reviews": "169 reviews",
+        "phone": "(628) 222-4254",
+        "address": "1077 Mission St"
+    },
+    {
+        "name": "Jay’s Cheesesteak",
+        "rating": "4 star rating",
+        "reviews": "520 reviews",
+        "phone": "(415) 285-5200",
+        "address": "3285 21st St"
+    },
+    {
+        "name": "Magnolia Dogpatch",
+        "rating": "3.5 star rating",
+        "reviews": "106 reviews",
+        "phone": "(415) 864-7468",
+        "address": "2505 3rd St"
+    },
+    {
+        "name": "The Dorian",
+        "rating": "4 star rating",
+        "reviews": "556 reviews",
+        "phone": "(415) 814-2671",
+        "address": "2001 Chestnut St"
+    },
+    {
+        "name": "Split",
+        "rating": "3.5 star rating",
+        "reviews": "139 reviews",
+        "phone": "(415) 296-8009",
+        "address": "560 Mission St"
+    },
+    {
+        "name": "SAM’s Diner",
+        "rating": "4 star rating",
+        "reviews": "773 reviews",
+        "phone": "(415) 626-8590",
+        "address": "1220 Market St"
+    },
+    {
+        "name": "Nopa",
+        "rating": "4 star rating",
+        "reviews": "5047 reviews",
+        "phone": "(415) 864-8643",
+        "address": "560 Divisadero St"
+    },
+    {
+        "name": "Hopwater Distribution",
+        "rating": "4.5 star rating",
+        "reviews": "702 reviews",
+        "phone": null,
+        "address": "850 Bush St"
+    },
+    {
+        "name": "NOVY Restaurant",
+        "rating": "4 star rating",
+        "reviews": "410 reviews",
+        "phone": "(415) 829-8383",
+        "address": "4000 24th St"
+    },
+    {
+        "name": "Bean Bag Cafe",
+        "rating": "4 star rating",
+        "reviews": "863 reviews",
+        "phone": "(415) 563-3634",
+        "address": "601 Divisadero St"
+    },
+    {
+        "name": "Durty Nelly’s",
+        "rating": "4 star rating",
+        "reviews": "363 reviews",
+        "phone": "(415) 664-2555",
+        "address": "2328 Irving St"
+    },
+    {
+        "name": "Smokin’ Warehouse Barbecue",
+        "rating": "4 star rating",
+        "reviews": "154 reviews",
+        "phone": "(415) 648-8881",
+        "address": "1465 Carroll Ave"
+    },
+    {
+        "name": "The Snug",
+        "rating": "4 star rating",
+        "reviews": "180 reviews",
+        "phone": "(415) 562-5092",
+        "address": "2301 Fillmore St"
+    },
+    {
+        "name": "Blackwood",
+        "rating": "4 star rating",
+        "reviews": "1569 reviews",
+        "phone": "(415) 931-9663",
+        "address": "2150 Chestnut St"
+    },
+    {
+        "name": "Social Kitchen & Brewery",
+        "rating": "3.5 star rating",
+        "reviews": "953 reviews",
+        "phone": "(415) 681-0330",
+        "address": "1326 9th Ave"
+    },
+    {
+        "name": "Local Food Hall",
+        "rating": "5 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": "2268 Chestnut St"
+    },
+    {
+        "name": "Lapisara Eatery",
+        "rating": "4.5 star rating",
+        "reviews": "678 reviews",
+        "phone": "(415) 655-3556",
+        "address": "698 Post St"
+    },
+    {
+        "name": "Links Bar & Grill",
+        "rating": "4.5 star rating",
+        "reviews": "31 reviews",
+        "phone": "(415) 702-9117",
+        "address": "3129 Clement St"
+    },
+    {
+        "name": "Magnolia Haight",
+        "rating": "3.5 star rating",
+        "reviews": "1779 reviews",
+        "phone": "(415) 864-7468",
+        "address": "1398 Haight St"
+    },
+    {
+        "name": "Grumpy’s American Pub",
+        "rating": "3.5 star rating",
+        "reviews": "335 reviews",
+        "phone": "(415) 434-3350",
+        "address": "125 Vallejo St"
+    },
+    {
+        "name": "Rooftop 25",
+        "rating": "4 star rating",
+        "reviews": "147 reviews",
+        "phone": "(415) 495-5875",
+        "address": "25 Lusk St"
+    },
+    {
+        "name": "Mission Bowling Club",
+        "rating": "4 star rating",
+        "reviews": "606 reviews",
+        "phone": "(415) 863-2695",
+        "address": "3176 17th St"
+    },
+    {
+        "name": "Gamine",
+        "rating": "4.5 star rating",
+        "reviews": "884 reviews",
+        "phone": "(415) 771-7771",
+        "address": "2223 Union St"
+    },
+    {
+        "name": "Big Rec Taproom",
+        "rating": "4 star rating",
+        "reviews": "98 reviews",
+        "phone": "(415) 796-3676",
+        "address": "3066 24th St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Heritage Restaurant & Bar",
+        "rating": "4 star rating",
+        "reviews": "190 reviews",
+        "phone": "(415) 386-2200",
+        "address": "708 Clement St"
+    },
+    {
+        "name": "Mix Traditions",
+        "rating": "4.5 star rating",
+        "reviews": "58 reviews",
+        "phone": "(415) 792-6145",
+        "address": "800 Cortland Ave"
+    },
+    {
+        "name": "Cafe Phoenix",
+        "rating": "4.5 star rating",
+        "reviews": "19 reviews",
+        "phone": "(415) 282-9675",
+        "address": "1234 Indiana St"
+    },
+    {
+        "name": "Hotdog Bills",
+        "rating": "4 star rating",
+        "reviews": "1 review",
+        "phone": null,
+        "address": "1 Warriors Way"
+    },
+    {
+        "name": "Yasmin",
+        "rating": "4.5 star rating",
+        "reviews": "12 reviews",
+        "phone": "(415) 724-1899",
+        "address": "799 Valencia St"
+    },
+    {
+        "name": "Split",
+        "rating": "3.5 star rating",
+        "reviews": "214 reviews",
+        "phone": "(415) 296-8009",
+        "address": "2300 Polk St"
+    },
+    {
+        "name": "The Pig & Whistle",
+        "rating": "4 star rating",
+        "reviews": "465 reviews",
+        "phone": "(415) 885-4779",
+        "address": "2801 Geary Blvd"
+    },
+    {
+        "name": "The Greenwich",
+        "rating": "5 star rating",
+        "reviews": "5 reviews",
+        "phone": "(415) 508-5898",
+        "address": "3154 Fillmore St"
+    },
+    {
+        "name": "Aha Fresh",
+        "rating": "4 star rating",
+        "reviews": "995 reviews",
+        "phone": "(415) 647-7037",
+        "address": "4007 24th St"
+    },
+    {
+        "name": "Ma’velous Coffee & Little Griddle",
+        "rating": "4 star rating",
+        "reviews": "67 reviews",
+        "phone": "(415) 864-4292",
+        "address": "1408 Market St"
+    },
+    {
+        "name": "St. Francis Fountain",
+        "rating": "4 star rating",
+        "reviews": "1173 reviews",
+        "phone": "(415) 826-4210",
+        "address": "2801 24th St"
+    },
+    {
+        "name": "Mersea",
+        "rating": "4.5 star rating",
+        "reviews": "576 reviews",
+        "phone": "(415) 851-8118",
+        "address": "699 Ave Of The Palms"
+    },
+    {
+        "name": "Starbelly",
+        "rating": "4 star rating",
+        "reviews": "1817 reviews",
+        "phone": "(415) 252-7500",
+        "address": "3583 16th St"
+    },
+    {
+        "name": "The Dark Horse Inn",
+        "rating": "4.5 star rating",
+        "reviews": "310 reviews",
+        "phone": "(415) 469-5508",
+        "address": "942 Geneva Ave"
+    },
+    {
+        "name": "The Melt - Embarcadero",
+        "rating": "3.5 star rating",
+        "reviews": "560 reviews",
+        "phone": "(415) 813-6062",
+        "address": "1 Embarcadero Ctr"
+    },
+    {
+        "name": "Serpentine",
+        "rating": "4 star rating",
+        "reviews": "1516 reviews",
+        "phone": "(415) 252-2000",
+        "address": "2495 3rd St"
+    },
+    {
+        "name": "Nommo",
+        "rating": "4 star rating",
+        "reviews": "39 reviews",
+        "phone": null,
+        "address": "396 Harrison St"
+    },
+    {
+        "name": "Joe’s Ice Cream",
+        "rating": "4 star rating",
+        "reviews": "826 reviews",
+        "phone": "(415) 751-1950",
+        "address": "5420 Geary Blvd"
+    },
+    {
+        "name": "Zazie",
+        "rating": "4 star rating",
+        "reviews": "4351 reviews",
+        "phone": "(415) 564-5332",
+        "address": "941 Cole St"
+    },
+    {
+        "name": "Buckhorn Gril - SF Embarcadero",
+        "rating": "4 star rating",
+        "reviews": "656 reviews",
+        "phone": "(415) 989-1071",
+        "address": null
+    },
+    {
+        "name": "Basa Seafood Express",
+        "rating": "4.5 star rating",
+        "reviews": "650 reviews",
+        "phone": "(415) 550-2388",
+        "address": "3064 24th St"
+    },
+    {
+        "name": "Parkside Tavern",
+        "rating": "4 star rating",
+        "reviews": "544 reviews",
+        "phone": "(415) 731-8900",
+        "address": "1940 Taraval St"
+    },
+    {
+        "name": "Red Dog Restaurant & Bar",
+        "rating": "3.5 star rating",
+        "reviews": "490 reviews",
+        "phone": "(415) 692-0211",
+        "address": "303 2nd St"
+    },
+    {
+        "name": "Hook Fish",
+        "rating": "4.5 star rating",
+        "reviews": "471 reviews",
+        "phone": null,
+        "address": "4542 Irving St"
+    },
+    {
+        "name": "Tommy’s Joynt",
+        "rating": "4 star rating",
+        "reviews": "2857 reviews",
+        "phone": "(415) 775-4216",
+        "address": "1101 Geary Blvd"
+    },
+    {
+        "name": "Zeitgeist",
+        "rating": "3.5 star rating",
+        "reviews": "2625 reviews",
+        "phone": "(415) 255-7505",
+        "address": "199 Valencia St"
+    },
+    {
+        "name": "The Willows",
+        "rating": "3.5 star rating",
+        "reviews": "254 reviews",
+        "phone": "(415) 226-7768",
+        "address": "1582 Folsom St"
+    },
+    {
+        "name": "Heavenly Cafe",
+        "rating": "4 star rating",
+        "reviews": "45 reviews",
+        "phone": "(415) 658-7175",
+        "address": "5214 Diamond Heights Blvd"
+    },
+    {
+        "name": "Tempest",
+        "rating": "4 star rating",
+        "reviews": "732 reviews",
+        "phone": "(415) 495-1863",
+        "address": "431 Natoma St"
+    },
+    {
+        "name": "Fog City",
+        "rating": "3.5 star rating",
+        "reviews": "731 reviews",
+        "phone": "(415) 982-2000",
+        "address": "1300 Battery St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Mahalo!",
+        "rating": "3 star rating",
+        "reviews": "203 reviews",
+        "phone": "(415) 665-1821",
+        "address": "1376 9th Ave"
+    },
+    {
+        "name": "Fifth Arrow",
+        "rating": "4.5 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 872-5744",
+        "address": "430 Mason St"
+    },
+    {
+        "name": "Miller’s Rest",
+        "rating": "4.5 star rating",
+        "reviews": "178 reviews",
+        "phone": "(415) 441-4232",
+        "address": "1085 Sutter St"
+    },
+    {
+        "name": "Local Tap",
+        "rating": "4 star rating",
+        "reviews": "198 reviews",
+        "phone": "(415) 814-2257",
+        "address": "600 3rd St"
+    },
+    {
+        "name": "Cracked & Battered",
+        "rating": "4.5 star rating",
+        "reviews": "605 reviews",
+        "phone": "(415) 926-8645",
+        "address": "1434 18th St"
+    },
+    {
+        "name": "Mikkeller Bar",
+        "rating": "4 star rating",
+        "reviews": "1217 reviews",
+        "phone": "(415) 984-0279",
+        "address": "34 Mason St"
+    },
+    {
+        "name": "The Brixton",
+        "rating": "3.5 star rating",
+        "reviews": "65 reviews",
+        "phone": "(415) 947-7955",
+        "address": "701 2nd St"
+    },
+    {
+        "name": "Westwood",
+        "rating": "4 star rating",
+        "reviews": "62 reviews",
+        "phone": "(415) 887-8575",
+        "address": "2036 Lombard St"
+    },
+    {
+        "name": "Wildseed",
+        "rating": "4.5 star rating",
+        "reviews": "166 reviews",
+        "phone": "(415) 872-7350",
+        "address": "2000 Union St"
+    },
+    {
+        "name": "Brenda’s Meat & Three",
+        "rating": "4 star rating",
+        "reviews": "1074 reviews",
+        "phone": "(415) 926-8657",
+        "address": "919 Divisadero St"
+    },
+    {
+        "name": "Moz Cafe",
+        "rating": "4 star rating",
+        "reviews": "121 reviews",
+        "phone": "(415) 817-1550",
+        "address": "5 Masonic Ave"
+    },
+    {
+        "name": "Good Gai’s",
+        "rating": "5 star rating",
+        "reviews": "3 reviews",
+        "phone": null,
+        "address": "2723 Oakdale Ave"
+    },
+    {
+        "name": "Nickies",
+        "rating": "4 star rating",
+        "reviews": "421 reviews",
+        "phone": "(415) 255-0300",
+        "address": "466 Haight St"
+    },
+    {
+        "name": "Sam’s Tavern",
+        "rating": "4.5 star rating",
+        "reviews": "19 reviews",
+        "phone": "(415) 796-2052",
+        "address": "368 Bush St"
+    },
+    {
+        "name": "Horsefeather",
+        "rating": "4 star rating",
+        "reviews": "255 reviews",
+        "phone": "(415) 817-1939",
+        "address": "528 Divisidero St"
+    },
+    {
+        "name": "Absinthe Brasserie & Bar",
+        "rating": "4 star rating",
+        "reviews": "3245 reviews",
+        "phone": "(415) 551-1590",
+        "address": "398 Hayes St"
+    },
+    {
+        "name": "House Rules",
+        "rating": "4 star rating",
+        "reviews": "68 reviews",
+        "phone": "(415) 722-9109",
+        "address": "2227 Polk St"
+    },
+    {
+        "name": "Split",
+        "rating": "3.5 star rating",
+        "reviews": "530 reviews",
+        "phone": "(415) 296-8009",
+        "address": "145 4th St"
+    },
+    {
+        "name": "Urban Tavern",
+        "rating": "4 star rating",
+        "reviews": "261 reviews",
+        "phone": "(415) 923-4400",
+        "address": null
+    },
+    {
+        "name": "Hard Knox Cafe",
+        "rating": "4 star rating",
+        "reviews": "2143 reviews",
+        "phone": "(415) 648-3770",
+        "address": "2526 3rd St"
+    },
+    {
+        "name": "West of Pecos",
+        "rating": "4 star rating",
+        "reviews": "986 reviews",
+        "phone": "(415) 252-7000",
+        "address": "550 Valencia St"
+    },
+    {
+        "name": "Eats",
+        "rating": "4 star rating",
+        "reviews": "1143 reviews",
+        "phone": "(415) 751-8000",
+        "address": "50 Clement St"
+    },
+    {
+        "name": "Plain Jane",
+        "rating": "4.5 star rating",
+        "reviews": "181 reviews",
+        "phone": "(415) 654-5270",
+        "address": "1000 Guerrero St"
+    },
+    {
+        "name": "The Kezar Pub",
+        "rating": "4 star rating",
+        "reviews": "676 reviews",
+        "phone": "(415) 386-9292",
+        "address": "770 Stanyan St"
+    },
+    {
+        "name": "Eddie’s Cafe",
+        "rating": "4 star rating",
+        "reviews": "624 reviews",
+        "phone": "(415) 563-9780",
+        "address": "800 Divisadero St"
+    },
+    {
+        "name": "Corridor Restaurant",
+        "rating": "4 star rating",
+        "reviews": "374 reviews",
+        "phone": "(415) 834-5684",
+        "address": "100 Van Ness Ave"
+    },
+    {
+        "name": "ABV",
+        "rating": "4 star rating",
+        "reviews": "585 reviews",
+        "phone": "(415) 400-4748",
+        "address": "3174 16th St"
+    },
+    {
+        "name": "Biergarten",
+        "rating": "4 star rating",
+        "reviews": "539 reviews",
+        "phone": null,
+        "address": "424 Octavia St"
+    },
+    {
+        "name": "The Tipsy Pig",
+        "rating": "3.5 star rating",
+        "reviews": "1544 reviews",
+        "phone": "(415) 292-2300",
+        "address": "2231 Chestnut St"
+    },
+    {
+        "name": "Street Restaurant and Bar",
+        "rating": "4 star rating",
+        "reviews": "633 reviews",
+        "phone": "(415) 775-1055",
+        "address": "2141 Polk St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Recovery Room",
+        "rating": "4.5 star rating",
+        "reviews": "33 reviews",
+        "phone": "(415) 523-6988",
+        "address": "4528 Mission St"
+    },
+    {
+        "name": "The Ramp",
+        "rating": "3.5 star rating",
+        "reviews": "1079 reviews",
+        "phone": "(415) 621-2378",
+        "address": "855 Terry Francois St"
+    },
+    {
+        "name": "Phat Philly",
+        "rating": "4 star rating",
+        "reviews": "1015 reviews",
+        "phone": "(415) 550-7428",
+        "address": "3388 24th St"
+    },
+    {
+        "name": "Beachside Coffee Bar & Kitchen",
+        "rating": "4 star rating",
+        "reviews": "826 reviews",
+        "phone": "(415) 682-4961",
+        "address": "4300 Judah St"
+    },
+    {
+        "name": "International Smoke San Francisco",
+        "rating": "3.5 star rating",
+        "reviews": "1170 reviews",
+        "phone": "(415) 543-7474",
+        "address": "301 Mission St"
+    },
+    {
+        "name": "The Bear & Monarch",
+        "rating": "4 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 276-9888",
+        "address": null
+    },
+    {
+        "name": "Oscar’s Burger Deli",
+        "rating": "4 star rating",
+        "reviews": "60 reviews",
+        "phone": "(415) 206-9845",
+        "address": "1850 Cesar Chavez"
+    },
+    {
+        "name": "Chambers",
+        "rating": "4 star rating",
+        "reviews": "965 reviews",
+        "phone": "(415) 496-5178",
+        "address": "601 Eddy St"
+    },
+    {
+        "name": "Eat415",
+        "rating": null,
+        "reviews": null,
+        "phone": null,
+        "address": "406 Clement St"
+    },
+    {
+        "name": "RAW Sugar Factory",
+        "rating": "4 star rating",
+        "reviews": "503 reviews",
+        "phone": "(415) 872-6988",
+        "address": "525 Valencia St"
+    },
+    {
+        "name": "Lokma",
+        "rating": "4.5 star rating",
+        "reviews": "253 reviews",
+        "phone": "(415) 702-6219",
+        "address": "1801 Clement St"
+    },
+    {
+        "name": "Old Skool Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "548 reviews",
+        "phone": "(415) 822-8531",
+        "address": "1429 Mendell St"
+    },
+    {
+        "name": "The Cavalier",
+        "rating": "4 star rating",
+        "reviews": "1015 reviews",
+        "phone": "(415) 321-6000",
+        "address": null
+    },
+    {
+        "name": "Hi Dive",
+        "rating": "3.5 star rating",
+        "reviews": "528 reviews",
+        "phone": "(415) 977-0170",
+        "address": "The Embarcadero & Bryant St"
+    },
+    {
+        "name": "Cockscomb",
+        "rating": "4 star rating",
+        "reviews": "1235 reviews",
+        "phone": "(415) 974-0700",
+        "address": "564 4th St"
+    },
+    {
+        "name": "SoMa StrEat Food Park",
+        "rating": "4.5 star rating",
+        "reviews": "874 reviews",
+        "phone": null,
+        "address": "428 11th St"
+    },
+    {
+        "name": "Eagle Cafe",
+        "rating": "4 star rating",
+        "reviews": "82 reviews",
+        "phone": "(415) 484-1282",
+        "address": "Pier 39"
+    },
+    {
+        "name": "The Big 4",
+        "rating": "4 star rating",
+        "reviews": "651 reviews",
+        "phone": "(415) 771-1140",
+        "address": null
+    },
+    {
+        "name": "Straw Catering",
+        "rating": "4 star rating",
+        "reviews": "1769 reviews",
+        "phone": "(415) 431-3663",
+        "address": "203 Octavia Blvd"
+    },
+    {
+        "name": "Bartlett Hall",
+        "rating": "3.5 star rating",
+        "reviews": "855 reviews",
+        "phone": "(415) 433-4332",
+        "address": null
+    },
+    {
+        "name": "K-OZ Restaurant and Brewery",
+        "rating": "3.5 star rating",
+        "reviews": "116 reviews",
+        "phone": "(415) 872-9431",
+        "address": "121 7th St"
+    },
+    {
+        "name": "Sowl Bowls Thai Street Food",
+        "rating": "5 star rating",
+        "reviews": "57 reviews",
+        "phone": "(415) 814-2896",
+        "address": "138 6th St"
+    },
+    {
+        "name": "Hard Rock Cafe",
+        "rating": "2.5 star rating",
+        "reviews": "825 reviews",
+        "phone": "(415) 956-2013",
+        "address": "256 Pier 39 Concourse"
+    },
+    {
+        "name": "Surisan",
+        "rating": "4.5 star rating",
+        "reviews": "1790 reviews",
+        "phone": "(415) 771-8449",
+        "address": "505 Beach St"
+    },
+    {
+        "name": "Local Diner",
+        "rating": "4 star rating",
+        "reviews": "49 reviews",
+        "phone": "(415) 252-0247",
+        "address": "1244 Market St"
+    },
+    {
+        "name": "Wooly Pig",
+        "rating": "4.5 star rating",
+        "reviews": "656 reviews",
+        "phone": "(415) 592-8015",
+        "address": "2295 3rd St"
+    },
+    {
+        "name": "Hillstone",
+        "rating": "4 star rating",
+        "reviews": "2173 reviews",
+        "phone": "(415) 392-9280",
+        "address": "1800 Montgomery St"
+    },
+    {
+        "name": "Teeth",
+        "rating": "3.5 star rating",
+        "reviews": "1019 reviews",
+        "phone": "(415) 285-2380",
+        "address": "2323 Mission St"
+    },
+    {
+        "name": "Son’s Addition",
+        "rating": "4.5 star rating",
+        "reviews": "230 reviews",
+        "phone": "(415) 500-2817",
+        "address": "2990 24th St"
+    },
+    {
+        "name": "Palermo Pizza & Sandwiches",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 776-9999",
+        "address": "829 Geary St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "BIX",
+        "rating": "4 star rating",
+        "reviews": "1805 reviews",
+        "phone": "(415) 433-6300",
+        "address": "56 Gold St"
+    },
+    {
+        "name": "The Buena Vista",
+        "rating": "4 star rating",
+        "reviews": "2595 reviews",
+        "phone": "(415) 474-5044",
+        "address": "2765 Hyde St"
+    },
+    {
+        "name": "CA Burgers",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(650) 248-9105",
+        "address": null
+    },
+    {
+        "name": "Harvey’s",
+        "rating": "3.5 star rating",
+        "reviews": "795 reviews",
+        "phone": "(415) 431-4278",
+        "address": "500 Castro St"
+    },
+    {
+        "name": "Hi Tops",
+        "rating": "3.5 star rating",
+        "reviews": "411 reviews",
+        "phone": "(415) 551-2500",
+        "address": "2247 Market St"
+    },
+    {
+        "name": "Balboa Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "600 reviews",
+        "phone": "(415) 921-3944",
+        "address": "3199 Fillmore St"
+    },
+    {
+        "name": "JB’s Place",
+        "rating": "4.5 star rating",
+        "reviews": "168 reviews",
+        "phone": "(415) 626-7973",
+        "address": "1435 17th St"
+    },
+    {
+        "name": "Java House",
+        "rating": "3.5 star rating",
+        "reviews": "147 reviews",
+        "phone": "(415) 495-7260",
+        "address": "40 Pier"
+    },
+    {
+        "name": "Patriot House",
+        "rating": "3.5 star rating",
+        "reviews": "182 reviews",
+        "phone": "(415) 986-0797",
+        "address": "2 Embarcadero Ctr"
+    },
+    {
+        "name": "Hogwash",
+        "rating": "4.5 star rating",
+        "reviews": "1042 reviews",
+        "phone": "(415) 361-5500",
+        "address": "582 Sutter St"
+    },
+    {
+        "name": "SF Hole in the Wall Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "135 reviews",
+        "phone": "(415) 564-3900",
+        "address": "1825 Irving St"
+    },
+    {
+        "name": "The Pub At Ghirardelli Square",
+        "rating": "3.5 star rating",
+        "reviews": "909 reviews",
+        "phone": "(415) 351-0500",
+        "address": "851 Beach St"
+    },
+    {
+        "name": "Grubstake",
+        "rating": "3.5 star rating",
+        "reviews": "1092 reviews",
+        "phone": "(415) 673-8268",
+        "address": "1525 Pine St"
+    },
+    {
+        "name": "Toy Soldier",
+        "rating": "4 star rating",
+        "reviews": "150 reviews",
+        "phone": "(415) 906-9048",
+        "address": "52 Belden Pl"
+    },
+    {
+        "name": "The Saratoga",
+        "rating": "4.5 star rating",
+        "reviews": "312 reviews",
+        "phone": "(415) 932-6464",
+        "address": "1000 Larkin St"
+    },
+    {
+        "name": "Viking’s Giant Submarines",
+        "rating": "4 star rating",
+        "reviews": "150 reviews",
+        "phone": "(415) 586-5333",
+        "address": "2906 Diamond St"
+    },
+    {
+        "name": "Jake’s Steaks",
+        "rating": "4 star rating",
+        "reviews": "683 reviews",
+        "phone": "(415) 922-2211",
+        "address": "3301 Buchanan St"
+    },
+    {
+        "name": "Best O Burger",
+        "rating": "4 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 882-1717",
+        "address": "1 Market St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": "4 star rating",
+        "reviews": "163 reviews",
+        "phone": "(415) 362-1082",
+        "address": "441 Sutter St"
+    },
+    {
+        "name": "The Cheese Steak Shop",
+        "rating": "4 star rating",
+        "reviews": "910 reviews",
+        "phone": "(415) 346-3712",
+        "address": "1716 Divisadero St"
+    },
+    {
+        "name": "La Trappe",
+        "rating": "4 star rating",
+        "reviews": "833 reviews",
+        "phone": "(415) 440-8727",
+        "address": "800 Greenwich St"
+    },
+    {
+        "name": "KoJa Kitchen",
+        "rating": "4 star rating",
+        "reviews": "608 reviews",
+        "phone": "(415) 463-5085",
+        "address": "343 Clement St"
+    },
+    {
+        "name": "Sessions at the Presidio",
+        "rating": "3.5 star rating",
+        "reviews": "498 reviews",
+        "phone": "(415) 655-9413",
+        "address": "1 Letterman Dr"
+    },
+    {
+        "name": "Per Diem",
+        "rating": "4 star rating",
+        "reviews": "776 reviews",
+        "phone": "(415) 989-0300",
+        "address": "43 Sutter St"
+    },
+    {
+        "name": "Rocco’s Café",
+        "rating": "4 star rating",
+        "reviews": "980 reviews",
+        "phone": "(415) 554-0522",
+        "address": "1131 Folsom St"
+    },
+    {
+        "name": "Bistro Gambrinus",
+        "rating": "4 star rating",
+        "reviews": "293 reviews",
+        "phone": "(415) 221-7777",
+        "address": "1813 Fulton St"
+    },
+    {
+        "name": "The Boardroom",
+        "rating": "4 star rating",
+        "reviews": "423 reviews",
+        "phone": "(415) 982-8898",
+        "address": "1600 Powell St"
+    },
+    {
+        "name": "Dottie’s True Blue Cafe",
+        "rating": "4 star rating",
+        "reviews": "4486 reviews",
+        "phone": "(415) 254-9949",
+        "address": "28 6th St"
+    },
+    {
+        "name": "NKG Resturant",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 349-4552",
+        "address": "28 Leland Ave"
+    },
+    {
+        "name": "Fable",
+        "rating": "4 star rating",
+        "reviews": "438 reviews",
+        "phone": "(415) 590-2404",
+        "address": "558 Castro St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Perry’s - Embarcadero",
+        "rating": "3.5 star rating",
+        "reviews": "776 reviews",
+        "phone": "(415) 495-6500",
+        "address": null
+    },
+    {
+        "name": "Park Tavern",
+        "rating": "4 star rating",
+        "reviews": "1561 reviews",
+        "phone": "(415) 989-7300",
+        "address": "1652 Stockton St"
+    },
+    {
+        "name": "Bender’s Bar and Grill",
+        "rating": "4 star rating",
+        "reviews": "438 reviews",
+        "phone": "(415) 824-1800",
+        "address": "806 S Van Ness Ave"
+    },
+    {
+        "name": "Fog Harbor Fish House",
+        "rating": "4 star rating",
+        "reviews": "5894 reviews",
+        "phone": "(415) 421-2442",
+        "address": "Pier 39"
+    },
+    {
+        "name": "It’s Tops Coffee Shop",
+        "rating": "3.5 star rating",
+        "reviews": "477 reviews",
+        "phone": "(415) 431-6395",
+        "address": "1801 Market St"
+    },
+    {
+        "name": "South Park Cafe",
+        "rating": "5 star rating",
+        "reviews": "32 reviews",
+        "phone": "(415) 738-7903",
+        "address": "108 S Park St"
+    },
+    {
+        "name": "Buckhorn Grill",
+        "rating": "3.5 star rating",
+        "reviews": "243 reviews",
+        "phone": "(415) 989-1071",
+        "address": "4 Embarcadero Ctr"
+    },
+    {
+        "name": "Hard Knox Cafe",
+        "rating": "4 star rating",
+        "reviews": "1677 reviews",
+        "phone": "(415) 752-3770",
+        "address": "2448 Clement St"
+    },
+    {
+        "name": "The Grove - Hayes",
+        "rating": "3.5 star rating",
+        "reviews": "1041 reviews",
+        "phone": "(415) 624-3953",
+        "address": "301 Hayes St"
+    },
+    {
+        "name": "Woodbury",
+        "rating": "4 star rating",
+        "reviews": "209 reviews",
+        "phone": "(415) 475-9398",
+        "address": "685 3rd St"
+    },
+    {
+        "name": "Fat Angel",
+        "rating": "4 star rating",
+        "reviews": "820 reviews",
+        "phone": "(415) 525-3013",
+        "address": "1740 O'Farrell St"
+    },
+    {
+        "name": "Barrel Proof",
+        "rating": "4 star rating",
+        "reviews": "75 reviews",
+        "phone": "(415) 932-6132",
+        "address": "2331 Mission St"
+    },
+    {
+        "name": "Last Drop Tavern",
+        "rating": "4 star rating",
+        "reviews": "414 reviews",
+        "phone": "(415) 989-7131",
+        "address": "550 Powell St"
+    },
+    {
+        "name": "Tap415",
+        "rating": "3.5 star rating",
+        "reviews": "444 reviews",
+        "phone": "(415) 266-7900",
+        "address": null
+    },
+    {
+        "name": "Mel’s Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "123 reviews",
+        "phone": "(415) 292-6357",
+        "address": "1050 Van Ness Ave"
+    },
+    {
+        "name": "The Vault Restaurant",
+        "rating": "4 star rating",
+        "reviews": "65 reviews",
+        "phone": "(415) 508-4675",
+        "address": "555 California St"
+    },
+    {
+        "name": "Brenda’s French Soul Food",
+        "rating": "4 star rating",
+        "reviews": "10889 reviews",
+        "phone": "(415) 345-8100",
+        "address": "652 Polk St"
+    },
+    {
+        "name": "CyBelle’s Front Room",
+        "rating": "4 star rating",
+        "reviews": "666 reviews",
+        "phone": "(415) 665-8088",
+        "address": "1385 9th Ave"
+    },
+    {
+        "name": "Orphan Andy’s",
+        "rating": "3.5 star rating",
+        "reviews": "938 reviews",
+        "phone": "(415) 864-9795",
+        "address": "3991 17th St"
+    },
+    {
+        "name": "Comstock Saloon",
+        "rating": "4 star rating",
+        "reviews": "965 reviews",
+        "phone": "(415) 617-0073",
+        "address": "155 Columbus Ave"
+    },
+    {
+        "name": "Mel’s Drive-In",
+        "rating": "3 star rating",
+        "reviews": "940 reviews",
+        "phone": "(415) 387-2244",
+        "address": "3355 Geary Blvd"
+    },
+    {
+        "name": "The Pub",
+        "rating": "3.5 star rating",
+        "reviews": "65 reviews",
+        "phone": "(415) 514-4748",
+        "address": "1675 Owens St"
+    },
+    {
+        "name": "Lord George",
+        "rating": "4 star rating",
+        "reviews": "266 reviews",
+        "phone": "(415) 660-7633",
+        "address": "555 2nd St"
+    },
+    {
+        "name": "Sutter Pub & Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "289 reviews",
+        "phone": "(415) 400-5840",
+        "address": "700 Sutter St"
+    },
+    {
+        "name": "Gilberth’s Latin Fusion Restaurant",
+        "rating": "4 star rating",
+        "reviews": "346 reviews",
+        "phone": "(415) 913-7163",
+        "address": "2427 3rd St"
+    },
+    {
+        "name": "Gentilly",
+        "rating": "4.5 star rating",
+        "reviews": "25 reviews",
+        "phone": "(415) 859-5633",
+        "address": "4826 Mission St"
+    },
+    {
+        "name": "Applebee’s Grill + Bar",
+        "rating": "2 star rating",
+        "reviews": "504 reviews",
+        "phone": "(415) 749-9025",
+        "address": "2770 Taylor St"
+    },
+    {
+        "name": "Krispy Krunchy Chicken",
+        "rating": "4 star rating",
+        "reviews": "67 reviews",
+        "phone": "(415) 874-9463",
+        "address": "4517 3rd St"
+    },
+    {
+        "name": "LaLe",
+        "rating": "4 star rating",
+        "reviews": "450 reviews",
+        "phone": "(415) 566-8814",
+        "address": "731 Irving St"
+    },
+    {
+        "name": "Deli Board",
+        "rating": "4.5 star rating",
+        "reviews": "1313 reviews",
+        "phone": "(415) 552-7687",
+        "address": "1058 Folsom St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Delancey Street Restaurant",
+        "rating": "4 star rating",
+        "reviews": "1585 reviews",
+        "phone": "(415) 512-5179",
+        "address": "600 The Embarcadero"
+    },
+    {
+        "name": "Allstar Donuts & Burgers",
+        "rating": "3.5 star rating",
+        "reviews": "29 reviews",
+        "phone": "(415) 921-5541",
+        "address": "290 Golden Gate Ave"
+    },
+    {
+        "name": "Niku Steakhouse",
+        "rating": "4 star rating",
+        "reviews": "204 reviews",
+        "phone": "(415) 829-7817",
+        "address": "61 Division St"
+    },
+    {
+        "name": "Sam Jordan’s Bar and Grill",
+        "rating": "4 star rating",
+        "reviews": "45 reviews",
+        "phone": "(415) 824-0155",
+        "address": "4004 3rd St"
+    },
+    {
+        "name": "21st Amendment Brewery",
+        "rating": "3.5 star rating",
+        "reviews": "2477 reviews",
+        "phone": "(415) 369-0900",
+        "address": "563 2nd St"
+    },
+    {
+        "name": "The Richmond",
+        "rating": "4.5 star rating",
+        "reviews": "674 reviews",
+        "phone": "(415) 379-8988",
+        "address": "615 Balboa St"
+    },
+    {
+        "name": "Hot Sauce and Panko",
+        "rating": "4.5 star rating",
+        "reviews": "1096 reviews",
+        "phone": "(415) 359-1908",
+        "address": "1468 Hyde St"
+    },
+    {
+        "name": "Bob’s Burgers",
+        "rating": null,
+        "reviews": null,
+        "phone": "(305) 606-6557",
+        "address": "244 Jackson St"
+    },
+    {
+        "name": "Olivier’s Butchery",
+        "rating": "4.5 star rating",
+        "reviews": "192 reviews",
+        "phone": "(415) 558-9887",
+        "address": "1074 Illinois St"
+    },
+    {
+        "name": "Aracely Cafe",
+        "rating": "4 star rating",
+        "reviews": "245 reviews",
+        "phone": "(415) 985-7117",
+        "address": "401 13th St"
+    },
+    {
+        "name": "The Alembic",
+        "rating": "4 star rating",
+        "reviews": "1674 reviews",
+        "phone": "(415) 666-0822",
+        "address": "1725 Haight St"
+    },
+    {
+        "name": "Cafe Réveille",
+        "rating": "4 star rating",
+        "reviews": "103 reviews",
+        "phone": "(415) 529-2034",
+        "address": "201 Steiner St"
+    },
+    {
+        "name": "Curio",
+        "rating": "4 star rating",
+        "reviews": "98 reviews",
+        "phone": "(415) 551-7306",
+        "address": "775 Valencia St"
+    },
+    {
+        "name": "Mendocino Farms",
+        "rating": "4 star rating",
+        "reviews": "182 reviews",
+        "phone": "(415) 321-2170",
+        "address": "465 California St"
+    },
+    {
+        "name": "Little Creatures Mission Bay",
+        "rating": "3.5 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 525-4407",
+        "address": "1000A 3rd St"
+    },
+    {
+        "name": "Sea Breeze Restaurant",
+        "rating": "4 star rating",
+        "reviews": "472 reviews",
+        "phone": "(415) 242-6022",
+        "address": "3940 Judah St"
+    },
+    {
+        "name": "Seniore’s Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "229 reviews",
+        "phone": "(415) 400-5222",
+        "address": "559 Divisadero St"
+    },
+    {
+        "name": "Sunset Cantina",
+        "rating": "4.5 star rating",
+        "reviews": "50 reviews",
+        "phone": "(415) 571-8874",
+        "address": "3414-3416 Judah St"
+    },
+    {
+        "name": "ONE65 Bistro & Grill",
+        "rating": "4.5 star rating",
+        "reviews": "78 reviews",
+        "phone": "(628) 225-2806",
+        "address": null
+    },
+    {
+        "name": "Harry’s Bar",
+        "rating": "3 star rating",
+        "reviews": "874 reviews",
+        "phone": "(415) 921-1000",
+        "address": "2020 Fillmore St"
+    },
+    {
+        "name": "Phillies",
+        "rating": "4 star rating",
+        "reviews": "267 reviews",
+        "phone": "(415) 334-9606",
+        "address": "932 Geneva Ave"
+    },
+    {
+        "name": "Pier Market Stand",
+        "rating": "4 star rating",
+        "reviews": "67 reviews",
+        "phone": "(415) 989-7437",
+        "address": "Pier 39"
+    },
+    {
+        "name": "Mel’s Drive-In",
+        "rating": "3.5 star rating",
+        "reviews": "2198 reviews",
+        "phone": "(415) 227-0793",
+        "address": "801 Mission St"
+    },
+    {
+        "name": "Trademark",
+        "rating": "4 star rating",
+        "reviews": "242 reviews",
+        "phone": "(415) 738-8838",
+        "address": "1123 Folsom St"
+    },
+    {
+        "name": "Me So Hungry",
+        "rating": "3.5 star rating",
+        "reviews": "205 reviews",
+        "phone": "(415) 366-3886",
+        "address": null
+    },
+    {
+        "name": "Original Perfect Hamburger",
+        "rating": "3 star rating",
+        "reviews": "106 reviews",
+        "phone": "(415) 474-4598",
+        "address": "601 Geary St"
+    },
+    {
+        "name": "Outer Orbit",
+        "rating": "4.5 star rating",
+        "reviews": "75 reviews",
+        "phone": "(415) 574-6166",
+        "address": "3215 Mission St"
+    },
+    {
+        "name": "Kezar Bar & Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "339 reviews",
+        "phone": "(415) 681-7678",
+        "address": "900 Cole St"
+    },
+    {
+        "name": "Capt Eddie Rickenbackers",
+        "rating": "3.5 star rating",
+        "reviews": "137 reviews",
+        "phone": "(415) 800-6659",
+        "address": "133 2nd St"
+    },
+    {
+        "name": "Spark Social SF",
+        "rating": "4.5 star rating",
+        "reviews": "331 reviews",
+        "phone": null,
+        "address": null
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "El Capitan Taqueria",
+        "rating": "3.5 star rating",
+        "reviews": "16 reviews",
+        "phone": null,
+        "address": "4150 18th St"
+    },
+    {
+        "name": "Palm House",
+        "rating": "4 star rating",
+        "reviews": "830 reviews",
+        "phone": "(415) 400-4355",
+        "address": "2032 Union St"
+    },
+    {
+        "name": "The Brixton",
+        "rating": "3.5 star rating",
+        "reviews": "851 reviews",
+        "phone": "(415) 409-1114",
+        "address": "2140 Union St"
+    },
+    {
+        "name": "Dapper Dog",
+        "rating": "4 star rating",
+        "reviews": "191 reviews",
+        "phone": "(415) 553-6332",
+        "address": "417 Castro St"
+    },
+    {
+        "name": "Trick Dog",
+        "rating": "4 star rating",
+        "reviews": "804 reviews",
+        "phone": "(415) 471-2999",
+        "address": "3010 20th St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2.5 star rating",
+        "reviews": "74 reviews",
+        "phone": "(415) 386-8478",
+        "address": "3900 Geary Blvd"
+    },
+    {
+        "name": "Commons Club",
+        "rating": "4 star rating",
+        "reviews": "80 reviews",
+        "phone": "(415) 534-6500",
+        "address": "250 4th St"
+    },
+    {
+        "name": "Original Joe’s",
+        "rating": "4 star rating",
+        "reviews": "1417 reviews",
+        "phone": "(415) 775-4877",
+        "address": "601 Union St"
+    },
+    {
+        "name": "PianoFight",
+        "rating": "4.5 star rating",
+        "reviews": "197 reviews",
+        "phone": "(415) 816-3691",
+        "address": "144 Taylor St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2 star rating",
+        "reviews": "44 reviews",
+        "phone": "(415) 641-9885",
+        "address": "1690 Valencia Street"
+    },
+    {
+        "name": "The Beach Chalet Brewery & Restaurant",
+        "rating": "3 star rating",
+        "reviews": "2792 reviews",
+        "phone": "(415) 386-8439",
+        "address": "1000 Great Hwy"
+    },
+    {
+        "name": "The Royal Exchange",
+        "rating": "3.5 star rating",
+        "reviews": "553 reviews",
+        "phone": "(415) 956-1710",
+        "address": "301 Sacramento St"
+    },
+    {
+        "name": "Pluto’s",
+        "rating": "4 star rating",
+        "reviews": "1185 reviews",
+        "phone": "(415) 753-8867",
+        "address": "627 Irving St"
+    },
+    {
+        "name": "Mars Bar & Restaurant",
+        "rating": "4 star rating",
+        "reviews": "440 reviews",
+        "phone": "(415) 621-6277",
+        "address": "798 Brannan St"
+    },
+    {
+        "name": "Villon",
+        "rating": "4 star rating",
+        "reviews": "232 reviews",
+        "phone": "(628) 895-2040",
+        "address": null
+    },
+    {
+        "name": "Universal Cafe",
+        "rating": "4 star rating",
+        "reviews": "1348 reviews",
+        "phone": "(415) 821-4608",
+        "address": "2814 19th St"
+    },
+    {
+        "name": "Me & Tasty",
+        "rating": "4 star rating",
+        "reviews": "305 reviews",
+        "phone": "(415) 923-8498",
+        "address": "3970 17th St"
+    },
+    {
+        "name": "B on the Go",
+        "rating": "4 star rating",
+        "reviews": "178 reviews",
+        "phone": "(415) 589-7112",
+        "address": "2794 California St"
+    },
+    {
+        "name": "CatHead’s BBQ",
+        "rating": "4 star rating",
+        "reviews": "915 reviews",
+        "phone": "(415) 861-4242",
+        "address": "1665 Folsom St"
+    },
+    {
+        "name": "Rambler",
+        "rating": "3.5 star rating",
+        "reviews": "454 reviews",
+        "phone": "(415) 549-8008",
+        "address": null
+    },
+    {
+        "name": "Aramex",
+        "rating": "4.5 star rating",
+        "reviews": "11 reviews",
+        "phone": "(415) 923-8481",
+        "address": "2020 Mission St"
+    },
+    {
+        "name": "Seven Stills Nob Hill",
+        "rating": "4 star rating",
+        "reviews": "52 reviews",
+        "phone": "(415) 989-3500",
+        "address": null
+    },
+    {
+        "name": "Lemonade",
+        "rating": "3 star rating",
+        "reviews": "191 reviews",
+        "phone": "(415) 329-5111",
+        "address": "16 W Portal Ave"
+    },
+    {
+        "name": "Paula’s Cafe",
+        "rating": null,
+        "reviews": null,
+        "phone": "(415) 865-0522",
+        "address": "488 Haight St"
+    },
+    {
+        "name": "Mel’s Drive-In",
+        "rating": "3 star rating",
+        "reviews": "597 reviews",
+        "phone": "(415) 921-3039",
+        "address": "2165 Lombard St"
+    },
+    {
+        "name": "Pork Store Cafe",
+        "rating": "4 star rating",
+        "reviews": "1342 reviews",
+        "phone": "(415) 864-6981",
+        "address": "1451 Haight St"
+    },
+    {
+        "name": "Schroeder’s",
+        "rating": "3.5 star rating",
+        "reviews": "475 reviews",
+        "phone": "(415) 421-4778",
+        "address": "240 Front St"
+    },
+    {
+        "name": "Morty’s Delicatessen",
+        "rating": "4 star rating",
+        "reviews": "519 reviews",
+        "phone": "(415) 567-3354",
+        "address": "280 Golden Gate Ave"
+    },
+    {
+        "name": "Johnny Foley’s",
+        "rating": "4 star rating",
+        "reviews": "1294 reviews",
+        "phone": "(415) 954-0777",
+        "address": null
+    },
+    {
+        "name": "Old Ship Saloon",
+        "rating": "3.5 star rating",
+        "reviews": "373 reviews",
+        "phone": "(415) 788-2222",
+        "address": "298 Pacific Ave"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Connecticut Yankee",
+        "rating": "3.5 star rating",
+        "reviews": "499 reviews",
+        "phone": "(415) 552-4440",
+        "address": "100 Connecticut St"
+    },
+    {
+        "name": "Bluestem Brasserie",
+        "rating": "4 star rating",
+        "reviews": "1702 reviews",
+        "phone": "(415) 547-1111",
+        "address": "One Yerba Buena Ln"
+    },
+    {
+        "name": "Jim Georgie’s Donuts",
+        "rating": "4.5 star rating",
+        "reviews": "152 reviews",
+        "phone": "(415) 468-3413",
+        "address": "2462 San Bruno Ave"
+    },
+    {
+        "name": "Buckhorn Grill - SF 845 Market",
+        "rating": "3.5 star rating",
+        "reviews": "333 reviews",
+        "phone": "(415) 978-9770",
+        "address": null
+    },
+    {
+        "name": "The Pork Exchange",
+        "rating": "4.5 star rating",
+        "reviews": "94 reviews",
+        "phone": "(415) 932-6931",
+        "address": "807 Ellis St"
+    },
+    {
+        "name": "Hardwood Bar & Smokery",
+        "rating": "4 star rating",
+        "reviews": "102 reviews",
+        "phone": "(415) 796-2437",
+        "address": "680 8th St"
+    },
+    {
+        "name": "Osteria Bella",
+        "rating": "4.5 star rating",
+        "reviews": "95 reviews",
+        "phone": "(415) 221-0305",
+        "address": "3848 Geary Blvd"
+    },
+    {
+        "name": "Stacks",
+        "rating": "3.5 star rating",
+        "reviews": "1638 reviews",
+        "phone": "(415) 241-9011",
+        "address": "501 Hayes St"
+    },
+    {
+        "name": "Double Play Bar & Grill",
+        "rating": "4 star rating",
+        "reviews": "129 reviews",
+        "phone": "(415) 621-9859",
+        "address": "2401 16th St"
+    },
+    {
+        "name": "Smack Shack",
+        "rating": "1.5 star rating",
+        "reviews": "3 reviews",
+        "phone": "(415) 813-1033",
+        "address": "1525 Pine St"
+    },
+    {
+        "name": "Murphy’s Pub",
+        "rating": "3 star rating",
+        "reviews": "424 reviews",
+        "phone": "(415) 693-9588",
+        "address": "217 Kearny St"
+    },
+    {
+        "name": "Super Duper Burgers",
+        "rating": "3.5 star rating",
+        "reviews": "5 reviews",
+        "phone": null,
+        "address": null
+    },
+    {
+        "name": "Zaytoon Mediterranean",
+        "rating": "4 star rating",
+        "reviews": "87 reviews",
+        "phone": "(415) 674-4115",
+        "address": "607 Divisadero St"
+    },
+    {
+        "name": "Sparrow Bar and Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "411 reviews",
+        "phone": "(415) 622-6137",
+        "address": "1640 Haight St"
+    },
+    {
+        "name": "Steins",
+        "rating": "4 star rating",
+        "reviews": "229 reviews",
+        "phone": "(415) 221-3888",
+        "address": "731 Clement St"
+    },
+    {
+        "name": "Monza Pizzeria",
+        "rating": "4 star rating",
+        "reviews": "50 reviews",
+        "phone": "(415) 587-4992",
+        "address": "1934 Ocean Ave"
+    },
+    {
+        "name": "Brazen Head",
+        "rating": "4 star rating",
+        "reviews": "735 reviews",
+        "phone": "(415) 610-7054",
+        "address": "3166 Buchanan St"
+    },
+    {
+        "name": "Public House",
+        "rating": "3.5 star rating",
+        "reviews": "527 reviews",
+        "phone": "(415) 644-0240",
+        "address": "24 Willie Mays Plz"
+    },
+    {
+        "name": "SPIN - San Francisco",
+        "rating": "4 star rating",
+        "reviews": "284 reviews",
+        "phone": "(415) 636-5995",
+        "address": "690 Folsom St"
+    },
+    {
+        "name": "City Beer Store",
+        "rating": "4.5 star rating",
+        "reviews": "759 reviews",
+        "phone": "(415) 503-1033",
+        "address": "1148 Mission St"
+    },
+    {
+        "name": "Prospect",
+        "rating": "4 star rating",
+        "reviews": "1557 reviews",
+        "phone": "(415) 247-7770",
+        "address": "300 Spear St"
+    },
+    {
+        "name": "Fort Point Ferry Building",
+        "rating": "4 star rating",
+        "reviews": "90 reviews",
+        "phone": "(415) 906-4021",
+        "address": "1 The Embarcadero"
+    },
+    {
+        "name": "Zuni Café",
+        "rating": "4 star rating",
+        "reviews": "2735 reviews",
+        "phone": "(415) 552-2522",
+        "address": "1658 Market St"
+    },
+    {
+        "name": "Fly Bar",
+        "rating": "4 star rating",
+        "reviews": "749 reviews",
+        "phone": "(415) 780-1630",
+        "address": "762 Divisadero St"
+    },
+    {
+        "name": "opa cafe",
+        "rating": "4.5 star rating",
+        "reviews": "266 reviews",
+        "phone": "(415) 913-7745",
+        "address": "2401 Post St"
+    },
+    {
+        "name": "Anchor Brewing Company",
+        "rating": "5 star rating",
+        "reviews": "727 reviews",
+        "phone": "(415) 863-8350",
+        "address": "1705 Mariposa St"
+    },
+    {
+        "name": "Lucho’s",
+        "rating": "4.5 star rating",
+        "reviews": "175 reviews",
+        "phone": "(415) 347-7416",
+        "address": "2675 Ocean Ave"
+    },
+    {
+        "name": "Jasper’s Corner Tap and Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "1158 reviews",
+        "phone": "(415) 775-7979",
+        "address": null
+    },
+    {
+        "name": "Cafe Mystique",
+        "rating": "3.5 star rating",
+        "reviews": "539 reviews",
+        "phone": "(415) 865-9963",
+        "address": "464 Castro St"
+    },
+    {
+        "name": "Memphis Minnie’s",
+        "rating": "3.5 star rating",
+        "reviews": "1573 reviews",
+        "phone": "(415) 864-7675",
+        "address": "576 Haight St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Thirsty Bear Brewing Company",
+        "rating": "3.5 star rating",
+        "reviews": "1916 reviews",
+        "phone": "(415) 974-0905",
+        "address": "661 Howard St"
+    },
+    {
+        "name": "Willkommen",
+        "rating": "4.5 star rating",
+        "reviews": "74 reviews",
+        "phone": "(415) 766-9225",
+        "address": "2198 Market St"
+    },
+    {
+        "name": "Noe’s Cantina",
+        "rating": "3.5 star rating",
+        "reviews": "50 reviews",
+        "phone": "(415) 282-4007",
+        "address": "1199 Church St"
+    },
+    {
+        "name": "Perrys Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "8 reviews",
+        "phone": null,
+        "address": "2383 Greenwich"
+    },
+    {
+        "name": "Simply Delish",
+        "rating": "4.5 star rating",
+        "reviews": "66 reviews",
+        "phone": "(415) 529-1649",
+        "address": "5668 3rd St"
+    },
+    {
+        "name": "The Napper Tandy",
+        "rating": "4 star rating",
+        "reviews": "325 reviews",
+        "phone": "(415) 550-7510",
+        "address": "3200 24th St"
+    },
+    {
+        "name": "Upcider",
+        "rating": "4 star rating",
+        "reviews": "598 reviews",
+        "phone": "(415) 966-5730",
+        "address": "1160 Polk St"
+    },
+    {
+        "name": "Atlas Tap Room",
+        "rating": "4 star rating",
+        "reviews": "184 reviews",
+        "phone": "(415) 308-5806",
+        "address": "606 Mission St"
+    },
+    {
+        "name": "Food Emporium",
+        "rating": "4 star rating",
+        "reviews": "302 reviews",
+        "phone": "(415) 512-6776",
+        "address": null
+    },
+    {
+        "name": "Noosh",
+        "rating": "4 star rating",
+        "reviews": "292 reviews",
+        "phone": "(415) 231-5985",
+        "address": "2001 Fillmore St"
+    },
+    {
+        "name": "RT Rotisserie",
+        "rating": "4 star rating",
+        "reviews": "408 reviews",
+        "phone": null,
+        "address": "101 Oak St"
+    },
+    {
+        "name": "Whitechapel SF",
+        "rating": "4 star rating",
+        "reviews": "457 reviews",
+        "phone": "(415) 292-5800",
+        "address": "600 Polk St"
+    },
+    {
+        "name": "um.ma",
+        "rating": "4 star rating",
+        "reviews": "240 reviews",
+        "phone": "(415) 566-5777",
+        "address": "1220 9th Ave"
+    },
+    {
+        "name": "New Taraval Cafe",
+        "rating": "4 star rating",
+        "reviews": "505 reviews",
+        "phone": "(415) 731-3816",
+        "address": "1054 Taraval St"
+    },
+    {
+        "name": "Lou’s Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "1484 reviews",
+        "phone": "(415) 379-4429",
+        "address": "5017 Geary Blvd"
+    },
+    {
+        "name": "Giordano Bros",
+        "rating": "4 star rating",
+        "reviews": "437 reviews",
+        "phone": "(415) 437-2767",
+        "address": "3108 16th St"
+    },
+    {
+        "name": "Pizza Zone N Grill",
+        "rating": "3 star rating",
+        "reviews": "327 reviews",
+        "phone": "(415) 701-7300",
+        "address": "178 Valencia St"
+    },
+    {
+        "name": "Anchor Oyster Bar",
+        "rating": "4.5 star rating",
+        "reviews": "1485 reviews",
+        "phone": "(415) 431-3990",
+        "address": "579 Castro St"
+    },
+    {
+        "name": "Jack in the Box",
+        "rating": "3 star rating",
+        "reviews": "154 reviews",
+        "phone": "(415) 752-4916",
+        "address": "4649 Geary Blvd"
+    },
+    {
+        "name": "The Deli Lama",
+        "rating": "4.5 star rating",
+        "reviews": "81 reviews",
+        "phone": "(415) 821-3795",
+        "address": "150 Toland St"
+    },
+    {
+        "name": "Mymy",
+        "rating": "4 star rating",
+        "reviews": "1714 reviews",
+        "phone": "(415) 800-7466",
+        "address": "1500 California St"
+    },
+    {
+        "name": "Art’s Cafe",
+        "rating": "4 star rating",
+        "reviews": "1097 reviews",
+        "phone": "(415) 665-7440",
+        "address": "747 Irving St"
+    },
+    {
+        "name": "Palmer’s",
+        "rating": "3.5 star rating",
+        "reviews": "255 reviews",
+        "phone": "(415) 732-7777",
+        "address": "2298 Fillmore St"
+    },
+    {
+        "name": "San Francisco Brewing",
+        "rating": "3.5 star rating",
+        "reviews": "240 reviews",
+        "phone": "(415) 484-2337",
+        "address": "3150 Polk St"
+    },
+    {
+        "name": "Slice House Haight by Tony Gemignani",
+        "rating": "4 star rating",
+        "reviews": "246 reviews",
+        "phone": "(415) 552-2520",
+        "address": "1535 Haight St"
+    },
+    {
+        "name": "Planet Cafe",
+        "rating": "5 star rating",
+        "reviews": "23 reviews",
+        "phone": "(415) 553-4595",
+        "address": "244 Gough St"
+    },
+    {
+        "name": "ATwater Tavern",
+        "rating": "3.5 star rating",
+        "reviews": "321 reviews",
+        "phone": "(415) 512-7153",
+        "address": "295 Terry A Francois Blvd"
+    },
+    {
+        "name": "Toast Eatery",
+        "rating": "3.5 star rating",
+        "reviews": "760 reviews",
+        "phone": "(415) 282-4328",
+        "address": "1748 Church St"
+    },
+    {
+        "name": "Mission’s Kitchen",
+        "rating": "4 star rating",
+        "reviews": "164 reviews",
+        "phone": "(415) 648-1577",
+        "address": "2738 Mission St"
+    },
+    {
+        "name": "Turner’s Kitchen",
+        "rating": "4.5 star rating",
+        "reviews": "314 reviews",
+        "phone": "(415) 621-3505",
+        "address": "3505 17th St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Bergerac",
+        "rating": "4 star rating",
+        "reviews": "307 reviews",
+        "phone": "(415) 255-9440",
+        "address": "316 11th St"
+    },
+    {
+        "name": "Mogador Moroccan Bistro",
+        "rating": "4 star rating",
+        "reviews": "23 reviews",
+        "phone": null,
+        "address": "105 Valencia St"
+    },
+    {
+        "name": "White Horse Tavern & Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "276 reviews",
+        "phone": "(415) 673-9900",
+        "address": null
+    },
+    {
+        "name": "Crepevine Restaurant",
+        "rating": "4 star rating",
+        "reviews": "1572 reviews",
+        "phone": "(415) 681-5858",
+        "address": "624 Irving St"
+    },
+    {
+        "name": "Mac Daddy",
+        "rating": "4 star rating",
+        "reviews": "531 reviews",
+        "phone": "(415) 872-6670",
+        "address": "1453 18th St"
+    },
+    {
+        "name": "All Star Cafe",
+        "rating": "4 star rating",
+        "reviews": "179 reviews",
+        "phone": "(415) 863-4949",
+        "address": "98 9th St"
+    },
+    {
+        "name": "Bell Tower",
+        "rating": "3.5 star rating",
+        "reviews": "601 reviews",
+        "phone": "(415) 567-9596",
+        "address": "1900 Polk St"
+    },
+    {
+        "name": "Skool",
+        "rating": "4 star rating",
+        "reviews": "1739 reviews",
+        "phone": "(415) 255-8800",
+        "address": "1725 Alameda St"
+    },
+    {
+        "name": "Tadich Grill",
+        "rating": "4 star rating",
+        "reviews": "2423 reviews",
+        "phone": "(415) 391-1849",
+        "address": "240 California St"
+    },
+    {
+        "name": "Anchor Grill",
+        "rating": "4.5 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": "24 Willie Mays Plz"
+    },
+    {
+        "name": "Freds San Francisco",
+        "rating": "3.5 star rating",
+        "reviews": "39 reviews",
+        "phone": "(415) 268-3550",
+        "address": null
+    },
+    {
+        "name": "Redford",
+        "rating": "4 star rating",
+        "reviews": "446 reviews",
+        "phone": "(415) 563-8192",
+        "address": "673 Geary St"
+    },
+    {
+        "name": "The Rotunda",
+        "rating": "4 star rating",
+        "reviews": "1649 reviews",
+        "phone": "(415) 249-2720",
+        "address": null
+    },
+    {
+        "name": "Breakfast at Tiffany’s",
+        "rating": "4 star rating",
+        "reviews": "870 reviews",
+        "phone": "(415) 468-8805",
+        "address": "2499 San Bruno Ave"
+    },
+    {
+        "name": "1760",
+        "rating": "4 star rating",
+        "reviews": "696 reviews",
+        "phone": "(415) 359-1212",
+        "address": "1760 Polk St"
+    },
+    {
+        "name": "Guckenheimer Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "10 reviews",
+        "phone": null,
+        "address": "420 Montgomery St"
+    },
+    {
+        "name": "Blue Barn Gourmet",
+        "rating": "4 star rating",
+        "reviews": "511 reviews",
+        "phone": "(415) 655-9438",
+        "address": "2237 Polk St"
+    },
+    {
+        "name": "Adams 74",
+        "rating": "4.5 star rating",
+        "reviews": "8 reviews",
+        "phone": "(415) 814-3607",
+        "address": "101 Henry Adams St"
+    },
+    {
+        "name": "Garibaldi’s",
+        "rating": "4 star rating",
+        "reviews": "535 reviews",
+        "phone": "(415) 563-8841",
+        "address": "347 Presidio Ave"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": "2 star rating",
+        "reviews": "180 reviews",
+        "phone": "(415) 923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "The Barrel Room",
+        "rating": "4 star rating",
+        "reviews": "310 reviews",
+        "phone": "(415) 956-6900",
+        "address": "415 Sansome St"
+    },
+    {
+        "name": "The Grove - Design District",
+        "rating": "3.5 star rating",
+        "reviews": "223 reviews",
+        "phone": "(415) 834-5105",
+        "address": "1 Henry Adams St"
+    },
+    {
+        "name": "Salt Pt. Meat Share",
+        "rating": "4.5 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": null
+    },
+    {
+        "name": "Just For You Cafe",
+        "rating": "4 star rating",
+        "reviews": "1413 reviews",
+        "phone": "(415) 647-3033",
+        "address": "732 22nd St"
+    },
+    {
+        "name": "Original Buffalo Wings",
+        "rating": "3 star rating",
+        "reviews": "497 reviews",
+        "phone": "(415) 931-8181",
+        "address": "2499 Lombard St"
+    },
+    {
+        "name": "Rumors",
+        "rating": "4 star rating",
+        "reviews": "260 reviews",
+        "phone": "(415) 741-9691",
+        "address": "398 7th St"
+    },
+    {
+        "name": "Boulevard",
+        "rating": "4 star rating",
+        "reviews": "2650 reviews",
+        "phone": "(415) 543-6084",
+        "address": "1 Mission St"
+    },
+    {
+        "name": "The Sandwich Place",
+        "rating": "4.5 star rating",
+        "reviews": "278 reviews",
+        "phone": "(415) 431-3811",
+        "address": "2029 Mission St"
+    },
+    {
+        "name": "Pacific Plaza Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "130 reviews",
+        "phone": "(415) 928-8999",
+        "address": "1338 Franklin St"
+    },
+    {
+        "name": "Baby Blues BBQ",
+        "rating": "3.5 star rating",
+        "reviews": "1078 reviews",
+        "phone": "(415) 896-4250",
+        "address": "3149 Mission St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Big Joe’s",
+        "rating": "4 star rating",
+        "reviews": "496 reviews",
+        "phone": "(415) 333-2878",
+        "address": "717 Monterey Blvd"
+    },
+    {
+        "name": "Oasis Grill",
+        "rating": "4 star rating",
+        "reviews": "1242 reviews",
+        "phone": "(415) 781-0313",
+        "address": "91 Drumm St"
+    },
+    {
+        "name": "Rincon Center",
+        "rating": "3.5 star rating",
+        "reviews": "82 reviews",
+        "phone": "(415) 777-4100",
+        "address": "121 Spear St"
+    },
+    {
+        "name": "All Nite Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "9 reviews",
+        "phone": "(415) 822-3973",
+        "address": "5155 3rd St"
+    },
+    {
+        "name": "Silver Cafe",
+        "rating": "4 star rating",
+        "reviews": "34 reviews",
+        "phone": "(415) 586-3237",
+        "address": "4300 Mission St"
+    },
+    {
+        "name": "Gashead Tavern",
+        "rating": "4 star rating",
+        "reviews": "86 reviews",
+        "phone": "(415) 757-0554",
+        "address": "2351 Mission St"
+    },
+    {
+        "name": "Golden state pizza & grill",
+        "rating": "3.5 star rating",
+        "reviews": "24 reviews",
+        "phone": "(415) 467-4100",
+        "address": "2414 San Bruno Ave"
+    },
+    {
+        "name": "Tabletop Tap House",
+        "rating": "3 star rating",
+        "reviews": "133 reviews",
+        "phone": "(415) 369-6100",
+        "address": "175 4th St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2 star rating",
+        "reviews": "74 reviews",
+        "phone": "(415) 441-2510",
+        "address": "1701 FILLMORE ST"
+    },
+    {
+        "name": "Boudin Bakery & Cafe",
+        "rating": "4 star rating",
+        "reviews": "3681 reviews",
+        "phone": "(415) 928-1849",
+        "address": "160 Jefferson St"
+    },
+    {
+        "name": "The Morris",
+        "rating": "4.5 star rating",
+        "reviews": "238 reviews",
+        "phone": "(415) 612-8480",
+        "address": "2501 Mariposa St"
+    },
+    {
+        "name": "The American Grilled Cheese Kitchen",
+        "rating": "4 star rating",
+        "reviews": "1496 reviews",
+        "phone": "(415) 243-0107",
+        "address": "1 S Park St"
+    },
+    {
+        "name": "apizza",
+        "rating": "4 star rating",
+        "reviews": "57 reviews",
+        "phone": "(415) 796-2037",
+        "address": "2043 Fillmore St"
+    },
+    {
+        "name": "The Douglas Room",
+        "rating": "4.5 star rating",
+        "reviews": "91 reviews",
+        "phone": "(415) 673-2332",
+        "address": "345 Taylor St"
+    },
+    {
+        "name": "Woodhouse Fish Company",
+        "rating": "4 star rating",
+        "reviews": "2214 reviews",
+        "phone": "(415) 437-2722",
+        "address": "1914 Fillmore St"
+    },
+    {
+        "name": "Flames Burgers & Malts",
+        "rating": "3.5 star rating",
+        "reviews": "2 reviews",
+        "phone": "(415) 284-9508",
+        "address": "101 Spear St"
+    },
+    {
+        "name": "Carl’s Jr.",
+        "rating": "2 star rating",
+        "reviews": "120 reviews",
+        "phone": "(415) 391-5799",
+        "address": "1 Hallidie Plz"
+    },
+    {
+        "name": "TRANSIT",
+        "rating": "3.5 star rating",
+        "reviews": "88 reviews",
+        "phone": "(415) 561-4435",
+        "address": "215 Lincoln Blvd"
+    },
+    {
+        "name": "The Grind Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "549 reviews",
+        "phone": "(415) 864-0955",
+        "address": "783 Haight St"
+    },
+    {
+        "name": "Jack in the Box",
+        "rating": "3 star rating",
+        "reviews": "207 reviews",
+        "phone": "(415) 673-0868",
+        "address": "400 Geary St"
+    },
+    {
+        "name": "Soluna Cafe and Lounge",
+        "rating": "3 star rating",
+        "reviews": "542 reviews",
+        "phone": "(415) 621-2200",
+        "address": "272 McAllister St"
+    },
+    {
+        "name": "Orrick Cafe",
+        "rating": "3 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": "405 Howard St"
+    },
+    {
+        "name": "Sutter St. Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "193 reviews",
+        "phone": "(415) 362-8342",
+        "address": "450 Sutter St"
+    },
+    {
+        "name": "Barebottle Brewing Company",
+        "rating": "4.5 star rating",
+        "reviews": "410 reviews",
+        "phone": "(415) 291-2404",
+        "address": "1525 Cortland Ave"
+    },
+    {
+        "name": "IHOP",
+        "rating": "3 star rating",
+        "reviews": "237 reviews",
+        "phone": "(415) 837-0221",
+        "address": "200 Beach St"
+    },
+    {
+        "name": "Crepes On Cole",
+        "rating": "3.5 star rating",
+        "reviews": "678 reviews",
+        "phone": "(415) 664-1800",
+        "address": "100 Carl St"
+    },
+    {
+        "name": "Pa’ina Lounge & Restaurant",
+        "rating": "4 star rating",
+        "reviews": "583 reviews",
+        "phone": "(415) 829-2642",
+        "address": "1865 Post St"
+    },
+    {
+        "name": "U :Dessert Story Vintage Brunch+Dessert",
+        "rating": "4 star rating",
+        "reviews": "178 reviews",
+        "phone": "(415) 525-4137",
+        "address": "2120 Greenwich St"
+    },
+    {
+        "name": "Rite Spot Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "142 reviews",
+        "phone": "(415) 552-6066",
+        "address": "2099 Folsom St"
+    },
+    {
+        "name": "Mccovey’s Restaurant 44 Barbecue",
+        "rating": "4 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": "24 Willie Mays Plz"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Cafe Reverie",
+        "rating": "4 star rating",
+        "reviews": "561 reviews",
+        "phone": "(415) 242-0200",
+        "address": "848 Cole St"
+    },
+    {
+        "name": "The Organic Coup",
+        "rating": "3.5 star rating",
+        "reviews": "97 reviews",
+        "phone": "(415) 660-2030",
+        "address": null
+    },
+    {
+        "name": "Moonlight Cafe",
+        "rating": "4 star rating",
+        "reviews": "239 reviews",
+        "phone": "(415) 647-6448",
+        "address": "634 Cortland Ave"
+    },
+    {
+        "name": "Ted’s Sports Bar & Grill",
+        "rating": "4 star rating",
+        "reviews": "167 reviews",
+        "phone": "(415) 861-2811",
+        "address": "312 Harriet St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2 star rating",
+        "reviews": "107 reviews",
+        "phone": "(415) 775-4211",
+        "address": "819 Van Ness Ave"
+    },
+    {
+        "name": "The Fly Trap",
+        "rating": "4 star rating",
+        "reviews": "966 reviews",
+        "phone": "(415) 243-0580",
+        "address": "606 Folsom St"
+    },
+    {
+        "name": "Tiffanys Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "51 reviews",
+        "phone": "(415) 824-1715",
+        "address": "3801 3rd St"
+    },
+    {
+        "name": "Presidio Social Club",
+        "rating": "3.5 star rating",
+        "reviews": "1171 reviews",
+        "phone": "(415) 885-1888",
+        "address": "563 Ruger St"
+    },
+    {
+        "name": "Egg White Cafe",
+        "rating": "5 star rating",
+        "reviews": "26 reviews",
+        "phone": "(415) 658-7494",
+        "address": "3401 Mission St"
+    },
+    {
+        "name": "HRD",
+        "rating": "4 star rating",
+        "reviews": "2479 reviews",
+        "phone": "(415) 543-2355",
+        "address": "521A 3rd St"
+    },
+    {
+        "name": "Joanie’s Happy Days Diner",
+        "rating": "4 star rating",
+        "reviews": "439 reviews",
+        "phone": "(415) 928-4343",
+        "address": "1329 Columbus Ave"
+    },
+    {
+        "name": "Fish & Farm",
+        "rating": "3 star rating",
+        "reviews": "271 reviews",
+        "phone": "(415) 474-3474",
+        "address": null
+    },
+    {
+        "name": "Gyro Xpress",
+        "rating": "3.5 star rating",
+        "reviews": "411 reviews",
+        "phone": "(415) 554-0352",
+        "address": "499 Castro St"
+    },
+    {
+        "name": "Cassava",
+        "rating": "4 star rating",
+        "reviews": "858 reviews",
+        "phone": "(415) 640-8990",
+        "address": "3519 Balboa St"
+    },
+    {
+        "name": "6th and B",
+        "rating": "4 star rating",
+        "reviews": "211 reviews",
+        "phone": "(415) 753-9138",
+        "address": "452 Balboa St"
+    },
+    {
+        "name": "Hollywood Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "2077 reviews",
+        "phone": "(415) 563-3779",
+        "address": "530 North Point St"
+    },
+    {
+        "name": "Queen’s Louisiana Po-Boy Cafe",
+        "rating": "4 star rating",
+        "reviews": "616 reviews",
+        "phone": "(415) 397-1507",
+        "address": "Pier 33 N The Embarcadero"
+    },
+    {
+        "name": "Mama Coco’s Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "30 reviews",
+        "phone": null,
+        "address": "4995 Mission St"
+    },
+    {
+        "name": "Blue Plate",
+        "rating": "4 star rating",
+        "reviews": "1412 reviews",
+        "phone": "(415) 282-6777",
+        "address": "3218 Mission St"
+    },
+    {
+        "name": "Amal’s Deli",
+        "rating": "4.5 star rating",
+        "reviews": "24 reviews",
+        "phone": "(415) 626-7457",
+        "address": "1416 Haight St"
+    },
+    {
+        "name": "Presidio Picnic",
+        "rating": "4.5 star rating",
+        "reviews": "285 reviews",
+        "phone": "(415) 561-5300",
+        "address": null
+    },
+    {
+        "name": "Bazille",
+        "rating": "4 star rating",
+        "reviews": "78 reviews",
+        "phone": "(415) 977-5155",
+        "address": null
+    },
+    {
+        "name": "PLATFORM 248",
+        "rating": "4 star rating",
+        "reviews": "169 reviews",
+        "phone": "(415) 644-5294",
+        "address": "248 9th St"
+    },
+    {
+        "name": "The Mad Dog In The Fog",
+        "rating": "3.5 star rating",
+        "reviews": "482 reviews",
+        "phone": "(415) 626-7279",
+        "address": "530 Haight St"
+    },
+    {
+        "name": "Tataki",
+        "rating": "4 star rating",
+        "reviews": "1270 reviews",
+        "phone": "(415) 931-1182",
+        "address": "2827 California St"
+    },
+    {
+        "name": "Whispers Bar & Grill",
+        "rating": "4 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 947-0700",
+        "address": null
+    },
+    {
+        "name": "El Capitan Taqueria",
+        "rating": "4 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 658-7738",
+        "address": "1198 Folsom St"
+    },
+    {
+        "name": "Meadowlark Cafe",
+        "rating": "3 star rating",
+        "reviews": "12 reviews",
+        "phone": "(650) 667-1462",
+        "address": null
+    },
+    {
+        "name": "Mama’s On Washington Square",
+        "rating": "4 star rating",
+        "reviews": "4217 reviews",
+        "phone": "(415) 362-6421",
+        "address": "1701 Stockton St"
+    },
+    {
+        "name": "Solstice",
+        "rating": "5 star rating",
+        "reviews": "10 reviews",
+        "phone": "(415) 829-8650",
+        "address": "1980 Union St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Terra Cotta Warrior",
+        "rating": "4 star rating",
+        "reviews": "520 reviews",
+        "phone": "(415) 681-3288",
+        "address": "2555 Judah St"
+    },
+    {
+        "name": "The Keystone",
+        "rating": "4 star rating",
+        "reviews": "289 reviews",
+        "phone": "(415) 777-1200",
+        "address": null
+    },
+    {
+        "name": "Friends With Benedicts @ Chief Sullivans",
+        "rating": "4 star rating",
+        "reviews": "169 reviews",
+        "phone": "(415) 374-6187",
+        "address": "622 Green St"
+    },
+    {
+        "name": "Oda Restaurant and Brewery",
+        "rating": "4 star rating",
+        "reviews": "126 reviews",
+        "phone": "(415) 558-9450",
+        "address": "1500 Owens St"
+    },
+    {
+        "name": "Tennessee Grill",
+        "rating": "3.5 star rating",
+        "reviews": "413 reviews",
+        "phone": "(415) 664-7834",
+        "address": "1128 Taraval St"
+    },
+    {
+        "name": "Plow",
+        "rating": "4 star rating",
+        "reviews": "2572 reviews",
+        "phone": "(415) 821-7569",
+        "address": "1299 18th St"
+    },
+    {
+        "name": "Hawaiian Drive Inn",
+        "rating": "4 star rating",
+        "reviews": "359 reviews",
+        "phone": "(415) 586-9382",
+        "address": "4827 Mission St"
+    },
+    {
+        "name": "Jersey",
+        "rating": "4 star rating",
+        "reviews": "437 reviews",
+        "phone": "(415) 912-1502",
+        "address": "145 2nd St"
+    },
+    {
+        "name": "Morning Due Cafe",
+        "rating": "4 star rating",
+        "reviews": "488 reviews",
+        "phone": "(415) 621-7156",
+        "address": "3698 17th St"
+    },
+    {
+        "name": "Golden Eagle Deli and Grill",
+        "rating": "4.5 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 822-2110",
+        "address": "4401 3rd St"
+    },
+    {
+        "name": "Village Cafe",
+        "rating": "4 star rating",
+        "reviews": "498 reviews",
+        "phone": "(415) 771-9598",
+        "address": "1426 Polk St"
+    },
+    {
+        "name": "Steep Brew Soma",
+        "rating": "4 star rating",
+        "reviews": "11 reviews",
+        "phone": "(415) 618-0066",
+        "address": "399 4th St"
+    },
+    {
+        "name": "Flore",
+        "rating": "3.5 star rating",
+        "reviews": "1137 reviews",
+        "phone": "(415) 621-8579",
+        "address": "2298 Market St"
+    },
+    {
+        "name": "Little Skillet",
+        "rating": "3.5 star rating",
+        "reviews": "1985 reviews",
+        "phone": "(415) 777-2777",
+        "address": "360 Ritch St"
+    },
+    {
+        "name": "Pete’s Deli & Cafe",
+        "rating": "4 star rating",
+        "reviews": "167 reviews",
+        "phone": "(415) 931-4800",
+        "address": "1661 Divisadero St"
+    },
+    {
+        "name": "Gestalt",
+        "rating": "4 star rating",
+        "reviews": "530 reviews",
+        "phone": "(415) 813-2790",
+        "address": "3159 16th St"
+    },
+    {
+        "name": "Brick & Beam",
+        "rating": "3.5 star rating",
+        "reviews": "215 reviews",
+        "phone": "(415) 202-3612",
+        "address": null
+    },
+    {
+        "name": "Pinecrest Diner",
+        "rating": "3.5 star rating",
+        "reviews": "1052 reviews",
+        "phone": "(415) 885-6407",
+        "address": "401 Geary St"
+    },
+    {
+        "name": "Garajito",
+        "rating": "4.5 star rating",
+        "reviews": "111 reviews",
+        "phone": "(415) 716-1048",
+        "address": "257 3rd St"
+    },
+    {
+        "name": "Nick’s Crispy Tacos",
+        "rating": "4 star rating",
+        "reviews": "3318 reviews",
+        "phone": "(415) 409-8226",
+        "address": "1500 Broadway"
+    },
+    {
+        "name": "Taylor Street Coffee Shop",
+        "rating": "4 star rating",
+        "reviews": "1174 reviews",
+        "phone": "(415) 567-4031",
+        "address": "375 Taylor St"
+    },
+    {
+        "name": "Al’s Super Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "154 reviews",
+        "phone": "(415) 641-8445",
+        "address": "3286 Mission St"
+    },
+    {
+        "name": "Soma Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "273 reviews",
+        "phone": "(415) 512-1100",
+        "address": "483 3rd St"
+    },
+    {
+        "name": "The Sentinel",
+        "rating": "4 star rating",
+        "reviews": "1296 reviews",
+        "phone": "(415) 769-8109",
+        "address": "37 New Montgomery St"
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "rating": "3 star rating",
+        "reviews": "198 reviews",
+        "phone": "(415) 346-3088",
+        "address": "599 Divisadero St"
+    },
+    {
+        "name": "Pharaohs Mediterranean Sandwiches",
+        "rating": "4 star rating",
+        "reviews": "428 reviews",
+        "phone": "(415) 292-7271",
+        "address": null
+    },
+    {
+        "name": "Twenty Five Lusk",
+        "rating": "4 star rating",
+        "reviews": "1422 reviews",
+        "phone": "(415) 495-5875",
+        "address": "25 Lusk St"
+    },
+    {
+        "name": "Hotbird",
+        "rating": "4.5 star rating",
+        "reviews": "94 reviews",
+        "phone": "(510) 917-0484",
+        "address": null
+    },
+    {
+        "name": "Cadillac Bar & Grill",
+        "rating": "3.5 star rating",
+        "reviews": "348 reviews",
+        "phone": "(415) 554-0181",
+        "address": "44 9th St"
+    },
+    {
+        "name": "Mission Rock Resort",
+        "rating": "3.5 star rating",
+        "reviews": "921 reviews",
+        "phone": "(415) 701-7625",
+        "address": "817 Terry Francois Blvd"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Jamber",
+        "rating": "4 star rating",
+        "reviews": "660 reviews",
+        "phone": "(415) 273-9192",
+        "address": "858 Folsom St"
+    },
+    {
+        "name": "Stem Kitchen & Garden",
+        "rating": "3.5 star rating",
+        "reviews": "386 reviews",
+        "phone": "(415) 915-1000",
+        "address": "499 Illinois St"
+    },
+    {
+        "name": "Maybeck’s",
+        "rating": "4 star rating",
+        "reviews": "304 reviews",
+        "phone": "(415) 400-8500",
+        "address": "3213 Scott St"
+    },
+    {
+        "name": "Chicken as Cluck",
+        "rating": "3.5 star rating",
+        "reviews": "14 reviews",
+        "phone": null,
+        "address": "1760 Cesar Chavez St"
+    },
+    {
+        "name": "Pier 23 Cafe Restaurant & Bar",
+        "rating": "3.5 star rating",
+        "reviews": "1726 reviews",
+        "phone": "(415) 362-5125",
+        "address": "The Embarcadero"
+    },
+    {
+        "name": "The Cheesecake Factory",
+        "rating": "3 star rating",
+        "reviews": "3195 reviews",
+        "phone": "(415) 391-4444",
+        "address": "251 Geary St"
+    },
+    {
+        "name": "Home Plate",
+        "rating": "4 star rating",
+        "reviews": "1119 reviews",
+        "phone": "(415) 922-4663",
+        "address": "2150 Lombard St"
+    },
+    {
+        "name": "Tad’s Steak House",
+        "rating": null,
+        "reviews": null,
+        "phone": null,
+        "address": "38 Ellis St"
+    },
+    {
+        "name": "Bambino’s Ristorante",
+        "rating": "4 star rating",
+        "reviews": "554 reviews",
+        "phone": "(415) 731-1343",
+        "address": "945 Cole St"
+    },
+    {
+        "name": "Proposition Chicken",
+        "rating": "3.5 star rating",
+        "reviews": "579 reviews",
+        "phone": "(415) 864-2454",
+        "address": "1750 Market St"
+    },
+    {
+        "name": "Nopalito",
+        "rating": "4 star rating",
+        "reviews": "1315 reviews",
+        "phone": "(415) 233-9966",
+        "address": "1224 9th Ave"
+    },
+    {
+        "name": "Momo’s",
+        "rating": "3 star rating",
+        "reviews": "909 reviews",
+        "phone": "(415) 227-8660",
+        "address": "760 2nd St"
+    },
+    {
+        "name": "Boho Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "139 reviews",
+        "phone": "(415) 374-7518",
+        "address": "3321 Steiner St"
+    },
+    {
+        "name": "Wolfes Lunch",
+        "rating": "4 star rating",
+        "reviews": "104 reviews",
+        "phone": "(415) 621-3684",
+        "address": "1220 16th St"
+    },
+    {
+        "name": "International Food Court",
+        "rating": "3.5 star rating",
+        "reviews": "89 reviews",
+        "phone": null,
+        "address": "320 Bush St"
+    },
+    {
+        "name": "The Grill",
+        "rating": "4 star rating",
+        "reviews": "52 reviews",
+        "phone": "(415) 284-4188",
+        "address": null
+    },
+    {
+        "name": "Flybird",
+        "rating": "4 star rating",
+        "reviews": "58 reviews",
+        "phone": "(415) 872-9292",
+        "address": "35 Kearny St"
+    },
+    {
+        "name": "Sugarhill Kitchen",
+        "rating": "4 star rating",
+        "reviews": "82 reviews",
+        "phone": "(415) 292-2368",
+        "address": "1449 Lombard St"
+    },
+    {
+        "name": "Aliment",
+        "rating": "4 star rating",
+        "reviews": "587 reviews",
+        "phone": "(415) 829-2737",
+        "address": "786 Bush St"
+    },
+    {
+        "name": "Pork Store Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "874 reviews",
+        "phone": "(415) 626-5523",
+        "address": "3122 16th St"
+    },
+    {
+        "name": "Casa Barajas",
+        "rating": "4.5 star rating",
+        "reviews": "50 reviews",
+        "phone": "(415) 242-9931",
+        "address": "1849 Lincoln Way"
+    },
+    {
+        "name": "Academy Bar & Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "133 reviews",
+        "phone": "(415) 775-1800",
+        "address": "1800 Fillmore St"
+    },
+    {
+        "name": "Red A Bakery",
+        "rating": "4 star rating",
+        "reviews": "186 reviews",
+        "phone": "(415) 668-8881",
+        "address": "634 Clement St"
+    },
+    {
+        "name": "Bite",
+        "rating": "4 star rating",
+        "reviews": "753 reviews",
+        "phone": "(415) 563-2483",
+        "address": "912 Sutter St"
+    },
+    {
+        "name": "The Taco Shop At Underdog’s",
+        "rating": "4 star rating",
+        "reviews": "1824 reviews",
+        "phone": "(415) 566-8700",
+        "address": "1824 Irving St"
+    },
+    {
+        "name": "B55 Craft House & Kitchen",
+        "rating": "3 star rating",
+        "reviews": "65 reviews",
+        "phone": "(415) 896-1600",
+        "address": null
+    },
+    {
+        "name": "Tacorea",
+        "rating": "4.5 star rating",
+        "reviews": "1637 reviews",
+        "phone": null,
+        "address": "809 Bush St"
+    },
+    {
+        "name": "Executive Cafe",
+        "rating": "4 star rating",
+        "reviews": "25 reviews",
+        "phone": "(415) 468-0500",
+        "address": "150 Executive Park Blvd"
+    },
+    {
+        "name": "Alamo Drafthouse Cinema New Mission",
+        "rating": "3.5 star rating",
+        "reviews": "852 reviews",
+        "phone": "(415) 549-5959",
+        "address": "2550 Mission St"
+    },
+    {
+        "name": "Grumpy Cafe",
+        "rating": "4 star rating",
+        "reviews": "25 reviews",
+        "phone": "(415) 285-2461",
+        "address": "66 Dorman Ave"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Walzwerk",
+        "rating": "4 star rating",
+        "reviews": "987 reviews",
+        "phone": "(415) 551-7181",
+        "address": "381 S Van Ness Ave"
+    },
+    {
+        "name": "City Pizza and Burger",
+        "rating": "3 star rating",
+        "reviews": "3 reviews",
+        "phone": "(415) 230-9413",
+        "address": "464 Broadway St"
+    },
+    {
+        "name": "Southern Pacific Brewing",
+        "rating": "3 star rating",
+        "reviews": "1295 reviews",
+        "phone": "(415) 341-0152",
+        "address": "620 Treat Ave"
+    },
+    {
+        "name": "15 Romolo",
+        "rating": "4 star rating",
+        "reviews": "1058 reviews",
+        "phone": "(415) 398-1359",
+        "address": null
+    },
+    {
+        "name": "Rosamunde Sausage Grill",
+        "rating": "3.5 star rating",
+        "reviews": "953 reviews",
+        "phone": "(415) 970-9015",
+        "address": "2832 Mission St"
+    },
+    {
+        "name": "The Liberties",
+        "rating": "3.5 star rating",
+        "reviews": "322 reviews",
+        "phone": "(415) 282-6789",
+        "address": "998 Guerrero St"
+    },
+    {
+        "name": "Strada Pizza",
+        "rating": "4 star rating",
+        "reviews": "13 reviews",
+        "phone": "(415) 661-4000",
+        "address": "1115 Taraval St"
+    },
+    {
+        "name": "Don Pistos",
+        "rating": "4 star rating",
+        "reviews": "1787 reviews",
+        "phone": "(415) 395-0939",
+        "address": "510 Union St"
+    },
+    {
+        "name": "BBC Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "17 reviews",
+        "phone": "(415) 467-2051",
+        "address": "1485 Bay Shore Blvd"
+    },
+    {
+        "name": "All Stars Donuts",
+        "rating": "3.5 star rating",
+        "reviews": "127 reviews",
+        "phone": "(415) 882-0889",
+        "address": "399 5th St"
+    },
+    {
+        "name": "Parigo",
+        "rating": "4.5 star rating",
+        "reviews": "59 reviews",
+        "phone": "(415) 580-7080",
+        "address": "3232 Scott St"
+    },
+    {
+        "name": "The Grove - Fillmore",
+        "rating": "3.5 star rating",
+        "reviews": "1535 reviews",
+        "phone": "(415) 474-1419",
+        "address": "2016 Fillmore St"
+    },
+    {
+        "name": "Gott’s Roadside - Takeout Window",
+        "rating": "3.5 star rating",
+        "reviews": "66 reviews",
+        "phone": "(415) 318-3423",
+        "address": null
+    },
+    {
+        "name": "Outerlands",
+        "rating": "3.5 star rating",
+        "reviews": "2247 reviews",
+        "phone": "(415) 661-6140",
+        "address": "4001 Judah St"
+    },
+    {
+        "name": "B Star Bar",
+        "rating": "4 star rating",
+        "reviews": "1862 reviews",
+        "phone": "(415) 933-9900",
+        "address": "127 Clement St"
+    },
+    {
+        "name": "Jack in the Box",
+        "rating": "2.5 star rating",
+        "reviews": "116 reviews",
+        "phone": "(415) 641-8467",
+        "address": "366 Bayshore Blvd"
+    },
+    {
+        "name": "Hard Water",
+        "rating": "3.5 star rating",
+        "reviews": "642 reviews",
+        "phone": "(415) 392-3021",
+        "address": "Pier 3"
+    },
+    {
+        "name": "Manhattan Hub",
+        "rating": "3.5 star rating",
+        "reviews": "195 reviews",
+        "phone": "(415) 421-7788",
+        "address": "150 Leidesdorff St"
+    },
+    {
+        "name": "Kaisen DON",
+        "rating": "4 star rating",
+        "reviews": "320 reviews",
+        "phone": "(415) 859-9081",
+        "address": "1939 Ocean Ave"
+    },
+    {
+        "name": "Bask",
+        "rating": "4 star rating",
+        "reviews": "631 reviews",
+        "phone": "(415) 392-2275",
+        "address": "42 Columbus Ave"
+    },
+    {
+        "name": "The Sandwich Shop",
+        "rating": "4.5 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 934-0756",
+        "address": "2071 3rd St"
+    },
+    {
+        "name": "Fire & Brew",
+        "rating": "3 star rating",
+        "reviews": "72 reviews",
+        "phone": "(415) 814-3539",
+        "address": null
+    },
+    {
+        "name": "Lori’s Diner",
+        "rating": "3 star rating",
+        "reviews": "985 reviews",
+        "phone": "(628) 400-6092",
+        "address": "500 Sutter St"
+    },
+    {
+        "name": "Urban Putt",
+        "rating": "4.5 star rating",
+        "reviews": "1372 reviews",
+        "phone": "(415) 341-1080",
+        "address": "1096 S Van Ness Ave"
+    },
+    {
+        "name": "Wise Sons Jewish Delicatessen",
+        "rating": "3.5 star rating",
+        "reviews": "913 reviews",
+        "phone": "(415) 787-3354",
+        "address": "3150 24th St"
+    },
+    {
+        "name": "Ananda Fuara",
+        "rating": "4 star rating",
+        "reviews": "1080 reviews",
+        "phone": "(415) 621-1994",
+        "address": "1298 Market St"
+    },
+    {
+        "name": "Submarine Center",
+        "rating": "4.5 star rating",
+        "reviews": "1174 reviews",
+        "phone": "(415) 564-1455",
+        "address": "820 Ulloa St"
+    },
+    {
+        "name": "Pier Market Seafood Restaurant",
+        "rating": "4 star rating",
+        "reviews": "2047 reviews",
+        "phone": "(415) 989-7437",
+        "address": "Pier 39"
+    },
+    {
+        "name": "Buckhorn Grill - SF Metreon",
+        "rating": "2.5 star rating",
+        "reviews": "6 reviews",
+        "phone": "(415) 369-6150",
+        "address": "135 4th St"
+    },
+    {
+        "name": "Red Cafe",
+        "rating": "4 star rating",
+        "reviews": "461 reviews",
+        "phone": "(415) 282-1515",
+        "address": "2894 Mission St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "EPIC Steak",
+        "rating": "3.5 star rating",
+        "reviews": "2244 reviews",
+        "phone": "(415) 369-9955",
+        "address": "369 The Embarcadero"
+    },
+    {
+        "name": "Dunya Bistro",
+        "rating": "4 star rating",
+        "reviews": "559 reviews",
+        "phone": "(415) 400-5770",
+        "address": "1609 Polk St"
+    },
+    {
+        "name": "L&L Hawaiian Barbecue",
+        "rating": "3 star rating",
+        "reviews": "330 reviews",
+        "phone": "(415) 956-2888",
+        "address": "312 Kearny St"
+    },
+    {
+        "name": "Marcello’s Pizza",
+        "rating": "4 star rating",
+        "reviews": "706 reviews",
+        "phone": "(415) 863-3900",
+        "address": "420 Castro St"
+    },
+    {
+        "name": "Dandelion Chocolate - 16th St Factory & Bloom Chocolate Salon",
+        "rating": "4.5 star rating",
+        "reviews": "143 reviews",
+        "phone": "(415) 349-0942",
+        "address": "2600 16th St"
+    },
+    {
+        "name": "Sf Hole In The Wall Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "230 reviews",
+        "phone": "(415) 775-2583",
+        "address": "3244 Scott St San Francisco"
+    },
+    {
+        "name": "Bakesale Betty",
+        "rating": "2.5 star rating",
+        "reviews": "9 reviews",
+        "phone": null,
+        "address": "500 Terry A Francois Blvd"
+    },
+    {
+        "name": "School Night",
+        "rating": "4 star rating",
+        "reviews": "90 reviews",
+        "phone": "(415) 903-5427",
+        "address": "601 19th St"
+    },
+    {
+        "name": "Dirty Habit",
+        "rating": "3.5 star rating",
+        "reviews": "586 reviews",
+        "phone": "(415) 348-1555",
+        "address": null
+    },
+    {
+        "name": "Louis’",
+        "rating": "3.5 star rating",
+        "reviews": "603 reviews",
+        "phone": "(415) 387-6330",
+        "address": "902 Point Lobos Ave"
+    },
+    {
+        "name": "Wolfgang Puck Pizza",
+        "rating": "2 star rating",
+        "reviews": "36 reviews",
+        "phone": "(415) 296-4858",
+        "address": "170 O'Farrell St"
+    },
+    {
+        "name": "B Restaurant & Bar",
+        "rating": "3.5 star rating",
+        "reviews": "741 reviews",
+        "phone": "(415) 495-9800",
+        "address": "720 Howard St"
+    },
+    {
+        "name": "Perry’s",
+        "rating": "3 star rating",
+        "reviews": "583 reviews",
+        "phone": "(415) 922-9022",
+        "address": "1944 Union St"
+    },
+    {
+        "name": "AK Subs",
+        "rating": "4 star rating",
+        "reviews": "412 reviews",
+        "phone": "(415) 241-9600",
+        "address": "397 8th St"
+    },
+    {
+        "name": "Beit Rima",
+        "rating": "4.5 star rating",
+        "reviews": "275 reviews",
+        "phone": "(415) 703-0270",
+        "address": "138 Church St"
+    },
+    {
+        "name": "Orientalia",
+        "rating": "4 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 776-9999",
+        "address": "829 Geary St"
+    },
+    {
+        "name": "Baker Street Bistro",
+        "rating": "4 star rating",
+        "reviews": "605 reviews",
+        "phone": "(415) 931-1475",
+        "address": "2953 Baker St"
+    },
+    {
+        "name": "Wired Kitchen",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 276-5000",
+        "address": "520 3rd St"
+    },
+    {
+        "name": "The Castro Republic",
+        "rating": "4 star rating",
+        "reviews": "298 reviews",
+        "phone": "(415) 934-0525",
+        "address": "2295 Market St"
+    },
+    {
+        "name": "Front Door Cafe",
+        "rating": "4 star rating",
+        "reviews": "281 reviews",
+        "phone": "(415) 989-3244",
+        "address": "1 Front St"
+    },
+    {
+        "name": "The Chairman Truck",
+        "rating": "4 star rating",
+        "reviews": "1429 reviews",
+        "phone": "(415) 967-3686",
+        "address": "670 Larkin St"
+    },
+    {
+        "name": "Tony Baloney’s",
+        "rating": "4 star rating",
+        "reviews": "236 reviews",
+        "phone": "(415) 863-1514",
+        "address": "1098 Howard St"
+    },
+    {
+        "name": "Dinosaurs",
+        "rating": "4 star rating",
+        "reviews": "887 reviews",
+        "phone": "(415) 503-1421",
+        "address": "2275 Market St"
+    },
+    {
+        "name": "Vegan Picnic",
+        "rating": "4 star rating",
+        "reviews": "310 reviews",
+        "phone": "(415) 323-3043",
+        "address": "1977A Union St"
+    },
+    {
+        "name": "Pop’s Sandwich Shop",
+        "rating": "4 star rating",
+        "reviews": "233 reviews",
+        "phone": "(415) 681-9501",
+        "address": "737 Portola Dr"
+    },
+    {
+        "name": "Max’s Opera Cafe",
+        "rating": "3 star rating",
+        "reviews": "811 reviews",
+        "phone": "(415) 771-7300",
+        "address": "601 Van Ness Ave"
+    },
+    {
+        "name": "Le Petit Cafe",
+        "rating": "4 star rating",
+        "reviews": "31 reviews",
+        "phone": "(415) 951-8514",
+        "address": "1 Maritime Plz"
+    },
+    {
+        "name": "The Ice Cream Bar",
+        "rating": "4 star rating",
+        "reviews": "1316 reviews",
+        "phone": "(415) 742-4932",
+        "address": "815 Cole St"
+    },
+    {
+        "name": "Hitachino Beer & Wagyu",
+        "rating": "3.5 star rating",
+        "reviews": "150 reviews",
+        "phone": "(415) 624-3580",
+        "address": "639 Post St"
+    },
+    {
+        "name": "La Boulangerie de San Francisco, Pine",
+        "rating": "4.5 star rating",
+        "reviews": "755 reviews",
+        "phone": "(415) 440-0356",
+        "address": "2325 Pine St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Gasser Garden",
+        "rating": "4.5 star rating",
+        "reviews": "4 reviews",
+        "phone": null,
+        "address": "176 2nd St"
+    },
+    {
+        "name": "Dobbs Ferry Restaurant",
+        "rating": "4 star rating",
+        "reviews": "590 reviews",
+        "phone": "(415) 551-7700",
+        "address": "409 Gough St"
+    },
+    {
+        "name": "Bin 480",
+        "rating": "4 star rating",
+        "reviews": "99 reviews",
+        "phone": "(415) 398-8900",
+        "address": null
+    },
+    {
+        "name": "Sally’s Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "505 reviews",
+        "phone": "(415) 626-6006",
+        "address": "300 De Haro St"
+    },
+    {
+        "name": "El Rancho Grande",
+        "rating": "3.5 star rating",
+        "reviews": "115 reviews",
+        "phone": "(415) 874-9371",
+        "address": "1654 Haight St"
+    },
+    {
+        "name": "Coin-Op Game Room",
+        "rating": "4.5 star rating",
+        "reviews": "505 reviews",
+        "phone": "(628) 444-3277",
+        "address": "508 4th St"
+    },
+    {
+        "name": "Indian Paradox",
+        "rating": "4.5 star rating",
+        "reviews": "163 reviews",
+        "phone": "(415) 593-5386",
+        "address": "258 Divisadero St"
+    },
+    {
+        "name": "Ono Hawaiian BBQ",
+        "rating": "3 star rating",
+        "reviews": "387 reviews",
+        "phone": "(415) 681-6388",
+        "address": "1501 Sloat Blvd"
+    },
+    {
+        "name": "The Grove Yerba Buena",
+        "rating": "3.5 star rating",
+        "reviews": "1933 reviews",
+        "phone": "(415) 957-0558",
+        "address": "690 Mission St"
+    },
+    {
+        "name": "Gold Coast Grill & Catering",
+        "rating": "3.5 star rating",
+        "reviews": "71 reviews",
+        "phone": "(415) 338-1674",
+        "address": "1650 Holloway Ave"
+    },
+    {
+        "name": "Cafe DeStijl",
+        "rating": "3.5 star rating",
+        "reviews": "132 reviews",
+        "phone": "(415) 291-0808",
+        "address": "1 Union St"
+    },
+    {
+        "name": "Heirloom Cafe",
+        "rating": "4 star rating",
+        "reviews": "493 reviews",
+        "phone": "(415) 821-2500",
+        "address": "2500 Folsom St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2 star rating",
+        "reviews": "144 reviews",
+        "phone": "(415) 397-6340",
+        "address": "35 Powell Street"
+    },
+    {
+        "name": "The Crepe House",
+        "rating": "4 star rating",
+        "reviews": "679 reviews",
+        "phone": "(415) 441-2421",
+        "address": "1755 Polk St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": "2.5 star rating",
+        "reviews": "198 reviews",
+        "phone": "(415) 759-5033",
+        "address": "255 Winston Dr"
+    },
+    {
+        "name": "E&O Kitchen and Bar",
+        "rating": "4 star rating",
+        "reviews": "1041 reviews",
+        "phone": "(415) 693-0303",
+        "address": "314 Sutter St"
+    },
+    {
+        "name": "Blue Front Cafe",
+        "rating": "4 star rating",
+        "reviews": "690 reviews",
+        "phone": "(415) 252-5917",
+        "address": "1430 Haight St"
+    },
+    {
+        "name": "Town’s End Restaurant & Bakery",
+        "rating": "3.5 star rating",
+        "reviews": "768 reviews",
+        "phone": "(415) 512-0749",
+        "address": "2 Townsend St"
+    },
+    {
+        "name": "Cafe RX",
+        "rating": "4 star rating",
+        "reviews": "118 reviews",
+        "phone": "(415) 561-2273",
+        "address": "1013 Torney Ave"
+    },
+    {
+        "name": "Focaccia Market & Bakery",
+        "rating": "3.5 star rating",
+        "reviews": "76 reviews",
+        "phone": "(415) 653-0479",
+        "address": "1198 Mission Street"
+    },
+    {
+        "name": "Salt House",
+        "rating": "3.5 star rating",
+        "reviews": "1728 reviews",
+        "phone": "(415) 543-8900",
+        "address": "545 Mission St"
+    },
+    {
+        "name": "Mayah’s Restaurant Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "26 reviews",
+        "phone": "(415) 817-1876",
+        "address": "550 15th St"
+    },
+    {
+        "name": "Harrington’s Bar & Grill",
+        "rating": "3 star rating",
+        "reviews": "359 reviews",
+        "phone": "(415) 392-7595",
+        "address": "245 Front St"
+    },
+    {
+        "name": "Jones",
+        "rating": "3.5 star rating",
+        "reviews": "1070 reviews",
+        "phone": "(415) 496-6858",
+        "address": "620 Jones St"
+    },
+    {
+        "name": "Torshi Mexiterranean",
+        "rating": "4 star rating",
+        "reviews": "49 reviews",
+        "phone": null,
+        "address": "140 Leidesdorff St"
+    },
+    {
+        "name": "Cafe Réveille",
+        "rating": "3.5 star rating",
+        "reviews": "366 reviews",
+        "phone": "(415) 580-7260",
+        "address": "610 Long Bridge St"
+    },
+    {
+        "name": "Asiento",
+        "rating": "4 star rating",
+        "reviews": "345 reviews",
+        "phone": "(415) 829-3375",
+        "address": "2730 21st St"
+    },
+    {
+        "name": "Curbside Cafe",
+        "rating": "4 star rating",
+        "reviews": "724 reviews",
+        "phone": "(415) 929-9030",
+        "address": "2417 California St"
+    },
+    {
+        "name": "Rigolo Café",
+        "rating": "3.5 star rating",
+        "reviews": "603 reviews",
+        "phone": "(415) 876-7777",
+        "address": "3465 California St"
+    },
+    {
+        "name": "The Cove on Castro Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "285 reviews",
+        "phone": "(415) 626-0462",
+        "address": "434 Castro St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Jackrabbit Food Truck",
+        "rating": "3 star rating",
+        "reviews": "34 reviews",
+        "phone": "(415) 552-5559",
+        "address": "1661 Tennessee St"
+    },
+    {
+        "name": "Upper Cut",
+        "rating": "4.5 star rating",
+        "reviews": "104 reviews",
+        "phone": "(415) 496-9916",
+        "address": null
+    },
+    {
+        "name": "Trailblazer Tavern",
+        "rating": "4 star rating",
+        "reviews": "305 reviews",
+        "phone": "(415) 625-5445",
+        "address": "350 Mission St"
+    },
+    {
+        "name": "Pita Hub",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 702-8111",
+        "address": "475 6th St"
+    },
+    {
+        "name": "Devil’s Teeth Baking Company",
+        "rating": "4.5 star rating",
+        "reviews": "1593 reviews",
+        "phone": "(415) 683-5533",
+        "address": "3876 Noriega St"
+    },
+    {
+        "name": "The Codmother Fish & Chips",
+        "rating": "4.5 star rating",
+        "reviews": "2940 reviews",
+        "phone": "(415) 606-9349",
+        "address": "496 Beach St"
+    },
+    {
+        "name": "Joe’s Coffee Shop",
+        "rating": "4 star rating",
+        "reviews": "332 reviews",
+        "phone": "(415) 668-9382",
+        "address": "6134 Geary Blvd"
+    },
+    {
+        "name": "Mezcalito",
+        "rating": "3.5 star rating",
+        "reviews": "293 reviews",
+        "phone": "(415) 441-2323",
+        "address": "2323 Polk St"
+    },
+    {
+        "name": "Suppenküche",
+        "rating": "4 star rating",
+        "reviews": "3112 reviews",
+        "phone": "(415) 252-9289",
+        "address": "525 Laguna St"
+    },
+    {
+        "name": "The Seven Stills Brewery & Distillery",
+        "rating": "4 star rating",
+        "reviews": "43 reviews",
+        "phone": "(415) 757-0178",
+        "address": "100 Hooper St"
+    },
+    {
+        "name": "Daily Grill",
+        "rating": "3.5 star rating",
+        "reviews": "1184 reviews",
+        "phone": "(415) 616-5000",
+        "address": null
+    },
+    {
+        "name": "Boston Market",
+        "rating": "3 star rating",
+        "reviews": "105 reviews",
+        "phone": "(415) 864-7666",
+        "address": "2300 16th St"
+    },
+    {
+        "name": "Archive Bar & Kitchen",
+        "rating": "4 star rating",
+        "reviews": "348 reviews",
+        "phone": "(415) 987-5770",
+        "address": "602 Mission St"
+    },
+    {
+        "name": "Blaze Fast-Fire’d Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "593 reviews",
+        "phone": "(415) 242-6282",
+        "address": null
+    },
+    {
+        "name": "Ella’s American Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "1052 reviews",
+        "phone": "(415) 441-5669",
+        "address": "500 Presidio Ave"
+    },
+    {
+        "name": "Oasis Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "241 reviews",
+        "phone": "(415) 474-4900",
+        "address": "901 Divisadero St"
+    },
+    {
+        "name": "SOMA Eats",
+        "rating": "4 star rating",
+        "reviews": "485 reviews",
+        "phone": "(415) 543-7662",
+        "address": "186 2nd St"
+    },
+    {
+        "name": "Franco’s Latin Table",
+        "rating": "4 star rating",
+        "reviews": "53 reviews",
+        "phone": "(415) 759-8087",
+        "address": "24 W Portal Ave"
+    },
+    {
+        "name": "Atlas Cafe",
+        "rating": "4 star rating",
+        "reviews": "791 reviews",
+        "phone": "(415) 648-1047",
+        "address": "3049 20th St"
+    },
+    {
+        "name": "Sears Fine Food",
+        "rating": "3.5 star rating",
+        "reviews": "1960 reviews",
+        "phone": "(628) 400-5824",
+        "address": "439 Powell St"
+    },
+    {
+        "name": "Fillmore Street Cafe",
+        "rating": "4 star rating",
+        "reviews": "152 reviews",
+        "phone": "(415) 749-0987",
+        "address": "1301 Fillmore St"
+    },
+    {
+        "name": "Bazaar Cafe",
+        "rating": "4 star rating",
+        "reviews": "308 reviews",
+        "phone": "(415) 831-5620",
+        "address": "5927 California St"
+    },
+    {
+        "name": "Pat’s Cafe",
+        "rating": "4 star rating",
+        "reviews": "714 reviews",
+        "phone": "(415) 776-8735",
+        "address": "2330 Taylor St"
+    },
+    {
+        "name": "Lucky Strike - San Francisco",
+        "rating": "3 star rating",
+        "reviews": "869 reviews",
+        "phone": "(415) 400-8260",
+        "address": "200 King St"
+    },
+    {
+        "name": "Le Cafe du Soleil",
+        "rating": "4 star rating",
+        "reviews": "701 reviews",
+        "phone": "(415) 934-8637",
+        "address": "200 Fillmore St"
+    },
+    {
+        "name": "Palmyra",
+        "rating": "4 star rating",
+        "reviews": "855 reviews",
+        "phone": "(415) 896-4172",
+        "address": "700 Haight St"
+    },
+    {
+        "name": "Massawa Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "265 reviews",
+        "phone": "(415) 621-4129",
+        "address": "532 Green St"
+    },
+    {
+        "name": "Chouquet’s",
+        "rating": "3.5 star rating",
+        "reviews": "596 reviews",
+        "phone": "(415) 359-0075",
+        "address": "2500 Washington St"
+    },
+    {
+        "name": "Teds Market & Deli",
+        "rating": "4.5 star rating",
+        "reviews": "472 reviews",
+        "phone": "(415) 552-0309",
+        "address": "1530 Howard St"
+    },
+    {
+        "name": "Onigilly",
+        "rating": "4 star rating",
+        "reviews": "526 reviews",
+        "phone": "(415) 671-4706",
+        "address": "343 Kearny St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Adam’s Grub Truck",
+        "rating": "4 star rating",
+        "reviews": "329 reviews",
+        "phone": "(415) 307-8844",
+        "address": null
+    },
+    {
+        "name": "San Francisco Sports Grill & Bar",
+        "rating": "3.5 star rating",
+        "reviews": "30 reviews",
+        "phone": "(415) 544-6211",
+        "address": null
+    },
+    {
+        "name": "Piperade",
+        "rating": "4 star rating",
+        "reviews": "870 reviews",
+        "phone": "(415) 391-2555",
+        "address": "1015 Battery St"
+    },
+    {
+        "name": "Cafe Envy",
+        "rating": "4.5 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 800-7394",
+        "address": "1701 Yosemite Ave"
+    },
+    {
+        "name": "Truck Stop",
+        "rating": "4 star rating",
+        "reviews": "84 reviews",
+        "phone": null,
+        "address": "450 Mission St"
+    },
+    {
+        "name": "Benkyodo Co",
+        "rating": "4.5 star rating",
+        "reviews": "978 reviews",
+        "phone": "(415) 922-1244",
+        "address": "1747 Buchanan St"
+    },
+    {
+        "name": "Tratto",
+        "rating": "4 star rating",
+        "reviews": "538 reviews",
+        "phone": "(415) 292-0101",
+        "address": null
+    },
+    {
+        "name": "Park Chalet Coastal Beer Garden",
+        "rating": "3 star rating",
+        "reviews": "1311 reviews",
+        "phone": "(415) 386-8439",
+        "address": "1000 Great Hwy"
+    },
+    {
+        "name": "A K Meats",
+        "rating": "4.5 star rating",
+        "reviews": "246 reviews",
+        "phone": "(415) 933-6328",
+        "address": "2346 Clement St"
+    },
+    {
+        "name": "Cable 55",
+        "rating": "3 star rating",
+        "reviews": "38 reviews",
+        "phone": "(415) 392-8000",
+        "address": null
+    },
+    {
+        "name": "The Market",
+        "rating": "3.5 star rating",
+        "reviews": "419 reviews",
+        "phone": "(415) 767-5130",
+        "address": "1355 Market St"
+    },
+    {
+        "name": "Town Hall",
+        "rating": "3.5 star rating",
+        "reviews": "1947 reviews",
+        "phone": "(415) 908-3900",
+        "address": "342 Howard St"
+    },
+    {
+        "name": "The Deli King",
+        "rating": "4.5 star rating",
+        "reviews": "125 reviews",
+        "phone": "(415) 664-5464",
+        "address": "1143 Taraval St"
+    },
+    {
+        "name": "True Laurel",
+        "rating": "4 star rating",
+        "reviews": "183 reviews",
+        "phone": "(415) 341-0020",
+        "address": "753 Alabama St"
+    },
+    {
+        "name": "Spinnerie",
+        "rating": "3.5 star rating",
+        "reviews": "473 reviews",
+        "phone": "(415) 345-1999",
+        "address": "1401 Polk St"
+    },
+    {
+        "name": "MKT Restaurant and Bar",
+        "rating": "3.5 star rating",
+        "reviews": "172 reviews",
+        "phone": "(415) 633-3838",
+        "address": null
+    },
+    {
+        "name": "Fior d’Italia",
+        "rating": "4 star rating",
+        "reviews": "528 reviews",
+        "phone": "(415) 986-1886",
+        "address": null
+    },
+    {
+        "name": "Ungrafted",
+        "rating": "4 star rating",
+        "reviews": "86 reviews",
+        "phone": "(415) 814-2129",
+        "address": "2419 3rd St"
+    },
+    {
+        "name": "Burger’s Bar",
+        "rating": null,
+        "reviews": null,
+        "phone": null,
+        "address": "444 De Haro St"
+    },
+    {
+        "name": "SF Kebab",
+        "rating": "4 star rating",
+        "reviews": "284 reviews",
+        "phone": "(415) 255-2262",
+        "address": "550 16th St"
+    },
+    {
+        "name": "Bellota",
+        "rating": "4 star rating",
+        "reviews": "607 reviews",
+        "phone": "(415) 430-6580",
+        "address": "888 Brannan St"
+    },
+    {
+        "name": "Americano",
+        "rating": "3.5 star rating",
+        "reviews": "1020 reviews",
+        "phone": "(415) 212-8132",
+        "address": null
+    },
+    {
+        "name": "Chug Pub",
+        "rating": "4 star rating",
+        "reviews": "313 reviews",
+        "phone": "(415) 242-9930",
+        "address": "1849 Lincoln Way"
+    },
+    {
+        "name": "Scopo Divino",
+        "rating": "4.5 star rating",
+        "reviews": "237 reviews",
+        "phone": "(415) 928-3728",
+        "address": "2800 California St"
+    },
+    {
+        "name": "The Lounge",
+        "rating": "4 star rating",
+        "reviews": "122 reviews",
+        "phone": "(415) 296-7465",
+        "address": null
+    },
+    {
+        "name": "Mamanoko",
+        "rating": "4 star rating",
+        "reviews": "209 reviews",
+        "phone": "(415) 346-8494",
+        "address": "2317 Chestnut St"
+    },
+    {
+        "name": "Liholiho Yacht Club",
+        "rating": "4.5 star rating",
+        "reviews": "2352 reviews",
+        "phone": "(415) 440-5446",
+        "address": "871 Sutter St"
+    },
+    {
+        "name": "Squat & Gobble",
+        "rating": "3 star rating",
+        "reviews": "428 reviews",
+        "phone": "(415) 665-9900",
+        "address": "1 W Portal Ave"
+    },
+    {
+        "name": "Chestnut Diner",
+        "rating": "3.5 star rating",
+        "reviews": "129 reviews",
+        "phone": "(415) 441-1168",
+        "address": "1312 Chestnut St"
+    },
+    {
+        "name": "Shabu Club",
+        "rating": "4 star rating",
+        "reviews": "756 reviews",
+        "phone": "(415) 742-5265",
+        "address": "951 Clement St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Tupelo",
+        "rating": "3.5 star rating",
+        "reviews": "245 reviews",
+        "phone": "(415) 981-9177",
+        "address": "1337 Grant Ave"
+    },
+    {
+        "name": "Irish Times",
+        "rating": "3.5 star rating",
+        "reviews": "335 reviews",
+        "phone": "(415) 217-5060",
+        "address": "500 Sacramento St"
+    },
+    {
+        "name": "Bayside Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "189 reviews",
+        "phone": "(415) 467-2023",
+        "address": "2011 Bayshore Blvd"
+    },
+    {
+        "name": "Park Grill",
+        "rating": "3 star rating",
+        "reviews": "39 reviews",
+        "phone": "(415) 296-2933",
+        "address": null
+    },
+    {
+        "name": "Kawika’s Ocean Beach Deli",
+        "rating": "4 star rating",
+        "reviews": "454 reviews",
+        "phone": "(415) 221-2031",
+        "address": "734 La Playa St"
+    },
+    {
+        "name": "Little Star Pizza",
+        "rating": "4.5 star rating",
+        "reviews": "2861 reviews",
+        "phone": "(415) 441-1118",
+        "address": "846 Divisadero St"
+    },
+    {
+        "name": "Chez Beesen - Catering",
+        "rating": "4 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 773-1220",
+        "address": "200 Pine St"
+    },
+    {
+        "name": "Players Sports Grill & Arcade",
+        "rating": "3 star rating",
+        "reviews": "596 reviews",
+        "phone": "(415) 981-6300",
+        "address": "Pier 39"
+    },
+    {
+        "name": "Burgogi",
+        "rating": "5 star rating",
+        "reviews": "4 reviews",
+        "phone": null,
+        "address": null
+    },
+    {
+        "name": "The Organic Coup",
+        "rating": "3 star rating",
+        "reviews": "120 reviews",
+        "phone": "(628) 444-3163",
+        "address": "224 Kearny St"
+    },
+    {
+        "name": "Woodhouse Fish",
+        "rating": "4 star rating",
+        "reviews": "1646 reviews",
+        "phone": "(415) 437-2722",
+        "address": "2073 Market St"
+    },
+    {
+        "name": "The Halal Guys",
+        "rating": "3.5 star rating",
+        "reviews": "788 reviews",
+        "phone": "(415) 359-9418",
+        "address": "336 O'Farrell St"
+    },
+    {
+        "name": "The House",
+        "rating": "4.5 star rating",
+        "reviews": "4778 reviews",
+        "phone": "(415) 986-8612",
+        "address": "1230 Grant Ave"
+    },
+    {
+        "name": "Grand Seven Food Liquor & Deli",
+        "rating": "4.5 star rating",
+        "reviews": "45 reviews",
+        "phone": "(415) 826-0455",
+        "address": "1740 Cesar Chavez"
+    },
+    {
+        "name": "KoJa Kitchen SF Spark",
+        "rating": "4 star rating",
+        "reviews": "86 reviews",
+        "phone": "(415) 830-3944",
+        "address": null
+    },
+    {
+        "name": "Avedano’s Holly Park Market",
+        "rating": "4.5 star rating",
+        "reviews": "165 reviews",
+        "phone": "(415) 285-6328",
+        "address": "235 Cortland Ave"
+    },
+    {
+        "name": "Dolores Park Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "683 reviews",
+        "phone": "(415) 621-2936",
+        "address": "501 Dolores St"
+    },
+    {
+        "name": "Lemonade",
+        "rating": "3.5 star rating",
+        "reviews": "576 reviews",
+        "phone": "(415) 522-0191",
+        "address": "781 Mission St"
+    },
+    {
+        "name": "The Mortimer",
+        "rating": "4 star rating",
+        "reviews": "84 reviews",
+        "phone": "(415) 775-5000",
+        "address": null
+    },
+    {
+        "name": "Moulin Rouge Restaurant",
+        "rating": "4 star rating",
+        "reviews": "576 reviews",
+        "phone": "(415) 928-0158",
+        "address": "887 Geary St"
+    },
+    {
+        "name": "Nob Hill Cafe",
+        "rating": "4 star rating",
+        "reviews": "1319 reviews",
+        "phone": "(415) 776-6500",
+        "address": "1152 Taylor St"
+    },
+    {
+        "name": "Courtney Produce",
+        "rating": "4.5 star rating",
+        "reviews": "215 reviews",
+        "phone": "(415) 626-1850",
+        "address": "101 Castro St"
+    },
+    {
+        "name": "TS Cafe",
+        "rating": "4.5 star rating",
+        "reviews": "48 reviews",
+        "phone": "(415) 825-5231",
+        "address": "4754 Mission St"
+    },
+    {
+        "name": "Frances",
+        "rating": "4.5 star rating",
+        "reviews": "1502 reviews",
+        "phone": "(415) 621-3870",
+        "address": "3870 17th St"
+    },
+    {
+        "name": "Mocha’s Cafe & Grill",
+        "rating": "3.5 star rating",
+        "reviews": "37 reviews",
+        "phone": "(415) 437-2233",
+        "address": "505 Van Ness Ave"
+    },
+    {
+        "name": "Two Jacks Seafood",
+        "rating": "3.5 star rating",
+        "reviews": "83 reviews",
+        "phone": "(415) 431-6290",
+        "address": "401 Haight St"
+    },
+    {
+        "name": "Pacific Catch",
+        "rating": "4 star rating",
+        "reviews": "1573 reviews",
+        "phone": "(415) 440-1950",
+        "address": "2027 Chestnut St"
+    },
+    {
+        "name": "Frisco Fried",
+        "rating": "4 star rating",
+        "reviews": "410 reviews",
+        "phone": "(415) 822-1517",
+        "address": "5176 3rd St"
+    },
+    {
+        "name": "Beretta",
+        "rating": "4 star rating",
+        "reviews": "3590 reviews",
+        "phone": "(415) 695-1199",
+        "address": "1199 Valencia St"
+    },
+    {
+        "name": "Magic Flute Ristorante",
+        "rating": "4 star rating",
+        "reviews": "543 reviews",
+        "phone": "(415) 922-1225",
+        "address": "3673 Sacramento St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Superstar Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "411 reviews",
+        "phone": "(415) 585-4360",
+        "address": "4919 Mission St"
+    },
+    {
+        "name": "ALX by Alexander’s Steakhouse",
+        "rating": "3.5 star rating",
+        "reviews": "152 reviews",
+        "phone": "(415) 266-1111",
+        "address": "680 Folsom St"
+    },
+    {
+        "name": "Bistro Aix",
+        "rating": "4 star rating",
+        "reviews": "656 reviews",
+        "phone": "(415) 202-0100",
+        "address": "3340 Steiner St"
+    },
+    {
+        "name": "Wise Sons Delicatessen",
+        "rating": "4 star rating",
+        "reviews": "157 reviews",
+        "phone": "(415) 787-3354",
+        "address": "1 Ferry Bldg"
+    },
+    {
+        "name": "Sushi Ondo",
+        "rating": "4.5 star rating",
+        "reviews": "108 reviews",
+        "phone": "(415) 757-0026",
+        "address": "1550 Howard St"
+    },
+    {
+        "name": "Namu Stonepot",
+        "rating": "3.5 star rating",
+        "reviews": "230 reviews",
+        "phone": "(415) 926-8065",
+        "address": "553 Divisadero St"
+    },
+    {
+        "name": "Piece of Heaven",
+        "rating": null,
+        "reviews": null,
+        "phone": "(415) 775-0130",
+        "address": "1380 Sutter St"
+    },
+    {
+        "name": "The Derby Grill",
+        "rating": "3 star rating",
+        "reviews": "14 reviews",
+        "phone": "(408) 294-4699",
+        "address": "24 Willie Mays Plz"
+    },
+    {
+        "name": "Nourish Cafe",
+        "rating": "4 star rating",
+        "reviews": "272 reviews",
+        "phone": "(415) 580-7463",
+        "address": "1030 Hyde St"
+    },
+    {
+        "name": "Tyger’s",
+        "rating": "3.5 star rating",
+        "reviews": "290 reviews",
+        "phone": "(415) 239-4060",
+        "address": "2798 Diamond St"
+    },
+    {
+        "name": "Rich Table",
+        "rating": "4 star rating",
+        "reviews": "1192 reviews",
+        "phone": "(415) 355-9085",
+        "address": "199 Gough St"
+    },
+    {
+        "name": "Beer 39",
+        "rating": "3.5 star rating",
+        "reviews": "135 reviews",
+        "phone": "(415) 421-2699",
+        "address": "39 Pier"
+    },
+    {
+        "name": "Saha",
+        "rating": "4.5 star rating",
+        "reviews": "57 reviews",
+        "phone": "(415) 780-3664",
+        "address": null
+    },
+    {
+        "name": "Cool Cravings",
+        "rating": "4 star rating",
+        "reviews": "41 reviews",
+        "phone": "(415) 872-5951",
+        "address": "601 Van Ness Ave"
+    },
+    {
+        "name": "Goood Frikin Chicken",
+        "rating": "3.5 star rating",
+        "reviews": "897 reviews",
+        "phone": "(415) 970-2428",
+        "address": "10 29th St"
+    },
+    {
+        "name": "Bizza",
+        "rating": "4 star rating",
+        "reviews": "178 reviews",
+        "phone": "(415) 814-2580",
+        "address": "1463 Haight St"
+    },
+    {
+        "name": "Aziza",
+        "rating": "4 star rating",
+        "reviews": "1935 reviews",
+        "phone": "(415) 682-4196",
+        "address": "5800 Geary Blvd"
+    },
+    {
+        "name": "Firefly Restaurant",
+        "rating": "4 star rating",
+        "reviews": "1452 reviews",
+        "phone": "(415) 821-7652",
+        "address": "4288 24th St"
+    },
+    {
+        "name": "Toast Eatery",
+        "rating": "3.5 star rating",
+        "reviews": "252 reviews",
+        "phone": "(415) 566-2000",
+        "address": "160 W Portal Ave"
+    },
+    {
+        "name": "Seismic Joint",
+        "rating": "2 star rating",
+        "reviews": "26 reviews",
+        "phone": "(415) 548-0224",
+        "address": "Exploratorium"
+    },
+    {
+        "name": "TRACE",
+        "rating": "3.5 star rating",
+        "reviews": "345 reviews",
+        "phone": "(415) 817-7836",
+        "address": null
+    },
+    {
+        "name": "Radhaus",
+        "rating": "3.5 star rating",
+        "reviews": "161 reviews",
+        "phone": "(415) 445-4556",
+        "address": "2 Marina Blvd"
+    },
+    {
+        "name": "Foreign Cinema",
+        "rating": "4 star rating",
+        "reviews": "4796 reviews",
+        "phone": "(415) 648-7600",
+        "address": "2534 Mission St"
+    },
+    {
+        "name": "Mayflower Market",
+        "rating": "3.5 star rating",
+        "reviews": "117 reviews",
+        "phone": "(415) 346-1700",
+        "address": "2498 Fillmore St"
+    },
+    {
+        "name": "Haight Ashbury Tattoo and Piercing",
+        "rating": "4.5 star rating",
+        "reviews": "380 reviews",
+        "phone": "(415) 431-2218",
+        "address": "1525 Haight St"
+    },
+    {
+        "name": "Alexander’s Steakhouse",
+        "rating": "4 star rating",
+        "reviews": "1700 reviews",
+        "phone": "(415) 495-1111",
+        "address": "448 Brannan St"
+    },
+    {
+        "name": "Speakeasy Ales & Lagers",
+        "rating": "4.5 star rating",
+        "reviews": "407 reviews",
+        "phone": "(415) 642-3371",
+        "address": "1195 Evans Ave"
+    },
+    {
+        "name": "Love N Haight Deli",
+        "rating": "4 star rating",
+        "reviews": "460 reviews",
+        "phone": "(415) 252-8190",
+        "address": "553 Haight St"
+    },
+    {
+        "name": "The Sandwich Spot",
+        "rating": "4 star rating",
+        "reviews": "650 reviews",
+        "phone": "(415) 829-2587",
+        "address": "3213 Pierce St"
+    },
+    {
+        "name": "Hotel San Francisco",
+        "rating": "4 star rating",
+        "reviews": "104 reviews",
+        "phone": "(415) 263-9222",
+        "address": "653 Commercial St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Gram Cafe & Pancakes",
+        "rating": "3 star rating",
+        "reviews": "388 reviews",
+        "phone": "(628) 256-6013",
+        "address": "3251 20th Ave"
+    },
+    {
+        "name": "Rita’s Catering & Eatery",
+        "rating": "4 star rating",
+        "reviews": "17 reviews",
+        "phone": "(650) 455-0522",
+        "address": "1068 Mission St"
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "rating": "2.5 star rating",
+        "reviews": "168 reviews",
+        "phone": "(415) 567-1748",
+        "address": "1426 Fillmore St"
+    },
+    {
+        "name": "Seal Rock Inn Restaurant",
+        "rating": "3 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 386-6518",
+        "address": null
+    },
+    {
+        "name": "Pera",
+        "rating": "4 star rating",
+        "reviews": "577 reviews",
+        "phone": "(415) 796-3812",
+        "address": "1457 18th St"
+    },
+    {
+        "name": "Jack in the Box",
+        "rating": "3 star rating",
+        "reviews": "27 reviews",
+        "phone": "(415) 674-4129",
+        "address": "2739 Taylor St"
+    },
+    {
+        "name": "Tacolicious",
+        "rating": "3.5 star rating",
+        "reviews": "1602 reviews",
+        "phone": "(415) 649-6077",
+        "address": "2250 Chestnut St"
+    },
+    {
+        "name": "Geneva Steak",
+        "rating": "3.5 star rating",
+        "reviews": "109 reviews",
+        "phone": "(415) 586-6685",
+        "address": "5130 Mission St"
+    },
+    {
+        "name": "Luce",
+        "rating": "3.5 star rating",
+        "reviews": "752 reviews",
+        "phone": "(415) 616-6566",
+        "address": null
+    },
+    {
+        "name": "Trou Normand",
+        "rating": "4 star rating",
+        "reviews": "558 reviews",
+        "phone": "(415) 975-0876",
+        "address": null
+    },
+    {
+        "name": "5A5 Steak Lounge",
+        "rating": "4 star rating",
+        "reviews": "2192 reviews",
+        "phone": "(415) 989-2539",
+        "address": "244 Jackson St"
+    },
+    {
+        "name": "Cha Cha Cha",
+        "rating": "4 star rating",
+        "reviews": "3208 reviews",
+        "phone": "(415) 386-7670",
+        "address": "1801 Haight St"
+    },
+    {
+        "name": "The Presidio Cafe",
+        "rating": "3 star rating",
+        "reviews": "92 reviews",
+        "phone": "(415) 561-4600",
+        "address": "300 Finley Rd"
+    },
+    {
+        "name": "The View Lounge",
+        "rating": "4 star rating",
+        "reviews": "1739 reviews",
+        "phone": "(415) 896-1600",
+        "address": "780 Mission St"
+    },
+    {
+        "name": "Taqueria Cazadores",
+        "rating": "4 star rating",
+        "reviews": "181 reviews",
+        "phone": "(415) 503-0340",
+        "address": null
+    },
+    {
+        "name": "Bon, Nene",
+        "rating": "4 star rating",
+        "reviews": "206 reviews",
+        "phone": "(415) 872-9332",
+        "address": "2850 21st St"
+    },
+    {
+        "name": "Cafe Med",
+        "rating": "4 star rating",
+        "reviews": "124 reviews",
+        "phone": "(415) 956-2922",
+        "address": "201 Pine St"
+    },
+    {
+        "name": "Punjab Restaurant",
+        "rating": "4 star rating",
+        "reviews": "204 reviews",
+        "phone": "(415) 282-4011",
+        "address": "2838 24th St"
+    },
+    {
+        "name": "Bistro At The Cliff House",
+        "rating": "3.5 star rating",
+        "reviews": "1466 reviews",
+        "phone": "(415) 386-3330",
+        "address": "1090 Point Lobos Ave"
+    },
+    {
+        "name": "El Rancho Grande",
+        "rating": "4 star rating",
+        "reviews": "359 reviews",
+        "phone": "(415) 673-8226",
+        "address": "855 Divisadero St"
+    },
+    {
+        "name": "Oasis Grill",
+        "rating": "3.5 star rating",
+        "reviews": "248 reviews",
+        "phone": "(415) 653-0464",
+        "address": "711B Market St"
+    },
+    {
+        "name": "The Cypress Grill",
+        "rating": "3.5 star rating",
+        "reviews": "99 reviews",
+        "phone": "(415) 664-4690",
+        "address": null
+    },
+    {
+        "name": "Chicano Nuevo",
+        "rating": "4.5 star rating",
+        "reviews": "29 reviews",
+        "phone": "(415) 583-7641",
+        "address": "3158 Mission St"
+    },
+    {
+        "name": "Pacific Catch",
+        "rating": "3.5 star rating",
+        "reviews": "1767 reviews",
+        "phone": "(415) 504-6905",
+        "address": "1200 9th Ave"
+    },
+    {
+        "name": "Pizza Zone N Grill",
+        "rating": "3 star rating",
+        "reviews": "29 reviews",
+        "phone": "(415) 282-6000",
+        "address": "4404 3rd St"
+    },
+    {
+        "name": "Cordon Bleu",
+        "rating": "4 star rating",
+        "reviews": "1058 reviews",
+        "phone": "(415) 673-5637",
+        "address": "1574 California St"
+    },
+    {
+        "name": "Toast Eatery",
+        "rating": "3 star rating",
+        "reviews": "524 reviews",
+        "phone": "(415) 928-1233",
+        "address": "1601 Polk St"
+    },
+    {
+        "name": "Pied Piper San Francisco",
+        "rating": "3.5 star rating",
+        "reviews": "347 reviews",
+        "phone": "(415) 546-5089",
+        "address": null
+    },
+    {
+        "name": "MarketBar",
+        "rating": "3 star rating",
+        "reviews": "1283 reviews",
+        "phone": "(415) 434-1100",
+        "address": null
+    },
+    {
+        "name": "Savor Open Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "873 reviews",
+        "phone": "(415) 282-0344",
+        "address": "3913 24th St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Auntie April’s Chicken-n-Waffles",
+        "rating": "4 star rating",
+        "reviews": "623 reviews",
+        "phone": "(415) 643-4983",
+        "address": "4618 3rd St"
+    },
+    {
+        "name": "Salumeria",
+        "rating": "4 star rating",
+        "reviews": "287 reviews",
+        "phone": "(415) 471-2998",
+        "address": "3000 20th St"
+    },
+    {
+        "name": "Farmhouse Kitchen Thai Cuisine",
+        "rating": "4 star rating",
+        "reviews": "2291 reviews",
+        "phone": "(415) 814-2920",
+        "address": "710 Florida St"
+    },
+    {
+        "name": "Newtree",
+        "rating": "4 star rating",
+        "reviews": "99 reviews",
+        "phone": "(415) 274-2829",
+        "address": "311 California St"
+    },
+    {
+        "name": "Saigon Sandwich",
+        "rating": "4.5 star rating",
+        "reviews": "3233 reviews",
+        "phone": "(415) 474-5698",
+        "address": "560 Larkin St"
+    },
+    {
+        "name": "Volcano",
+        "rating": "4 star rating",
+        "reviews": "1133 reviews",
+        "phone": "(415) 752-7671",
+        "address": "5454 Geary Blvd"
+    },
+    {
+        "name": "The Blarney Stone",
+        "rating": "4 star rating",
+        "reviews": "238 reviews",
+        "phone": "(415) 386-9914",
+        "address": "5625 Geary Blvd"
+    },
+    {
+        "name": "All Star Donuts",
+        "rating": "4.5 star rating",
+        "reviews": "258 reviews",
+        "phone": "(415) 221-9838",
+        "address": "901 Clement St"
+    },
+    {
+        "name": "Gaspar Brasserie",
+        "rating": "4 star rating",
+        "reviews": "379 reviews",
+        "phone": "(415) 576-8800",
+        "address": null
+    },
+    {
+        "name": "North Beach Gyros",
+        "rating": "4 star rating",
+        "reviews": "349 reviews",
+        "phone": "(415) 655-9665",
+        "address": "701 Union St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": "2.5 star rating",
+        "reviews": "96 reviews",
+        "phone": "(415) 285-2851",
+        "address": "2801 Mission St"
+    },
+    {
+        "name": "SOMA Eats",
+        "rating": "4.5 star rating",
+        "reviews": "45 reviews",
+        "phone": "(415) 529-1845",
+        "address": "121 Spear St"
+    },
+    {
+        "name": "Troya",
+        "rating": "4 star rating",
+        "reviews": "564 reviews",
+        "phone": "(415) 563-1000",
+        "address": "2125 Fillmore St"
+    },
+    {
+        "name": "Levi Plaza Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "26 reviews",
+        "phone": "(415) 501-7264",
+        "address": "1155 Battery St"
+    },
+    {
+        "name": "Giorgio’s Pizzeria",
+        "rating": "4 star rating",
+        "reviews": "990 reviews",
+        "phone": "(415) 668-1266",
+        "address": "151 Clement St"
+    },
+    {
+        "name": "Honey Honey Cafe and Crepery",
+        "rating": "4 star rating",
+        "reviews": "2531 reviews",
+        "phone": "(415) 351-2423",
+        "address": "599 Post St"
+    },
+    {
+        "name": "Bun Mee",
+        "rating": "3.5 star rating",
+        "reviews": "904 reviews",
+        "phone": "(415) 800-7696",
+        "address": "2015 Fillmore St"
+    },
+    {
+        "name": "Victory Hall & Parlor",
+        "rating": "3.5 star rating",
+        "reviews": "181 reviews",
+        "phone": "(415) 543-4255",
+        "address": "360 Ritch St"
+    },
+    {
+        "name": "Kate’s Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "841 reviews",
+        "phone": "(415) 626-3984",
+        "address": "471 Haight St"
+    },
+    {
+        "name": "SEAGLASS Restaurant",
+        "rating": "2.5 star rating",
+        "reviews": "111 reviews",
+        "phone": "(415) 528-4785",
+        "address": "Pier 15"
+    },
+    {
+        "name": "Tony’s Pizza Napoletana",
+        "rating": "4 star rating",
+        "reviews": "4962 reviews",
+        "phone": "(415) 835-9888",
+        "address": "1570 Stockton St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": "3.5 star rating",
+        "reviews": "102 reviews",
+        "phone": "(415) 397-6333",
+        "address": "235 N Front St"
+    },
+    {
+        "name": "Ashbury Market",
+        "rating": "4 star rating",
+        "reviews": "55 reviews",
+        "phone": "(415) 312-9405",
+        "address": "205 Frederick St"
+    },
+    {
+        "name": "Tacos Lupita",
+        "rating": "3.5 star rating",
+        "reviews": "3 reviews",
+        "phone": null,
+        "address": "375 Beale St"
+    },
+    {
+        "name": "Taste By Four Seasons",
+        "rating": "3.5 star rating",
+        "reviews": "2 reviews",
+        "phone": null,
+        "address": "On Market"
+    },
+    {
+        "name": "Garage Cafe",
+        "rating": "4 star rating",
+        "reviews": "58 reviews",
+        "phone": "(415) 861-0888",
+        "address": "320 11th St"
+    },
+    {
+        "name": "Bar 587",
+        "rating": "4.5 star rating",
+        "reviews": "237 reviews",
+        "phone": "(415) 817-1712",
+        "address": "587 Post St"
+    },
+    {
+        "name": "La Mediterranee",
+        "rating": "4 star rating",
+        "reviews": "581 reviews",
+        "phone": "(415) 431-7210",
+        "address": "288 Noe St"
+    },
+    {
+        "name": "Homeskillet",
+        "rating": "3.5 star rating",
+        "reviews": "388 reviews",
+        "phone": "(415) 552-5509",
+        "address": "1001 Market St"
+    },
+    {
+        "name": "In Situ",
+        "rating": "3.5 star rating",
+        "reviews": "481 reviews",
+        "phone": "(415) 941-6050",
+        "address": null
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Olea",
+        "rating": "4 star rating",
+        "reviews": "919 reviews",
+        "phone": "(415) 202-8521",
+        "address": "1494 California St"
+    },
+    {
+        "name": "Gracias Madre",
+        "rating": "4 star rating",
+        "reviews": "3190 reviews",
+        "phone": "(415) 683-1346",
+        "address": "2211 Mission St"
+    },
+    {
+        "name": "State Bird Provisions",
+        "rating": "4 star rating",
+        "reviews": "2736 reviews",
+        "phone": "(415) 795-1272",
+        "address": "1529 Fillmore St"
+    },
+    {
+        "name": "Co Nam",
+        "rating": "3.5 star rating",
+        "reviews": "425 reviews",
+        "phone": "(415) 292-6161",
+        "address": "1653 Polk St"
+    },
+    {
+        "name": "Squat & Gobble",
+        "rating": "3.5 star rating",
+        "reviews": "877 reviews",
+        "phone": "(415) 441-2200",
+        "address": "2263 Chestnut St"
+    },
+    {
+        "name": "Vegan Picnic",
+        "rating": "4.5 star rating",
+        "reviews": "33 reviews",
+        "phone": null,
+        "address": "1323 Polk St"
+    },
+    {
+        "name": "The Waterfront Restaurant",
+        "rating": "3 star rating",
+        "reviews": "1180 reviews",
+        "phone": "(415) 391-2696",
+        "address": "Pier 7 The Embarcadero"
+    },
+    {
+        "name": "Hayes Street Grill",
+        "rating": "3 star rating",
+        "reviews": "404 reviews",
+        "phone": "(415) 863-5545",
+        "address": "320 Hayes St"
+    },
+    {
+        "name": "Farm : Table",
+        "rating": "4 star rating",
+        "reviews": "1766 reviews",
+        "phone": "(415) 300-5652",
+        "address": "754 Post St"
+    },
+    {
+        "name": "AsiaSF",
+        "rating": "4 star rating",
+        "reviews": "1815 reviews",
+        "phone": "(415) 255-2742",
+        "address": "201 9th St"
+    },
+    {
+        "name": "Panchita’s Restaurant",
+        "rating": "4 star rating",
+        "reviews": "692 reviews",
+        "phone": "(415) 431-4232",
+        "address": "3091 16th St"
+    },
+    {
+        "name": "OneUp Restaurant & Lounge",
+        "rating": "3.5 star rating",
+        "reviews": "160 reviews",
+        "phone": "(415) 398-1234",
+        "address": null
+    },
+    {
+        "name": "Sam’s Chowder Mobile",
+        "rating": "3.5 star rating",
+        "reviews": "112 reviews",
+        "phone": null,
+        "address": "246 Ritch St"
+    },
+    {
+        "name": "Vixi",
+        "rating": "4 star rating",
+        "reviews": "193 reviews",
+        "phone": "(415) 842-4921",
+        "address": "3611 California St"
+    },
+    {
+        "name": "Phoenix Irish Bar",
+        "rating": "3.5 star rating",
+        "reviews": "672 reviews",
+        "phone": "(415) 695-1811",
+        "address": "811 Valencia St"
+    },
+    {
+        "name": "Blue Barn Gourmet",
+        "rating": "3.5 star rating",
+        "reviews": "83 reviews",
+        "phone": "(415) 896-4866",
+        "address": "3344 Steiner St"
+    },
+    {
+        "name": "Babylon Mediterranean",
+        "rating": "4 star rating",
+        "reviews": "4 reviews",
+        "phone": "(415) 660-5986",
+        "address": "855 Bryant St"
+    },
+    {
+        "name": "Gabby",
+        "rating": "3.5 star rating",
+        "reviews": "60 reviews",
+        "phone": "(415) 777-3354",
+        "address": "201 Harrison St"
+    },
+    {
+        "name": "Chowder Hut Fresh Grill",
+        "rating": "3 star rating",
+        "reviews": "513 reviews",
+        "phone": "(415) 776-1849",
+        "address": "2890 Taylor St"
+    },
+    {
+        "name": "Ragazza",
+        "rating": "4 star rating",
+        "reviews": "659 reviews",
+        "phone": "(415) 255-1133",
+        "address": "311 Divisadero St"
+    },
+    {
+        "name": "Lizzie’s Starlight",
+        "rating": "2.5 star rating",
+        "reviews": "3 reviews",
+        "phone": "(415) 395-8595",
+        "address": null
+    },
+    {
+        "name": "Let’s Eat BBQ & More",
+        "rating": "4 star rating",
+        "reviews": "90 reviews",
+        "phone": "(415) 822-2881",
+        "address": "5130 3rd St"
+    },
+    {
+        "name": "Lobster ME",
+        "rating": "3 star rating",
+        "reviews": "481 reviews",
+        "phone": null,
+        "address": null
+    },
+    {
+        "name": "Ferry Building Marketplace",
+        "rating": "4.5 star rating",
+        "reviews": "1778 reviews",
+        "phone": "(415) 983-8030",
+        "address": "1 Ferry Bldg"
+    },
+    {
+        "name": "Berber",
+        "rating": "4.5 star rating",
+        "reviews": "201 reviews",
+        "phone": "(415) 800-7767",
+        "address": "1516 Broadway St"
+    },
+    {
+        "name": "The Mill",
+        "rating": "4 star rating",
+        "reviews": "1120 reviews",
+        "phone": "(415) 345-1953",
+        "address": "736 Divisadero St"
+    },
+    {
+        "name": "The Organic Coup",
+        "rating": "3.5 star rating",
+        "reviews": "87 reviews",
+        "phone": "(415) 589-7613",
+        "address": null
+    },
+    {
+        "name": "Cha Cha Cha",
+        "rating": "3.5 star rating",
+        "reviews": "1947 reviews",
+        "phone": "(415) 824-1502",
+        "address": "2327 Mission St"
+    },
+    {
+        "name": "Marina Deli",
+        "rating": "4.5 star rating",
+        "reviews": "254 reviews",
+        "phone": "(415) 346-7800",
+        "address": "2299 Chestnut St"
+    },
+    {
+        "name": "Trader Joe’s",
+        "rating": "4 star rating",
+        "reviews": "538 reviews",
+        "phone": "(415) 346-9964",
+        "address": "3 Masonic Ave"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Bacon Dog Cart",
+        "rating": "4.5 star rating",
+        "reviews": "453 reviews",
+        "phone": null,
+        "address": "The Mission"
+    },
+    {
+        "name": "Lee’s Sandwiches",
+        "rating": "3 star rating",
+        "reviews": "660 reviews",
+        "phone": "(415) 929-6888",
+        "address": "625 Larkin St"
+    },
+    {
+        "name": "Bechelli’s Flower Market Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "140 reviews",
+        "phone": "(415) 495-7162",
+        "address": "698 Brannan St"
+    },
+    {
+        "name": "The Ramen Bar",
+        "rating": "3 star rating",
+        "reviews": "622 reviews",
+        "phone": "(415) 684-1570",
+        "address": "101 California St"
+    },
+    {
+        "name": "Glaze Teriyaki",
+        "rating": "3.5 star rating",
+        "reviews": "186 reviews",
+        "phone": "(415) 590-3193",
+        "address": "2095 Chestnut St"
+    },
+    {
+        "name": "Kin Khao",
+        "rating": "4 star rating",
+        "reviews": "2072 reviews",
+        "phone": "(415) 362-7456",
+        "address": null
+    },
+    {
+        "name": "Long Khanh Sandwhich Company",
+        "rating": null,
+        "reviews": null,
+        "phone": null,
+        "address": "1760 Cesar Chavez"
+    },
+    {
+        "name": "District San Francisco",
+        "rating": "4 star rating",
+        "reviews": "1149 reviews",
+        "phone": "(415) 896-2120",
+        "address": "216 Townsend St"
+    },
+    {
+        "name": "Newtree",
+        "rating": "4 star rating",
+        "reviews": "221 reviews",
+        "phone": "(415) 747-9871",
+        "address": "1 Ecker St"
+    },
+    {
+        "name": "Credo",
+        "rating": "4 star rating",
+        "reviews": "863 reviews",
+        "phone": "(415) 693-0360",
+        "address": "360 Pine St"
+    },
+    {
+        "name": "Waterbar",
+        "rating": "3.5 star rating",
+        "reviews": "3019 reviews",
+        "phone": "(415) 284-9922",
+        "address": "399 The Embarcadero"
+    },
+    {
+        "name": "Roka Akor - San Francisco",
+        "rating": "4 star rating",
+        "reviews": "1259 reviews",
+        "phone": "(415) 362-8887",
+        "address": "801 Montgomery St"
+    },
+    {
+        "name": "Piccadilly Fish & Chips",
+        "rating": "3.5 star rating",
+        "reviews": "275 reviews",
+        "phone": "(415) 771-6477",
+        "address": "1348 Polk St"
+    },
+    {
+        "name": "Urban Remedy",
+        "rating": "5 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 855-3013",
+        "address": "181 Fremont St"
+    },
+    {
+        "name": "Working Girls’ Cafe",
+        "rating": "4 star rating",
+        "reviews": "242 reviews",
+        "phone": "(415) 495-8985",
+        "address": "101 Mission St"
+    },
+    {
+        "name": "Roli Roti Gourmet Rotisserie",
+        "rating": "4.5 star rating",
+        "reviews": "1446 reviews",
+        "phone": "(510) 780-0300",
+        "address": null
+    },
+    {
+        "name": "a Mano",
+        "rating": "4 star rating",
+        "reviews": "855 reviews",
+        "phone": "(415) 506-7401",
+        "address": "450 Hayes St"
+    },
+    {
+        "name": "Hawaiian Drive Inn",
+        "rating": "3.5 star rating",
+        "reviews": "129 reviews",
+        "phone": "(415) 656-0998",
+        "address": "2600 San Bruno Ave"
+    },
+    {
+        "name": "Mission Street Oyster Bar & Seafood Restaurant",
+        "rating": "4 star rating",
+        "reviews": "577 reviews",
+        "phone": "(415) 621-6987",
+        "address": "2282 Mission St"
+    },
+    {
+        "name": "The Clubhouse at the Presidio Golf Course",
+        "rating": "4.5 star rating",
+        "reviews": "72 reviews",
+        "phone": "(415) 561-4661",
+        "address": null
+    },
+    {
+        "name": "Mission Cheese",
+        "rating": "4 star rating",
+        "reviews": "552 reviews",
+        "phone": "(415) 553-8667",
+        "address": "736 Valencia St"
+    },
+    {
+        "name": "Sens Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "944 reviews",
+        "phone": "(415) 362-0645",
+        "address": "4 Embarcadero Ctr"
+    },
+    {
+        "name": "Local Kitchen & Wine Merchant",
+        "rating": "3.5 star rating",
+        "reviews": "1032 reviews",
+        "phone": "(415) 777-4200",
+        "address": "330 1st St"
+    },
+    {
+        "name": "Kokkari Estiatorio",
+        "rating": "4.5 star rating",
+        "reviews": "4479 reviews",
+        "phone": "(415) 981-0983",
+        "address": "200 Jackson St"
+    },
+    {
+        "name": "The Crew",
+        "rating": "4 star rating",
+        "reviews": "426 reviews",
+        "phone": "(415) 665-8548",
+        "address": "1330 Noriega St"
+    },
+    {
+        "name": "Mosto",
+        "rating": "4 star rating",
+        "reviews": "265 reviews",
+        "phone": "(415) 649-6077",
+        "address": "741 Valencia St"
+    },
+    {
+        "name": "Bacon Bacon",
+        "rating": "3.5 star rating",
+        "reviews": "373 reviews",
+        "phone": "(510) 516-1968",
+        "address": null
+    },
+    {
+        "name": "Leatherneck Steakhouse",
+        "rating": "4 star rating",
+        "reviews": "317 reviews",
+        "phone": "(415) 673-6672",
+        "address": null
+    },
+    {
+        "name": "Sanguchón Peruvian Food Truck",
+        "rating": "4 star rating",
+        "reviews": "368 reviews",
+        "phone": "(415) 885-9816",
+        "address": null
+    },
+    {
+        "name": "Benu",
+        "rating": "4.5 star rating",
+        "reviews": "1058 reviews",
+        "phone": "(415) 685-4860",
+        "address": "22 Hawthorne St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Piece of Heaven",
+        "rating": "4.5 star rating",
+        "reviews": "42 reviews",
+        "phone": "(415) 775-0130",
+        "address": "1380 Sutter St"
+    },
+    {
+        "name": "Culinary Cafeteria",
+        "rating": "4.5 star rating",
+        "reviews": "33 reviews",
+        "phone": "(415) 239-3000",
+        "address": "50 Phelan Ave"
+    },
+    {
+        "name": "Precita Park Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "428 reviews",
+        "phone": "(415) 647-7702",
+        "address": "500 Precita Ave"
+    },
+    {
+        "name": "SF Hole in the Wall Catering",
+        "rating": "5 star rating",
+        "reviews": "5 reviews",
+        "phone": "(415) 450-7214",
+        "address": "1827 Irving St"
+    },
+    {
+        "name": "El Castillito",
+        "rating": "4 star rating",
+        "reviews": "842 reviews",
+        "phone": "(415) 621-3428",
+        "address": "136 Church St"
+    },
+    {
+        "name": "The Little Chihuahua",
+        "rating": "4 star rating",
+        "reviews": "1467 reviews",
+        "phone": "(415) 255-8225",
+        "address": "292 Divisadero St"
+    },
+    {
+        "name": "Super Mira Market",
+        "rating": "4 star rating",
+        "reviews": "156 reviews",
+        "phone": "(415) 921-6529",
+        "address": "1790 Sutter St"
+    },
+    {
+        "name": "Gyro King",
+        "rating": "3.5 star rating",
+        "reviews": "535 reviews",
+        "phone": "(415) 621-8313",
+        "address": "25 Grove St"
+    },
+    {
+        "name": "Uno Dos Tacos",
+        "rating": "4 star rating",
+        "reviews": "763 reviews",
+        "phone": "(415) 974-6922",
+        "address": "595 Market St"
+    },
+    {
+        "name": "The Plant Café Organic",
+        "rating": "3.5 star rating",
+        "reviews": "958 reviews",
+        "phone": "(415) 931-2777",
+        "address": "3352 Steiner St"
+    },
+    {
+        "name": "Señor Sisig",
+        "rating": "4 star rating",
+        "reviews": "1582 reviews",
+        "phone": "(855) 747-4455",
+        "address": null
+    },
+    {
+        "name": "Rhea’s Deli & Market",
+        "rating": "4 star rating",
+        "reviews": "608 reviews",
+        "phone": "(415) 282-5255",
+        "address": "800 Valencia St"
+    },
+    {
+        "name": "Denny’s",
+        "rating": "2 star rating",
+        "reviews": "372 reviews",
+        "phone": "(415) 243-8800",
+        "address": "816 Mission St"
+    },
+    {
+        "name": "Mi Lindo Perú",
+        "rating": "4 star rating",
+        "reviews": "723 reviews",
+        "phone": "(415) 642-4897",
+        "address": "3226 Mission St"
+    },
+    {
+        "name": "Spice Kit",
+        "rating": "3.5 star rating",
+        "reviews": "560 reviews",
+        "phone": "(415) 882-4581",
+        "address": "405 Howard St"
+    },
+    {
+        "name": "El Valenciano Restaurant & Bar",
+        "rating": "3.5 star rating",
+        "reviews": "77 reviews",
+        "phone": "(415) 826-9561",
+        "address": "1153 Valencia St"
+    },
+    {
+        "name": "GoodFella’s Pizzeria & Grill",
+        "rating": "3.5 star rating",
+        "reviews": "252 reviews",
+        "phone": "(415) 398-1000",
+        "address": "377 Bay St"
+    },
+    {
+        "name": "Little Henry’s",
+        "rating": "3 star rating",
+        "reviews": "260 reviews",
+        "phone": "(415) 387-8761",
+        "address": "3600 Balboa St"
+    },
+    {
+        "name": "Cafe In",
+        "rating": "4 star rating",
+        "reviews": "48 reviews",
+        "phone": "(415) 660-5986",
+        "address": "855A Bryant St"
+    },
+    {
+        "name": "MaSo",
+        "rating": "3 star rating",
+        "reviews": "88 reviews",
+        "phone": "(415) 974-6400",
+        "address": null
+    },
+    {
+        "name": "Freshroll Vietnamese Rolls & Bowls",
+        "rating": "4 star rating",
+        "reviews": "1190 reviews",
+        "phone": "(415) 348-1858",
+        "address": "157 4th St"
+    },
+    {
+        "name": "Parallel 37",
+        "rating": "4 star rating",
+        "reviews": "206 reviews",
+        "phone": "(415) 773-6168",
+        "address": null
+    },
+    {
+        "name": "Divisadero Farmers’ Market",
+        "rating": "4 star rating",
+        "reviews": "105 reviews",
+        "phone": "(800) 949-3276",
+        "address": "1375 Fell St"
+    },
+    {
+        "name": "Il Pollaio",
+        "rating": "4.5 star rating",
+        "reviews": "384 reviews",
+        "phone": "(415) 362-7727",
+        "address": "555 Columbus Ave"
+    },
+    {
+        "name": "Fresca",
+        "rating": "3.5 star rating",
+        "reviews": "279 reviews",
+        "phone": "(415) 742-5727",
+        "address": "737 Irving St"
+    },
+    {
+        "name": "Aquitaine",
+        "rating": "4 star rating",
+        "reviews": "308 reviews",
+        "phone": "(415) 402-5290",
+        "address": "175 Sutter St"
+    },
+    {
+        "name": "Loló",
+        "rating": "4 star rating",
+        "reviews": "2145 reviews",
+        "phone": "(415) 643-5656",
+        "address": "974 Valencia St"
+    },
+    {
+        "name": "Sugarcane SF",
+        "rating": "4 star rating",
+        "reviews": "105 reviews",
+        "phone": "(415) 933-8938",
+        "address": "6903 Geary Blvd"
+    },
+    {
+        "name": "Darwin Cafe",
+        "rating": "4 star rating",
+        "reviews": "592 reviews",
+        "phone": "(415) 800-8668",
+        "address": "212 Ritch St"
+    },
+    {
+        "name": "Beach Street Grill Restaurant",
+        "rating": "4 star rating",
+        "reviews": "461 reviews",
+        "phone": "(415) 867-1711",
+        "address": "380 Beach St"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Sam’s Cable Car Lounge",
+        "rating": "4 star rating",
+        "reviews": "475 reviews",
+        "phone": "(415) 434-7222",
+        "address": "222 Powell St"
+    },
+    {
+        "name": "Sabra Grill",
+        "rating": "3.5 star rating",
+        "reviews": "153 reviews",
+        "phone": "(415) 982-3656",
+        "address": "419 Grant Ave"
+    },
+    {
+        "name": "Heyday",
+        "rating": "3.5 star rating",
+        "reviews": "169 reviews",
+        "phone": "(415) 284-4515",
+        "address": "180 Spear St"
+    },
+    {
+        "name": "Halal Cart",
+        "rating": "4 star rating",
+        "reviews": "496 reviews",
+        "phone": "(628) 208-4052",
+        "address": "425 Market St"
+    },
+    {
+        "name": "Golden Gate Grill",
+        "rating": "3 star rating",
+        "reviews": "102 reviews",
+        "phone": "(628) 400-5978",
+        "address": "449 Powell St"
+    },
+    {
+        "name": "pomelo on Judah",
+        "rating": "4 star rating",
+        "reviews": "433 reviews",
+        "phone": "(415) 731-6175",
+        "address": "92 Judah St"
+    },
+    {
+        "name": "Vive La Tarte",
+        "rating": "4 star rating",
+        "reviews": "85 reviews",
+        "phone": null,
+        "address": "166 The Embarcadero"
+    },
+    {
+        "name": "Korean Bobcha",
+        "rating": "4 star rating",
+        "reviews": "140 reviews",
+        "phone": "(669) 243-1558",
+        "address": null
+    },
+    {
+        "name": "Gary Danko",
+        "rating": "4.5 star rating",
+        "reviews": "5492 reviews",
+        "phone": "(415) 749-2060",
+        "address": "800 N Point St"
+    },
+    {
+        "name": "Kate O’Brien’s Irish Bar & Grill",
+        "rating": "3 star rating",
+        "reviews": "447 reviews",
+        "phone": "(415) 882-7240",
+        "address": "579 Howard St"
+    },
+    {
+        "name": "Black Cat",
+        "rating": "3.5 star rating",
+        "reviews": "366 reviews",
+        "phone": "(415) 358-1999",
+        "address": "400 Eddy St"
+    },
+    {
+        "name": "Skate Bowl Diner",
+        "rating": "2.5 star rating",
+        "reviews": "6 reviews",
+        "phone": "(415) 697-3768",
+        "address": "750 Folsom St"
+    },
+    {
+        "name": "Crawstation",
+        "rating": "3.5 star rating",
+        "reviews": "952 reviews",
+        "phone": "(415) 682-9980",
+        "address": "1336 9th Ave"
+    },
+    {
+        "name": "Souvla",
+        "rating": "4 star rating",
+        "reviews": "1342 reviews",
+        "phone": "(415) 400-5458",
+        "address": "517 Hayes St"
+    },
+    {
+        "name": "Garden House Cafe",
+        "rating": "4 star rating",
+        "reviews": "285 reviews",
+        "phone": "(415) 668-1640",
+        "address": "3117 Clement St"
+    },
+    {
+        "name": "City Lunch Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "25 reviews",
+        "phone": "(415) 822-5530",
+        "address": "2101 Ingalls St"
+    },
+    {
+        "name": "Central Kitchen",
+        "rating": "3.5 star rating",
+        "reviews": "580 reviews",
+        "phone": "(415) 826-7004",
+        "address": "3000 20th St"
+    },
+    {
+        "name": "The Creamery",
+        "rating": "3 star rating",
+        "reviews": "766 reviews",
+        "phone": "(415) 896-1446",
+        "address": "685 4th St"
+    },
+    {
+        "name": "El Farolito",
+        "rating": "4 star rating",
+        "reviews": "4855 reviews",
+        "phone": "(415) 824-7877",
+        "address": "2779 Mission St"
+    },
+    {
+        "name": "One Market Restaurant",
+        "rating": "3.5 star rating",
+        "reviews": "1308 reviews",
+        "phone": "(415) 777-5577",
+        "address": "1 Market St"
+    },
+    {
+        "name": "Rose’s Cafe",
+        "rating": "3.5 star rating",
+        "reviews": "930 reviews",
+        "phone": "(415) 775-2200",
+        "address": "2298 Union St"
+    },
+    {
+        "name": "Gallardos Mexican Restaurant",
+        "rating": "4 star rating",
+        "reviews": "450 reviews",
+        "phone": "(415) 436-9387",
+        "address": "3248 18th St"
+    },
+    {
+        "name": "Sammy’s on 2nd",
+        "rating": "4 star rating",
+        "reviews": "204 reviews",
+        "phone": "(415) 243-0311",
+        "address": "84 2nd St"
+    },
+    {
+        "name": "Hotel Utah Saloon",
+        "rating": "3.5 star rating",
+        "reviews": "573 reviews",
+        "phone": "(415) 546-6300",
+        "address": null
+    },
+    {
+        "name": "Lolinda",
+        "rating": "4 star rating",
+        "reviews": "1939 reviews",
+        "phone": "(415) 550-6970",
+        "address": "2518 Mission St"
+    },
+    {
+        "name": "J B’s Hamburgers",
+        "rating": "1 star rating",
+        "reviews": "1 review",
+        "phone": "(415) 433-5644",
+        "address": "501 Columbus Ave"
+    },
+    {
+        "name": "3-Sum Eats Food Truck",
+        "rating": "4 star rating",
+        "reviews": "205 reviews",
+        "phone": null,
+        "address": "300 De Haro St"
+    },
+    {
+        "name": "The Old Clam House",
+        "rating": "3.5 star rating",
+        "reviews": "826 reviews",
+        "phone": "(415) 826-4880",
+        "address": "299 Bayshore Blvd"
+    },
+    {
+        "name": "The Blue Light",
+        "rating": "3.5 star rating",
+        "reviews": "492 reviews",
+        "phone": "(628) 895-2743",
+        "address": "1979 Union St"
+    },
+    {
+        "name": "Tropisueno",
+        "rating": "4 star rating",
+        "reviews": "4395 reviews",
+        "phone": "(415) 243-0299",
+        "address": "75 Yerba Buena Ln"
+    },
+    {
+        "name": "McDonald’s",
+        "rating": null,
+        "reviews": null,
+        "phone": "+1-415-923-1138",
+        "address": "1100 Fillmore St"
+    },
+    {
+        "name": "Mission Banh Mi",
+        "rating": "4 star rating",
+        "reviews": "185 reviews",
+        "phone": "(415) 551-1772",
+        "address": null
+    },
+    {
+        "name": "Petit Marlowe",
+        "rating": "4 star rating",
+        "reviews": "102 reviews",
+        "phone": "(415) 923-8577",
+        "address": "234 Townsend St"
+    },
+    {
+        "name": "Noeteca Wine Bar",
+        "rating": "4.5 star rating",
+        "reviews": "464 reviews",
+        "phone": "(415) 824-5524",
+        "address": "1551 Dolores St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "1.5 star rating",
+        "reviews": "39 reviews",
+        "phone": "(415) 469-5518",
+        "address": "4780 Mission Street"
+    },
+    {
+        "name": "Molinari Delicatessen",
+        "rating": "4.5 star rating",
+        "reviews": "1100 reviews",
+        "phone": "(415) 421-2337",
+        "address": "373 Columbus Ave"
+    },
+    {
+        "name": "The Living Room Bar and Lounge",
+        "rating": "3.5 star rating",
+        "reviews": "40 reviews",
+        "phone": "(415) 817-7836",
+        "address": null
+    },
+    {
+        "name": "De Afghanan Kabob House",
+        "rating": "4.5 star rating",
+        "reviews": "539 reviews",
+        "phone": "(415) 929-1124",
+        "address": "1035 Geary St"
+    },
+    {
+        "name": "Elaine’s Kitchen",
+        "rating": "4 star rating",
+        "reviews": "370 reviews",
+        "phone": "(415) 392-1826",
+        "address": "434 Broadway St"
+    },
+    {
+        "name": "Live Sushi Bar",
+        "rating": "4 star rating",
+        "reviews": "1236 reviews",
+        "phone": "(415) 861-8610",
+        "address": "2001 17th St"
+    },
+    {
+        "name": "Limón Rotisserie",
+        "rating": "4 star rating",
+        "reviews": "3164 reviews",
+        "phone": "(415) 821-2134",
+        "address": "1001 S Van Ness Ave"
+    },
+    {
+        "name": "Goat Hill Pizza",
+        "rating": "3.5 star rating",
+        "reviews": "231 reviews",
+        "phone": "(415) 242-4628",
+        "address": "170 W Portal Ave"
+    },
+    {
+        "name": "The Oak Room Restaurant",
+        "rating": "3 star rating",
+        "reviews": "148 reviews",
+        "phone": "(415) 774-0264",
+        "address": null
+    },
+    {
+        "name": "Swirl on Castro",
+        "rating": "4.5 star rating",
+        "reviews": "112 reviews",
+        "phone": "(415) 864-2262",
+        "address": "572 Castro St"
+    },
+    {
+        "name": "Sakara Life",
+        "rating": "4 star rating",
+        "reviews": "12 reviews",
+        "phone": "(917) 261-3593",
+        "address": null
+    },
+    {
+        "name": "Peña Pachamama",
+        "rating": "4 star rating",
+        "reviews": "451 reviews",
+        "phone": "(415) 646-0018",
+        "address": "1630 Powell St"
+    },
+    {
+        "name": "DragonEats",
+        "rating": "4 star rating",
+        "reviews": "374 reviews",
+        "phone": "(415) 795-1169",
+        "address": "555 Folsom St"
+    },
+    {
+        "name": "Locali Mediterranean",
+        "rating": "4 star rating",
+        "reviews": "237 reviews",
+        "phone": "(415) 399-9991",
+        "address": "98 Battery St"
+    },
+    {
+        "name": "Hahn’s Hibachi Korean BBQ",
+        "rating": "3.5 star rating",
+        "reviews": "347 reviews",
+        "phone": "(415) 776-1095",
+        "address": "1710 Polk St"
+    },
+    {
+        "name": "Grill",
+        "rating": "3.5 star rating",
+        "reviews": "6 reviews",
+        "phone": null,
+        "address": "689 Mission St"
+    },
+    {
+        "name": "Zero Zero",
+        "rating": "4 star rating",
+        "reviews": "3268 reviews",
+        "phone": "(415) 348-8800",
+        "address": "826 Folsom St"
+    },
+    {
+        "name": "Caffe Union",
+        "rating": "3.5 star rating",
+        "reviews": "210 reviews",
+        "phone": "(415) 673-4119",
+        "address": "1830 Union St"
+    },
+    {
+        "name": "Off the Grid: Vallejo & Front",
+        "rating": "3.5 star rating",
+        "reviews": "12 reviews",
+        "phone": "(415) 339-5888",
+        "address": "101 Broadway St"
+    },
+    {
+        "name": "Saucy Asian",
+        "rating": "4 star rating",
+        "reviews": "285 reviews",
+        "phone": "(415) 834-5555",
+        "address": "3801 17th St"
+    },
+    {
+        "name": "Hai Ky Noodles",
+        "rating": "4.5 star rating",
+        "reviews": "936 reviews",
+        "phone": "(415) 771-2577",
+        "address": "707 Ellis St"
+    },
+    {
+        "name": "Golden Gate Meat Company",
+        "rating": "4 star rating",
+        "reviews": "395 reviews",
+        "phone": "(415) 983-7800",
+        "address": null
+    },
+    {
+        "name": "Tuba Authentic Turkish Restaurant",
+        "rating": "4.5 star rating",
+        "reviews": "1014 reviews",
+        "phone": "(415) 826-8822",
+        "address": "1007 Guerrero St"
+    },
+    {
+        "name": "Cheese Plus",
+        "rating": "4.5 star rating",
+        "reviews": "540 reviews",
+        "phone": "(415) 921-2001",
+        "address": "2001 Polk St"
+    },
+    {
+        "name": "Burger King",
+        "rating": "2 star rating",
+        "reviews": "57 reviews",
+        "phone": "(415) 821-6288",
+        "address": "245 Bayshore Blvd"
+    },
+    {
+        "name": "Hyatt Regency San Francisco",
+        "rating": "3.5 star rating",
+        "reviews": "957 reviews",
+        "phone": "(415) 788-1234",
+        "address": "5 Embarcadero Ctr"
+    },
+    {
+        "name": "Serendipity Food Truck",
+        "rating": "4.5 star rating",
+        "reviews": "23 reviews",
+        "phone": "(916) 479-1437",
+        "address": null
+    }
+]
