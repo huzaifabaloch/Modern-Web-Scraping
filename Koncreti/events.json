@@ -1,0 +1,260 @@
+[
+    {
+        "date": "01",
+        "month": "jan",
+        "time": "18:00",
+        "event_title": "NOVOLETNI KONCERT"
+    },
+    {
+        "date": "09",
+        "month": "jan",
+        "time": "19:30",
+        "event_title": "5. Filharmonični festival baročne glasbe"
+    },
+    {
+        "date": "11",
+        "month": "jan",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 5. koncert"
+    },
+    {
+        "date": "16",
+        "month": "jan",
+        "time": "19:30",
+        "event_title": "Kako kratek je ta čas"
+    },
+    {
+        "date": "17",
+        "month": "jan",
+        "time": "19:30",
+        "event_title": "5. Filharmonični festival baročne glasbe"
+    },
+    {
+        "date": "18",
+        "month": "jan",
+        "time": "17:00",
+        "event_title": "Novoletni koncert Orkestra Simfonika Vrhnika"
+    },
+    {
+        "date": "18",
+        "month": "jan",
+        "time": "20:00",
+        "event_title": "Novoletni koncert Orkestra Simfonika Vrhnika"
+    },
+    {
+        "date": "23",
+        "month": "jan",
+        "time": "19:30",
+        "event_title": "3. koncert 29. sezone koncertnega cikla GM ODER"
+    },
+    {
+        "date": "25",
+        "month": "jan",
+        "time": "11:00",
+        "event_title": "5. Filharmonični festival baročne glasbe"
+    },
+    {
+        "date": "30",
+        "month": "jan",
+        "time": "19:30",
+        "event_title": "Koncertni cikel Tutti"
+    },
+    {
+        "date": "01",
+        "month": "feb",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 6. koncert"
+    },
+    {
+        "date": "02",
+        "month": "feb",
+        "time": "19:00",
+        "event_title": "4. Zimski Festival – Hommage à Ludwig van Beethoven"
+    },
+    {
+        "date": "04",
+        "month": "feb",
+        "time": "19:00",
+        "event_title": "4. Zimski Festival – Hommage à Ludwig van Beethoven"
+    },
+    {
+        "date": "05",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "DANES IN NEKOČ"
+    },
+    {
+        "date": "06",
+        "month": "feb",
+        "time": "19:00",
+        "event_title": "4. Zimski Festival – Hommage à Ludwig van Beethoven"
+    },
+    {
+        "date": "06",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "Koncert ob podelitvi Škerjančevih nagrad, priznanj in diplom za leto 2020"
+    },
+    {
+        "date": "08",
+        "month": "feb",
+        "time": "10:00",
+        "event_title": "KULTURNI PRAZNIK V SLOVENSKI FILHARMONIJI"
+    },
+    {
+        "date": "08",
+        "month": "feb",
+        "time": "12:00",
+        "event_title": "KULTURNI PRAZNIK V SLOVENSKI FILHARMONIJI"
+    },
+    {
+        "date": "13",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "LJUBEZEN IN GLASBA"
+    },
+    {
+        "date": "14",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "LJUBEZEN IN GLASBA"
+    },
+    {
+        "date": "27",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "DUNAJSKI KLASIKI"
+    },
+    {
+        "date": "28",
+        "month": "feb",
+        "time": "19:30",
+        "event_title": "DUNAJSKI KLASIKI"
+    },
+    {
+        "date": "05",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "NEBEŠKO ŽIVLJENJE"
+    },
+    {
+        "date": "06",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "NEBEŠKO ŽIVLJENJE"
+    },
+    {
+        "date": "08",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "ZMAGOVALKI NA POT"
+    },
+    {
+        "date": "14",
+        "month": "mar",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 7. koncert"
+    },
+    {
+        "date": "19",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "METAMORFOZE"
+    },
+    {
+        "date": "20",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "METAMORFOZE"
+    },
+    {
+        "date": "24",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "Hej, partizan!"
+    },
+    {
+        "date": "26",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "POKLON LENINGRADU"
+    },
+    {
+        "date": "27",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "POKLON LENINGRADU"
+    },
+    {
+        "date": "29",
+        "month": "mar",
+        "time": "19:30",
+        "event_title": "RUSKA MOLITEV"
+    },
+    {
+        "date": "04",
+        "month": "apr",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 8. koncert"
+    },
+    {
+        "date": "09",
+        "month": "apr",
+        "time": "19:30",
+        "event_title": "LA PASSIONE"
+    },
+    {
+        "date": "10",
+        "month": "apr",
+        "time": "19:30",
+        "event_title": "LA PASSIONE"
+    },
+    {
+        "date": "17",
+        "month": "apr",
+        "time": "19:30",
+        "event_title": "OBUP ALI UPANJE?"
+    },
+    {
+        "date": "14",
+        "month": "maj",
+        "time": "19:30",
+        "event_title": "SIMFONIJA ALP"
+    },
+    {
+        "date": "15",
+        "month": "maj",
+        "time": "19:30",
+        "event_title": "SIMFONIJA ALP"
+    },
+    {
+        "date": "21",
+        "month": "maj",
+        "time": "19:30",
+        "event_title": "DUBRAVKA TOMŠIČ SREBOTNJAK"
+    },
+    {
+        "date": "22",
+        "month": "maj",
+        "time": "19:30",
+        "event_title": "DUBRAVKA TOMŠIČ SREBOTNJAK"
+    },
+    {
+        "date": "23",
+        "month": "maj",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 9. koncert"
+    },
+    {
+        "date": "24",
+        "month": "maj",
+        "time": "19:30",
+        "event_title": "POMLAD ŽE PRIŠLA BO …"
+    },
+    {
+        "date": "13",
+        "month": "jun",
+        "time": "11:00",
+        "event_title": "Ciklus družinskih koncertov – 10. koncert"
+    }
+]
