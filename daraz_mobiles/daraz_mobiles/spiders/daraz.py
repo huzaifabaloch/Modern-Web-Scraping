@@ -1,4 +1,5 @@
 import scrapy 
+from scrapy.loader import ItemLoader
 import json
 from ..items import DarazMobilesItem
 
@@ -25,18 +26,19 @@ class DarazSpider(scrapy.Spider):
 
         mobiles_listing = data.get('mods').get('listItems')
         for each_listing in mobiles_listing:
-            mobileItem['mobile_id'] = each_listing.get('nid')
-            mobileItem['name'] = each_listing.get('name')
-            mobileItem['price'] = each_listing.get('price')
-            mobileItem['original_price'] = each_listing.get('originalPrice')
-            mobileItem['discount'] = each_listing.get('discount')
-            mobileItem['rating_score'] = each_listing.get('ratingScore')
-            mobileItem['review'] = each_listing.get('review')
-            mobileItem['url'] = each_listing.get('productUrl')
-            mobileItem['image_link'] = each_listing.get('image')
+            loader = ItemLoader(item=DarazMobilesItem())
+            loader.add_value('mobile_id', each_listing.get('nid'))
+            loader.add_value('name', each_listing.get('name'))
+            loader.add_value('price', each_listing.get('price'))
+            loader.add_value('original_price', each_listing.get('originalPrice'))
+            loader.add_value('discount', each_listing.get('discount'))
+            loader.add_value('rating_score', each_listing.get('ratingScore'))
+            loader.add_value('review', each_listing.get('review'))
+            loader.add_value('url', each_listing.get('productUrl'))
+            loader.add_value('image_link', each_listing.get('image'))
             self.result_count += 1
 
-            yield mobileItem
+            yield loader.load_item()
         
         total_results = data.get('mainInfo').get('totalResults')
         if self.result_count <= int(total_results):

@@ -6,15 +6,34 @@
 # https://doc.scrapy.org/en/latest/topics/items.html
 
 import scrapy
+from scrapy.loader.processors import TakeFirst
 
 
 class DarazMobilesItem(scrapy.Item):
-    mobile_id = scrapy.Field()
-    name = scrapy.Field()
-    price = scrapy.Field()
-    original_price = scrapy.Field()
-    discount = scrapy.Field()
-    rating_score = scrapy.Field()
-    review = scrapy.Field()
-    url = scrapy.Field()
-    image_link = scrapy.Field()
+    mobile_id = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    name = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    price = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    original_price = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    discount = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    rating_score = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    review = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    url = scrapy.Field(
+        output_processor = TakeFirst()
+    )
+    image_link = scrapy.Field(
+        output_processor = TakeFirst()
+    )
