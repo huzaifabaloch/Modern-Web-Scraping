@@ -1,0 +1,122 @@
+[
+    {
+        "make_model": "Nissan Micra",
+        "detail_version": "1.0 Comfort",
+        "price_in_euro": "€ 150",
+        "phone_number": "9420 - 9543001"
+    },
+    {
+        "make_model": "Daewoo Rezzo",
+        "detail_version": "2.0 CDX mit LPG und Klimaautomatik",
+        "price_in_euro": "€ 350",
+        "phone_number": "33205 - 353001"
+    },
+    {
+        "make_model": "Audi A4",
+        "detail_version": "Limousine 1.6 Ltr. 8-fache Bereifung",
+        "price_in_euro": "€ 350",
+        "phone_number": "9928 - 8414001"
+    },
+    {
+        "make_model": "Volkswagen Polo",
+        "detail_version": "Fantasy Schiebedach",
+        "price_in_euro": "€ 250",
+        "phone_number": "33205 - 353001"
+    },
+    {
+        "make_model": "Volkswagen Golf",
+        "detail_version": "Alltrack 4MOTION 2.0TDI DSG+ACC+Navi+Kamera",
+        "price_in_euro": "€ 168",
+        "phone_number": "7132 - 8563008"
+    },
+    {
+        "make_model": "Volkswagen Golf",
+        "detail_version": "Alltrack 4MOTION 2.0TDI DSG+PDC+Klimauto",
+        "price_in_euro": "€ 154",
+        "phone_number": "7132 - 8563008"
+    },
+    {
+        "make_model": "Fiat Brava",
+        "detail_version": "100 SX",
+        "price_in_euro": "€ 500",
+        "phone_number": "981 - 90934032"
+    },
+    {
+        "make_model": "Audi A4",
+        "detail_version": "1.6 Limousine*Einbruchsschaden*",
+        "price_in_euro": "€ 500",
+        "phone_number": "30 - 26475778"
+    },
+    {
+        "make_model": "Kia Clarus",
+        "detail_version": "GLX Tüv bis August 2020",
+        "price_in_euro": "€ 499",
+        "phone_number": "30 - 26475411"
+    },
+    {
+        "make_model": "Opel Vectra",
+        "detail_version": "B Caravan Bel Air KLIMA",
+        "price_in_euro": "€ 490",
+        "phone_number": "3361 - 1544224"
+    },
+    {
+        "make_model": "Opel Corsa",
+        "detail_version": "B 1.2",
+        "price_in_euro": "€ 490",
+        "phone_number": "821 - 490110"
+    },
+    {
+        "make_model": "Audi A3",
+        "detail_version": "1.8",
+        "price_in_euro": "€ 490",
+        "phone_number": "821 - 490110"
+    },
+    {
+        "make_model": "Opel Corsa",
+        "detail_version": "C 1,2 Sport KLIMA MFL SPORTSITZE TÜV 09-20",
+        "price_in_euro": "€ 490",
+        "phone_number": "6122 - 7754006"
+    },
+    {
+        "make_model": "Daihatsu Cuore",
+        "detail_version": "Automatik Klima el. FH Alu M+S",
+        "price_in_euro": "€ 790",
+        "phone_number": "30 - 26475442"
+    },
+    {
+        "make_model": "Audi A4",
+        "detail_version": "1.6 - Klimaautomatik - CD-Wechsler - AHK",
+        "price_in_euro": "€ 690",
+        "phone_number": "7953 - 7523002"
+    },
+    {
+        "make_model": "Mitsubishi Carisma",
+        "detail_version": "1.6 Klima el.Fensterheber Leder 17 Zoll Alu AHK",
+        "price_in_euro": "€ 650",
+        "phone_number": "33205 - 353001"
+    },
+    {
+        "make_model": "Fiat Stilo",
+        "detail_version": "1.6 16V Dynamic Klima*5-Türer",
+        "price_in_euro": "€ 600",
+        "phone_number": "9721 - 5329025"
+    },
+    {
+        "make_model": "Audi A6",
+        "detail_version": "Avant 2.4 Klimaautomatik PDC Alu",
+        "price_in_euro": "€ 600",
+        "phone_number": "33205 - 353001"
+    },
+    {
+        "make_model": "Nissan Primera",
+        "detail_version": "*AHK*KLIMAAUTOMATIK*ZV*",
+        "price_in_euro": "€ 599",
+        "phone_number": "6348 - 9848568"
+    },
+    {
+        "make_model": "Opel Corsa",
+        "detail_version": "C Fresh Motor Getriebe Einwandfrei",
+        "price_in_euro": "€ 500",
+        "phone_number": "2922 - 8030166"
+    }
+]
