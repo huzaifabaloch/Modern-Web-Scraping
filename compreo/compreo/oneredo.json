@@ -1,0 +1,2996 @@
+{
+    "postingId": "55822074",
+    "postingCode": "28REFO",
+    "title": "Le Parc Residences - a Orillas del Parque Omar",
+    "generatedTitle": "Proyecto de apartamentos",
+    "description": "A orilas del Parque Omar, el complejo residencial LE PARC RESIDENCES se levanta destinado a convertirse en un icono y referencia de nuestra ciudad capital. <br>Compuesto por 2 TORRES con dise\u00f1o vanguardista y distribuci\u00f3n funcional convierten a los apartamentos en aut\u00e9nticas joyas inmobiliarias. <br><br>TORRE 1: compuesto por 188 Unidades y 4 elevadores. <br>TORRE 2: compuesto por 100 Unidades y 3 elevadores. <br><br>Ubicado en la Ave. 1C Sur y Calle Arco Iris, sobre el parque Omar en Carrasquilla. A pasos de V\u00eda Porras y San Francisco, ideal para el \u00e1rea comercial del complejo. <br><br>CALIDAD DE VIDA <br>Apartamentos entre 74 y 118 mts2 <br>- 1, 2 y 3 Recamaras <br>- 2 ba\u00f1os completos <br>- Vistas panor\u00e1micas al Parque Omar o a la ciudad <br>- Balcones <br>- Sala <br>- Comedor <br>- Cocina <br>- Excelentes acabados importados. <br><br>ENTRETENIMIENTO <br>- Piscina infinity con vista al Parque Omar <br>- Piscina semi-ol\u00edmpica para nataci\u00f3n <br>- Piscina para ni\u00f1os <br>- \u00c1rea de Gimnasio con vista al parque <br>- Sal\u00f3n de fiestas y reuniones <br>- Sal\u00f3n de juegos para adultos <br>- \u00c1rea abierta y cerrada de juegos infantiles <br>- Guarderia <br>- Bohio <br>- \u00c1rea de BBQ.",
+    "descriptionNormalized": "A orilas del Parque Omar, el complejo residencial le parc residences se levanta destinado a convertirse en un icono y referencia de nuestra ciudad capital. Compuesto por 2 torres con dise\u00f1o vanguardista y distribuci\u00f3n funcional convierten a los apartamentos en aut\u00e9nticas joyas inmobiliarias. Torre 1: compuesto por 188 Unidades y 4 elevadores. Torre 2: compuesto por 100 Unidades y 3 elevadores. Ubicado en la Ave. 1C Sur y Calle Arco Iris, sobre el parque Omar en Carrasquilla. A pasos de V\u00eda Porras y San Francisco, ideal para el \u00e1rea comercial del complejo. Calidad de vida. Apartamentos entre 74 y 118 mts2. - 1, 2 y 3 Recamaras. - 2 ba\u00f1os completos. - Vistas panor\u00e1micas al Parque Omar o a la ciudad. - Balcones. - Sala. - Comedor. - Cocina. - Excelentes acabados importados. Entretenimiento. - Piscina infinity con vista al Parque Omar. - Piscina semi-ol\u00edmpica para nataci\u00f3n. - Piscina para ni\u00f1os. - \u00c1rea de Gimnasio con vista al parque. - Sal\u00f3n de fiestas y reuniones. - Sal\u00f3n de juegos para adultos. - \u00c1rea abierta y cerrada de juegos infantiles. - Guarderia. - Bohio. - \u00c1rea de bbq. ",
+    "priceOperationTypes": [
+        {
+            "lowPricePercentage": null,
+            "operationType": {
+                "name": "Venta",
+                "operationTypeId": "1"
+            },
+            "prices": [
+                {
+                    "currencyId": "2",
+                    "amount": 163000,
+                    "formattedAmount": "163,000",
+                    "currency": "USD"
+                }
+            ]
+        }
+    ],
+    "expenses": null,
+    "mainFeatures": {},
+    "generalFeatures": {
+        "Caracter\u00edsticas generales": {
+            "198": {
+                "featureId": "198",
+                "label": "Facilidad para discapacitados",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "4"
+            },
+            "27": {
+                "featureId": "27",
+                "label": "Piscina",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "4"
+            },
+            "8": {
+                "featureId": "8",
+                "label": "N\u00famero de elevadores",
+                "measure": null,
+                "value": "7",
+                "icon": null,
+                "featureCategoryId": "4"
+            },
+            "141": {
+                "featureId": "141",
+                "label": "Seguridad",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "4"
+            }
+        },
+        "Servicios": {
+            "45": {
+                "featureId": "45",
+                "label": "Guardia de seguridad",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "1"
+            },
+            "36": {
+                "featureId": "36",
+                "label": "Aire(s) acondicionado(s)",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "1"
+            },
+            "136": {
+                "featureId": "136",
+                "label": "Planta de emergencia",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "1"
+            },
+            "139": {
+                "featureId": "139",
+                "label": "\u00e1rea de Juegos Infantiles",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "1"
+            },
+            "21": {
+                "featureId": "21",
+                "label": "Gimnasio",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "1"
+            }
+        },
+        "\u00c1reas Sociales": {
+            "1004": {
+                "featureId": "1004",
+                "label": "Lobby",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "11"
+            }
+        },
+        "Exteriores": {
+            "4": {
+                "featureId": "4",
+                "label": "\u00c1rboles",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "3"
+            },
+            "129": {
+                "featureId": "129",
+                "label": "Carril de Nado",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "3"
+            },
+            "291": {
+                "featureId": "291",
+                "label": "Estacionamiento cerrado",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "3"
+            },
+            "131": {
+                "featureId": "131",
+                "label": "Estacionamiento de visitas",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "3"
+            }
+        },
+        "Divisiones": {
+            "236": {
+                "featureId": "236",
+                "label": "Dep\u00f3sitos",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "2"
+            },
+            "138": {
+                "featureId": "138",
+                "label": "Sal\u00f3n de Fiestas",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "2"
+            },
+            "140": {
+                "featureId": "140",
+                "label": "Sal\u00f3n de usos m\u00faltiples",
+                "measure": null,
+                "value": null,
+                "icon": null,
+                "featureCategoryId": "2"
+            }
+        }
+    },
+    "developmentFeatures": {
+        "Proyectos": {
+            "CFT201": {
+                "featureId": "CFT201",
+                "label": "Inmediata",
+                "measure": null,
+                "value": "0",
+                "icon": "fecha",
+                "featureCategoryId": "CFC3"
+            },
+            "CFT202": {
+                "featureId": "CFT202",
+                "label": "Total de unidades",
+                "measure": null,
+                "value": "288",
+                "icon": null,
+                "featureCategoryId": "CFC3"
+            },
+            "CFT200": {
+                "featureId": "CFT200",
+                "label": "Pre-venta",
+                "measure": null,
+                "value": "14",
+                "icon": "terminado",
+                "featureCategoryId": "CFC3"
+            }
+        }
+    },
+    "flagsFeatures": [
+        {
+            "featureId": "CFT200",
+            "label": "Pre-venta",
+            "measure": null,
+            "value": "14",
+            "icon": "terminado",
+            "featureCategoryId": "CFC3"
+        },
+        {
+            "featureId": "CFT201",
+            "label": "Inmediata",
+            "measure": null,
+            "value": "0",
+            "icon": "fecha",
+            "featureCategoryId": "CFC3"
+        },
+        null
+    ],
+    "antiquity": null,
+    "publisher": {
+        "publisherId": "50126233",
+        "name": "GRUPO LANDERS",
+        "url": null,
+        "urlLogo": "https://img10.naventcdn.com/empresas/20/00/50/12/62/33/130x70/logo_grupo-landers_3.jpg",
+        "publisherTypeId": "3",
+        "urlChat": null,
+        "license": null,
+        "publisherTags": [],
+        "parentPublisher": null,
+        "amountPostingActive": null,
+        "partialPhone": null,
+        "approved": false,
+        "mainPhone": null
+    },
+    "pictures": [
+        {
+            "multimediaTypeId": "2",
+            "order": 1,
+            "height": 1200,
+            "width": 720,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600109.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600109.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600109.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600109.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600109.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600109.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos , Panam\u00e1"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 2,
+            "height": 1200,
+            "width": 720,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600102.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600102.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600102.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600102.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600102.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600102.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos en   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 3,
+            "height": 667,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600113.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600113.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600113.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600113.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600113.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600113.jpg",
+            "url130x70": null,
+            "title": "A orilas del Parque Omar, el complejo residencial LE PARC RESIDENCES se levanta "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 4,
+            "height": 666,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600114.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600114.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600114.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600114.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600114.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600114.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 5,
+            "height": 800,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600116.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600116.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600116.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600116.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600116.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600116.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 6,
+            "height": 801,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600115.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600115.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600115.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600115.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600115.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600115.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 7,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600112.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600112.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600112.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600112.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600112.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600112.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 8,
+            "height": 675,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600108.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600108.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600108.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600108.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600108.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600108.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos - GRUPO LANDERS"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 9,
+            "height": 675,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600104.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600104.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600104.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600104.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600104.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600104.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos  "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 10,
+            "height": 545,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600107.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600107.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600107.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600107.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600107.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600107.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 11,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600111.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600111.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600111.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600111.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600111.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600111.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos , Panam\u00e1"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 12,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600103.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600103.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600103.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600103.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600103.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600103.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos en   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 13,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600110.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600110.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600110.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600110.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600110.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600110.jpg",
+            "url130x70": null,
+            "title": "A orilas del Parque Omar, el complejo residencial LE PARC RESIDENCES se levanta "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 14,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600106.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600106.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600106.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600106.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600106.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600106.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 15,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600105.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600105.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600105.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600105.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600105.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600105.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 16,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954784.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954784.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954784.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954784.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954784.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954784.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 17,
+            "height": 900,
+            "width": 1200,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954788.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954788.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954788.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954788.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954788.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954788.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 18,
+            "height": 1200,
+            "width": 931,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954791.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954791.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954791.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954791.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954791.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954791.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos - GRUPO LANDERS"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 19,
+            "height": 1200,
+            "width": 892,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954782.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954782.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954782.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954782.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954782.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954782.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos  "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 20,
+            "height": 1200,
+            "width": 960,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954779.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954779.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954779.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954779.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954779.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954779.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 21,
+            "height": 1200,
+            "width": 960,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954783.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954783.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954783.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954783.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954783.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954783.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos , Panam\u00e1"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 22,
+            "height": 1000,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954787.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954787.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954787.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954787.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954787.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954787.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos en   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 23,
+            "height": 800,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954778.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954778.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954778.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954778.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954778.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954778.jpg",
+            "url130x70": null,
+            "title": "A orilas del Parque Omar, el complejo residencial LE PARC RESIDENCES se levanta "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 24,
+            "height": 1200,
+            "width": 984,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954781.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954781.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954781.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954781.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954781.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954781.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 25,
+            "height": 1200,
+            "width": 960,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954790.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954790.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954790.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954790.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954790.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954790.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 26,
+            "height": 1200,
+            "width": 946,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954786.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954786.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954786.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954786.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954786.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954786.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   Carrasquilla"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 27,
+            "height": 1000,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954789.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954789.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954789.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954789.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954789.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954789.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos   "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 28,
+            "height": 958,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954792.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954792.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954792.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954792.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954792.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954792.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos - GRUPO LANDERS"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 29,
+            "height": 800,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954777.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954777.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954777.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954777.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954777.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954777.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos  "
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 30,
+            "height": 1200,
+            "width": 995,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954780.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954780.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954780.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954780.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954780.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954780.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 31,
+            "height": 941,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954785.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954785.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954785.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954785.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954785.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954785.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos , Panam\u00e1"
+        },
+        {
+            "multimediaTypeId": "2",
+            "order": 32,
+            "height": 579,
+            "width": 1000,
+            "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/144954776.jpg",
+            "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/144954776.jpg",
+            "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/144954776.jpg",
+            "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/144954776.jpg",
+            "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/144954776.jpg",
+            "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/144954776.jpg",
+            "url130x70": null,
+            "title": "Proyecto de apartamentos en   Carrasquilla"
+        }
+    ],
+    "videos": [
+        {
+            "multimediaTypeId": "1",
+            "order": 121604448,
+            "reference": "UpoHMhu3NSo",
+            "preview": null
+        }
+    ],
+    "plans": null,
+    "urlLogo": null,
+    "tour": null,
+    "unsafe": false,
+    "reserved": false,
+    "realEstateType": {
+        "name": "Vertical",
+        "realEstateTypeId": "34"
+    },
+    "realEstateSubtype": null,
+    "alt": false,
+    "units": [
+        {
+            "postingId": "55822182",
+            "postingCode": "28REJC",
+            "title": "Modelo A - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 170900,
+                            "formattedAmount": "170,900",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 1,
+                    "height": 1200,
+                    "width": 720,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600109.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600109.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600109.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600109.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600109.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600109.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos , Panam\u00e1"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28rejc"
+        },
+        {
+            "postingId": "55822194",
+            "postingCode": "28REJO",
+            "title": "Modelo B - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 245570,
+                            "formattedAmount": "245,570",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "117",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "117",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 2,
+                    "height": 1200,
+                    "width": 720,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600102.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600102.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600102.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600102.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600102.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600102.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos en   Carrasquilla"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "117",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "117",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28rejo"
+        },
+        {
+            "postingId": "55822342",
+            "postingCode": "28REOM",
+            "title": "Modelo C - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 236700,
+                            "formattedAmount": "236,700",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "111",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "111",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 3,
+                    "height": 667,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600113.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600113.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600113.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600113.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600113.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600113.jpg",
+                    "url130x70": null,
+                    "title": "A orilas del Parque Omar, el complejo residencial LE PARC RESIDENCES se levanta "
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "111",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "111",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28reom"
+        },
+        {
+            "postingId": "55822348",
+            "postingCode": "28REOS",
+            "title": "Modelo D - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 163000,
+                            "formattedAmount": "163,000",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "75",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "75",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 4,
+                    "height": 666,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600114.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600114.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600114.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600114.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600114.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600114.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos   "
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "75",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "75",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28reos"
+        },
+        {
+            "postingId": "55822357",
+            "postingCode": "28REP7",
+            "title": "Modelo E - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 166670,
+                            "formattedAmount": "166,670",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 5,
+                    "height": 800,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600116.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600116.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600116.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600116.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600116.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600116.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos   Carrasquilla"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28rep7"
+        },
+        {
+            "postingId": "55822366",
+            "postingCode": "28REPG",
+            "title": "Modelo F - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 166100,
+                            "formattedAmount": "166,100",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 6,
+                    "height": 801,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600115.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600115.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600115.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600115.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600115.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600115.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos   Carrasquilla"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "76",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28repg"
+        },
+        {
+            "postingId": "55822377",
+            "postingCode": "28REPR",
+            "title": "Modelo G - Torre 100",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 168000,
+                            "formattedAmount": "168,000",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "78",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "78",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 7,
+                    "height": 900,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600112.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600112.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600112.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600112.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600112.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600112.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos   "
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "78",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "78",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28repr"
+        },
+        {
+            "postingId": "55822481",
+            "postingCode": "28RETB",
+            "title": "Modelo B - Torre 200",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 241440,
+                            "formattedAmount": "241,440",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "114",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "114",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 8,
+                    "height": 675,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600108.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600108.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600108.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600108.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600108.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600108.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos - GRUPO LANDERS"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "3",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "114",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "114",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28retb"
+        },
+        {
+            "postingId": "55822487",
+            "postingCode": "28RETH",
+            "title": "Modelo A - Torre 200",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 173540,
+                            "formattedAmount": "173,540",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 9,
+                    "height": 675,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600104.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600104.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600104.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600104.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600104.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600104.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos  "
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "79",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28reth"
+        },
+        {
+            "postingId": "55822498",
+            "postingCode": "28RETS",
+            "title": "Modelo C - Torre 200",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 184660,
+                            "formattedAmount": "184,660",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "86",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "86",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 10,
+                    "height": 545,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600107.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600107.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600107.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600107.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600107.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600107.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "86",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "86",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28rets"
+        },
+        {
+            "postingId": "55822507",
+            "postingCode": "28RF07",
+            "title": "Modelo E - Torre 200",
+            "generatedTitle": null,
+            "description": null,
+            "descriptionNormalized": null,
+            "priceOperationTypes": [
+                {
+                    "lowPricePercentage": null,
+                    "operationType": {
+                        "name": "Venta",
+                        "operationTypeId": "1"
+                    },
+                    "prices": [
+                        {
+                            "currencyId": "2",
+                            "amount": 189000,
+                            "formattedAmount": "189,000",
+                            "currency": "USD"
+                        }
+                    ]
+                }
+            ],
+            "expenses": null,
+            "mainFeatures": {
+                "CFT100": {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "88",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT101": {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "88",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                "CFT2": {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT3": {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT7": {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT4": {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                "CFT5": {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                }
+            },
+            "generalFeatures": {},
+            "developmentFeatures": {},
+            "flagsFeatures": [],
+            "antiquity": null,
+            "publisher": null,
+            "pictures": [
+                {
+                    "multimediaTypeId": "2",
+                    "order": 11,
+                    "height": 900,
+                    "width": 1200,
+                    "resizeUrl1200x1200": "https://img10.naventcdn.com/avisos/resize/20/00/55/82/20/74/1200x1200/121600111.jpg",
+                    "url1200x1200": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/1200x1200/121600111.jpg",
+                    "url730x532": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/720x532/121600111.jpg",
+                    "url360x266": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/360x266/121600111.jpg",
+                    "url215x159": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/215x159/121600111.jpg",
+                    "url100x75": "https://img10.naventcdn.com/avisos/20/00/55/82/20/74/100x75/121600111.jpg",
+                    "url130x70": null,
+                    "title": "Proyecto de apartamentos , Panam\u00e1"
+                }
+            ],
+            "videos": null,
+            "plans": null,
+            "urlLogo": null,
+            "tour": null,
+            "unsafe": false,
+            "reserved": false,
+            "realEstateType": {
+                "name": "Apartamento",
+                "realEstateTypeId": "2"
+            },
+            "realEstateSubtype": null,
+            "alt": false,
+            "units": [],
+            "publicationAreaId": "1",
+            "iptu": null,
+            "partialPhone": null,
+            "url": null,
+            "pixelPlus": null,
+            "showFirst360": false,
+            "publication": null,
+            "features": [
+                {
+                    "featureId": "CFT5",
+                    "label": "Antig\u00fcedad",
+                    "measure": null,
+                    "value": "En construcci\u00f3n",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT4",
+                    "label": "Medios Ba\u00f1os",
+                    "measure": null,
+                    "value": "0",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT3",
+                    "label": "Ba\u00f1os",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT2",
+                    "label": "Rec\u00e1maras",
+                    "measure": null,
+                    "value": "2",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT7",
+                    "label": "Estacionamientos",
+                    "measure": null,
+                    "value": "1",
+                    "icon": null,
+                    "featureCategoryId": "CFC1"
+                },
+                {
+                    "featureId": "CFT101",
+                    "label": "Superficie cubierta",
+                    "measure": "m\u00b2",
+                    "value": "88",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                },
+                {
+                    "featureId": "CFT100",
+                    "label": "Superficie total",
+                    "measure": "m\u00b2",
+                    "value": "88",
+                    "icon": null,
+                    "featureCategoryId": "CFC2"
+                }
+            ],
+            "postingLocation": null,
+            "status": null,
+            "postingType": "UNIT",
+            "ownerDomain": null,
+            "alphanumeric_key": "28rf07"
+        }
+    ],
+    "publicationAreaId": "5",
+    "iptu": null,
+    "partialPhone": null,
+    "url": "/propiedades/le-parc-residences-a-orillas-del-parque-omar-55822074.html",
+    "pixelPlus": null,
+    "showFirst360": false,
+    "publication": {
+        "beginDate": "2020-01-22T20:46:04.000Z",
+        "firstDateOnline": "2019-02-26T05:00:00.000Z",
+        "publicationPlan": {
+            "publicationAreaId": "5"
+        }
+    },
+    "features": [
+        {
+            "featureId": "4",
+            "label": "\u00c1rboles",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "3"
+        },
+        {
+            "featureId": "8",
+            "label": "N\u00famero de elevadores",
+            "measure": null,
+            "value": "7",
+            "icon": null,
+            "featureCategoryId": "4"
+        },
+        {
+            "featureId": "21",
+            "label": "Gimnasio",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "1"
+        },
+        {
+            "featureId": "27",
+            "label": "Piscina",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "4"
+        },
+        {
+            "featureId": "36",
+            "label": "Aire(s) acondicionado(s)",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "1"
+        },
+        {
+            "featureId": "45",
+            "label": "Guardia de seguridad",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "1"
+        },
+        {
+            "featureId": "129",
+            "label": "Carril de Nado",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "3"
+        },
+        {
+            "featureId": "131",
+            "label": "Estacionamiento de visitas",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "3"
+        },
+        {
+            "featureId": "136",
+            "label": "Planta de emergencia",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "1"
+        },
+        {
+            "featureId": "138",
+            "label": "Sal\u00f3n de Fiestas",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "2"
+        },
+        {
+            "featureId": "139",
+            "label": "\u00e1rea de Juegos Infantiles",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "1"
+        },
+        {
+            "featureId": "140",
+            "label": "Sal\u00f3n de usos m\u00faltiples",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "2"
+        },
+        {
+            "featureId": "141",
+            "label": "Seguridad",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "4"
+        },
+        {
+            "featureId": "198",
+            "label": "Facilidad para discapacitados",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "4"
+        },
+        {
+            "featureId": "236",
+            "label": "Dep\u00f3sitos",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "2"
+        },
+        {
+            "featureId": "291",
+            "label": "Estacionamiento cerrado",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "3"
+        },
+        {
+            "featureId": "1004",
+            "label": "Lobby",
+            "measure": null,
+            "value": null,
+            "icon": null,
+            "featureCategoryId": "11"
+        },
+        {
+            "featureId": "CFT202",
+            "label": "Total de unidades",
+            "measure": null,
+            "value": "288",
+            "icon": null,
+            "featureCategoryId": "CFC3"
+        },
+        {
+            "featureId": "CFT200",
+            "label": "Pre-venta",
+            "measure": null,
+            "value": "14",
+            "icon": "terminado",
+            "featureCategoryId": "CFC3"
+        },
+        {
+            "featureId": "CFT201",
+            "label": "Inmediata",
+            "measure": null,
+            "value": "0",
+            "icon": "fecha",
+            "featureCategoryId": "CFC3"
+        }
+    ],
+    "postingLocation": {
+        "address": {
+            "name": "Ave. 1C Sur en Carrasquilla",
+            "visibility": "EXACT"
+        },
+        "location": {
+            "locationId": "V1-D-119401",
+            "name": "Carrasquilla",
+            "label": "ZONA",
+            "depth": 3,
+            "parent": {
+                "locationId": "V1-C-3095",
+                "name": "Panam\u00e1",
+                "label": "CIUDAD",
+                "depth": 2,
+                "parent": {
+                    "locationId": "V1-B-396",
+                    "name": "Panam\u00e1",
+                    "label": "PROVINCIA",
+                    "depth": 1,
+                    "parent": {
+                        "locationId": "V1-A-20",
+                        "name": "Panama",
+                        "label": "PAIS",
+                        "depth": 0,
+                        "parent": null
+                    }
+                }
+            }
+        },
+        "postingGeolocation": {
+            "geolocation": {
+                "latitude": 8.9972018,
+                "longitude": -79.51365599999997
+            },
+            "urlStaticMap": "//maps.google.com/maps/api/staticmap?center=8.997201799999999138890416361391544342041015625,-79.5136559999999690262484364211559295654296875&zoom=16&key=AIzaSyDidEB6rBpqW2eKVMSZY8qKuCw1C0kQbn4&size=780x456&sensor=true&scale=2&signature=jSzHucGLKTTmZ4uPEtWTbEHIuxg=",
+            "visibility": null
+        }
+    },
+    "status": "ONLINE",
+    "postingType": "DEVELOPMENT",
+    "ownerDomain": null,
+    "alphanumeric_key": "28refo"
+}
+]
