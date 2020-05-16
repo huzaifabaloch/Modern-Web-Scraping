@@ -1,0 +1,360 @@
+[
+    {
+        "song_compositor": "A Day To Remember",
+        "song_name": "Downfall Of Us All",
+        "slug_name": "Downfall-Of-Us-All",
+        "creation_date": "05/04/2020-23:04:55",
+        "slug_compositor": "A-Day-To-Remember",
+        "segment_array": [
+            "Intro and Verse",
+            "Pre-Chorus and Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Day-To-Remember/Downfall-Of-Us-All"
+    },
+    {
+        "song_compositor": "A G Cook",
+        "song_name": "Superstar",
+        "slug_name": "Superstar",
+        "creation_date": "05/04/2020-23:05:53",
+        "slug_compositor": "A-G-Cook",
+        "segment_array": [
+            "Pre-Chorus",
+            "Pre-Chorus and Chorus",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-G-Cook/Superstar"
+    },
+    {
+        "song_compositor": "A Great Big World",
+        "song_name": "Say Something",
+        "slug_name": "Say-Something",
+        "creation_date": "05/04/2020-23:07:07",
+        "slug_compositor": "A-Great-Big-World",
+        "segment_array": [
+            "Intro",
+            "Intro and Verse",
+            "Verse",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Great-Big-World/Say-Something"
+    },
+    {
+        "song_compositor": "A Love Like Pi",
+        "song_name": "Heaven's Halberd",
+        "slug_name": "Heavens-Halberd",
+        "creation_date": "05/04/2020-23:08:31",
+        "slug_compositor": "A-Love-Like-Pi",
+        "segment_array": [
+            "Verse"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Love-Like-Pi/Heavens-Halberd"
+    },
+    {
+        "song_compositor": "A Lovely War",
+        "song_name": "Autumn Leaves Us Blue",
+        "slug_name": "Autumn-Leaves-Us-Blue",
+        "creation_date": "05/04/2020-23:09:30",
+        "slug_compositor": "A-Lovely-War",
+        "segment_array": [
+            "Intro",
+            "Verse and Pre-Chorus",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Lovely-War/Autumn-Leaves-Us-Blue"
+    },
+    {
+        "song_compositor": "A Perfect Circle",
+        "song_name": "Weak and Powerless",
+        "slug_name": "Weak-and-Powerless",
+        "creation_date": "05/04/2020-23:10:33",
+        "slug_compositor": "A-Perfect-Circle",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Perfect-Circle/Weak-and-Powerless"
+    },
+    {
+        "song_compositor": "A R Rahman",
+        "song_name": "Roja",
+        "slug_name": "Roja",
+        "creation_date": "05/04/2020-23:11:43",
+        "slug_compositor": "A-R-Rahman",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-R-Rahman/Roja"
+    },
+    {
+        "song_compositor": "A Sunny Day in Glasgow",
+        "song_name": "The Body It Bends",
+        "slug_name": "The-Body-It-Bends",
+        "creation_date": "05/04/2020-23:12:45",
+        "slug_compositor": "A-Sunny-Day-in-Glasgow",
+        "segment_array": [
+            "Verse"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Sunny-Day-in-Glasgow/The-Body-It-Bends"
+    },
+    {
+        "song_compositor": "A Teens",
+        "song_name": "Upside Down",
+        "slug_name": "Upside-Down",
+        "creation_date": "05/04/2020-23:13:48",
+        "slug_compositor": "A-Teens",
+        "segment_array": [
+            "Verse and Pre-Chorus",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Teens/Upside-Down"
+    },
+    {
+        "song_compositor": "A Tribe Called Quest",
+        "song_name": "Word Play",
+        "slug_name": "Word-Play",
+        "creation_date": "05/04/2020-23:15:09",
+        "slug_compositor": "A-Tribe-Called-Quest",
+        "segment_array": [
+            "Instrumental"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-Tribe-Called-Quest/Word-Play"
+    },
+    {
+        "song_compositor": "A-ha",
+        "song_name": "The Sun Always Shines On TV",
+        "slug_name": "The-Sun-Always-Shines-On-TV",
+        "creation_date": "05/04/2020-23:16:08",
+        "slug_compositor": "A-ha",
+        "segment_array": [
+            "Intro",
+            "Chorus",
+            "Bridge",
+            "Solo"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/A-ha/The-Sun-Always-Shines-On-TV"
+    },
+    {
+        "song_compositor": "Aage Aleksandersen",
+        "song_name": "Norge Mitt Norge",
+        "slug_name": "Norge-Mitt-Norge",
+        "creation_date": "05/04/2020-23:17:07",
+        "slug_compositor": "Aage-Aleksandersen",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Aage-Aleksandersen/Norge-Mitt-Norge"
+    },
+    {
+        "song_compositor": "Aaliyah",
+        "song_name": "We Need A Resolution",
+        "slug_name": "We-Need-A-Resolution",
+        "creation_date": "05/04/2020-23:18:12",
+        "slug_compositor": "Aaliyah",
+        "segment_array": [
+            "Intro",
+            "Verse",
+            "Chorus",
+            "Outro"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Aaliyah/We-Need-A-Resolution"
+    },
+    {
+        "song_compositor": "AandG",
+        "song_name": "Lucid",
+        "slug_name": "Lucid",
+        "creation_date": "05/04/2020-23:19:01",
+        "slug_compositor": "AandG",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/AandG/Lucid"
+    },
+    {
+        "song_compositor": "AaRON",
+        "song_name": "U-Turn -Lili-",
+        "slug_name": "U-Turn--Lili-",
+        "creation_date": "05/04/2020-23:19:56",
+        "slug_compositor": "AaRON",
+        "segment_array": [
+            "Intro and Verse",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/AaRON/U-Turn--Lili-"
+    },
+    {
+        "song_compositor": "Aaron Carter",
+        "song_name": "Sooner Or Later",
+        "slug_name": "Sooner-Or-Later",
+        "creation_date": "05/04/2020-23:20:46",
+        "slug_compositor": "Aaron-Carter",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Aaron-Carter/Sooner-Or-Later"
+    },
+    {
+        "song_compositor": "Ab-Soul",
+        "song_name": "Terrorist Threats",
+        "slug_name": "Terrorist-Threats",
+        "creation_date": "05/04/2020-23:21:47",
+        "slug_compositor": "Ab-Soul",
+        "segment_array": [
+            "Instrumental"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Ab-Soul/Terrorist-Threats"
+    },
+    {
+        "song_compositor": "ABBA",
+        "song_name": "Waterloo",
+        "slug_name": "Waterloo",
+        "creation_date": "05/04/2020-23:22:38",
+        "slug_compositor": "ABBA",
+        "segment_array": [
+            "Verse",
+            "Pre-Chorus",
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/ABBA/Waterloo"
+    },
+    {
+        "song_compositor": "Abel Korzeniowski",
+        "song_name": "Melting Waltz",
+        "slug_name": "Melting-Waltz",
+        "creation_date": "05/04/2020-23:23:34",
+        "slug_compositor": "Abel-Korzeniowski",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Abel-Korzeniowski/Melting-Waltz"
+    },
+    {
+        "song_compositor": "Above and Beyond",
+        "song_name": "You Got To Go",
+        "slug_name": "You-Got-To-Go",
+        "creation_date": "05/04/2020-23:24:23",
+        "slug_compositor": "Above-and-Beyond",
+        "segment_array": [
+            "Bridge"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Above-and-Beyond/You-Got-To-Go"
+    },
+    {
+        "song_compositor": "Above and Beyond feat Alex Vargas",
+        "song_name": "All Over The World",
+        "slug_name": "All-Over-The-World",
+        "creation_date": "05/04/2020-23:25:25",
+        "slug_compositor": "Above-and-Beyond-feat-Alex-Vargas",
+        "segment_array": [
+            "Verse"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Above-and-Beyond-feat-Alex-Vargas/All-Over-The-World"
+    },
+    {
+        "song_compositor": "Absofacto",
+        "song_name": "Whose Side Are You On Anyway",
+        "slug_name": "Whose-Side-Are-You-On-Anyway",
+        "creation_date": "05/04/2020-23:26:22",
+        "slug_compositor": "Absofacto",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Absofacto/Whose-Side-Are-You-On-Anyway"
+    },
+    {
+        "song_compositor": "ABSRDST",
+        "song_name": "Skin Contest",
+        "slug_name": "Skin-Contest",
+        "creation_date": "05/04/2020-23:27:17",
+        "slug_compositor": "ABSRDST",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/ABSRDST/Skin-Contest"
+    },
+    {
+        "song_compositor": "ABSRDST and Diveo",
+        "song_name": "In Case it Crashes",
+        "slug_name": "In-Case-it-Crashes",
+        "creation_date": "05/04/2020-23:28:02",
+        "slug_compositor": "ABSRDST-and-Diveo",
+        "segment_array": [
+            "Intro"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/ABSRDST-and-Diveo/In-Case-it-Crashes"
+    },
+    {
+        "song_compositor": "Absynthe Minded",
+        "song_name": "Papillon",
+        "slug_name": "Papillon",
+        "creation_date": "05/04/2020-23:28:54",
+        "slug_compositor": "Absynthe-Minded",
+        "segment_array": [
+            "Intro and Verse",
+            "Chorus",
+            "Bridge"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/Absynthe-Minded/Papillon"
+    },
+    {
+        "song_compositor": "AC DC",
+        "song_name": "Thunderstruck",
+        "slug_name": "Thunderstruck",
+        "creation_date": "05/04/2020-23:29:49",
+        "slug_compositor": "AC-DC",
+        "segment_array": [
+            "Intro",
+            "Pre-Chorus and Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/AC-DC/Thunderstruck"
+    },
+    {
+        "song_compositor": "ACDC",
+        "song_name": "You Shook Me All Night Long",
+        "slug_name": "You-Shook-Me-All-Night-Long",
+        "creation_date": "05/04/2020-23:30:50",
+        "slug_compositor": "ACDC",
+        "segment_array": [
+            "Chorus"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/ACDC/You-Shook-Me-All-Night-Long"
+    },
+    {
+        "song_compositor": "ACE",
+        "song_name": "Gaur Plains - Xenoblade Chronicles",
+        "slug_name": "Gaur-Plains---Xenoblade-Chronicles",
+        "creation_date": "05/04/2020-23:31:43",
+        "slug_compositor": "ACE",
+        "segment_array": [
+            "Intro",
+            "Verse"
+        ],
+        "segment_object": {},
+        "url_hooktheory": "https://www.hooktheory.com/theorytab/view/ACE/Gaur-Plains---Xenoblade-Chronicles"
+    }
+]

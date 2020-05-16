@@ -1,0 +1,18 @@
+
+
+for chord blocks  ( MY VERSION)
+(//*[contains(@class,'tab-container')]/div)[4]//*[@data-type='line']//*[@data-type='segment']//*[@data-type='chord-staff']//*[contains(@transform, 'translate') and not(contains(@class, 'gotham'))]
+
+
+
+
+//*[contains(@class, 'times') or contains(@class, 'gotham') or contains(@font-size, 28)]
+
+
+
+TEXT TAGS
+((//*[contains(@class,'tab-container')])[1]//*[@data-type='line']//*[@data-type='segment']//*[@data-type='chord-staff']//*[contains(@transform, 'translate') and not(contains(@class, 'gotham'))])[3]//*[contains(@font-size, '28') or contains(@font-size, '12')]
+
+
+for chord blocks  ( CLIENT VERSION)
+.//*[name()='g']//*[1][name()='text' and contains(@font-size ,'28')]

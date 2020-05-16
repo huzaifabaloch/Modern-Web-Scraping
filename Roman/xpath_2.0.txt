@@ -1,0 +1,3 @@
+
+FoR WIdth and fill
+(((//*[contains(@class,'tab-container')])[1]//*[@data-type='line']//*[@data-type='segment']//*[@data-type='chord-staff']//*[name()='g' and not(contains(@transform, 'translate'))])[1]//*[name()='rect'])[1]/@fill
